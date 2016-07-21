@@ -1,0 +1,27 @@
+No longer a niche technology, hyperconvergence has now been tested in the real world. A new survey shows what it can do, who is using it and how.
+
+Anyone who has followed the tech industry has seen the cycle play out many times before: A new technology comes out and promises to solve all our problems. The hype machine kicks in, the blogosphere buzzes with speculation, and IT departments debate whether or not it is worth the risk. Inevitably, some departments decide to take the plunge, buy the machines and see if they live up to the hype, while the rest of us stand by and wait to see what will happen. The stakes are high, especially when dealing with enterprise-grade technology. If the new equipment is successful and actually delivers, the early adopters get a huge competitive advantage while the rest of us scramble to get on the bus. If the new tech was overhyped and doesn’t live up to the promises, those early adopters suffer the consequences while the rest of us breathe a collective sigh of relief.
+
+Hyperconvergence was just such a technology not very long ago. When it debuted, it was marketed as the solution to every datacenter problem you could imagine. From a marketing perspective that makes total sense. “If in doubt, identify a pain point and promise to solve it” has been the default sales pitch forever, and with good reason. It works. Honestly, how many people do you know that are totally satisfied by anything? One of the best things about human beings is that we constantly seek out new, better ways of doing things. That is the very definition of innovation and it is what keeps us growing and evolving. That marketing strategy is compelling because it promises an easy way out from complex problems and anyone involved in running a datacenter knows all about complex problems.
+
+How hyper is it?
+
+Now that hyperconvergence has been around a little while, there is a lot of great real-world data to be had about what it can do. ActualTech Media has done an amazing survey of hyperconverged appliance users, reaching out to over 500 IT professionals across 40 industries and 17 countries to find out what challenges they face in their datacenters and how hyperconverged solutions are performing. As a result, they’ve come up with the top 10 considerations when buying a hyperconverged infrastructure.
+
+ActualTech Media had the good sense to start by asking respondents about the problems they face in their datacenters. The consensus is that datacenters continue to become more complex and maintaining support staff is increasingly difficult. Many IT professionals reported that they find themselves too busy putting out small fires for other users to actually accomplish anything more than limp-along maintenance. Then there is the usual list of complaints about increased performance expectations, shrinking budgets, data security, etc. These are all important issues. So the question is, “Can hyperconvergence really help?”
+
+Survey says…
+
+The answer seems to be a fairly resounding “Yes!” Hyperconverged solutions are already solving some of the biggest challenges facing datacenters, including VDI, managing ROBO environments, and cloud computing. HPE put together a great infographic describing the many applications of hyperconvergence using data from the ActualTech survey, which you can see here. 
+
+HCTenThingBlog-CTA banner.jpg﻿Is a hyperconverged solution right for your datacenter? To find out…
+
+Actual Tech Media Hyper-Converged Infrastructure in the Modern Enterprise - Executive Summary Report
+Infographic: ActualTech Media: Top 10 Things You Need To Consider When Buying a Hyperconverged Infrastructure
+And if you want more details into the findings register to download:
+
+Datacenter Challenges and Infrastructure Sentiment
+Hyper-Converged Infrastructure Use-cases.
+Curious how can HPE help you better if you are a Dell or EMC customer? We can point you in the right direction
+
+Whitney

@@ -1,0 +1,43 @@
+So what’s the big deal about hyper-converged systems? Are they just another flash-in-the-pan tech fad soon to be supplanted by the next big thing?
+
+The short answer is no. Hyper-converged infrastructure is the next logical step toward the software-defined data center (SDDC). By consolidating IT components into a single, optimized, easy-to-use and easy-to-manage infrastructure, hyper-convergence allows companies to emulate the scale-out architectures of an Amazon, Facebook, or eBay. This is important because in today’s digital economy, IT is fast becoming far more than an enabler of business. Increasingly, it is the business.
+
+Hyper-convergence takes the data center to the next level
+
+A quick glance back at how hyper-convergence has emerged is helpful in understanding it. Hyper-converged infrastructure grew out of converged infrastructure (CI)—pre-configured hardware and software bundled into a single framework. In essence, CI turns disparate data center components into an appliance that can be centrally managed. Converged Infrastructure gives IT a way to apply packaged resources to specific workloads with just the right amount of compute, storage, and network connectivity.
+
+Hyper-convergence (HC) is essentially convergence with a simple-to-use user interface software layer added to it. Whereas converged infrastructures are pre-engineered systems with perhaps a virtualization layer, hyper-converged solutions are software-defined. Here’s another key difference: While the technologies in a CI can be separated and used independently based on optimized configuration, those in a hyper-converged infrastructure are so tightly integrated that they can’t be broken down into separate components. 
+
+new.png﻿ 
+
+Hyper-converged solutions bring IT one step closer to a truly software-defined data center. The software layer lends itself to ever-greater automation—a hallmark of the SDDC—with application programming interfaces (APIs) dictating how control plane applications talk to each other. Ultimately, the idea is to take all of the guesswork out of deploying, provisioning and managing the infrastructure.
+
+A software-defined solution for small and mid-size businesses
+
+One key value of HC platforms is that they bring the SDDC within the reach of smaller and mid-size businesses. They’re also great for larger enterprises that want to set up data centers at branch offices and remote offices. Because it’s a single, compact appliance that can be managed by an IT generalist, an HC platform is ideal for environments with limited IT resources. See Karen Brown’s post Hyper-converged infrastructure: a software-defined data center in a box, for some great examples. It’s a real boon for companies that do a lot of development work, too, as Karen points out. Each development team can have its own dedicated hyper-converged VM platform for its projects.
+
+Whereas planning, building, and configuring a complete virtualized infrastructure from individual components can take weeks of an IT specialist’s time, the right HC solution makes power-on-to-provisioning possible in just minutes.
+
+Choosing the right hyper-converged solution
+
+HC is essentially a turnkey solution, but to achieve the best possible outcomes from your investment in this technology, you’ll want to make sure you choose the right system. Ask your vendor the tough questions, including:
+
+Will it allow me to scale easily, sensibly and without any disruption?
+Will I be able to move data around to accommodate individual device outages?
+Does it provide for multiple hypervisor support?
+What kind of data protection does it provide?
+Is the data fabric integrated, and does it support multi-platform, HC to non-HC failover and replication?
+Is the data protection built into the system without the need for additional software layers?
+What about disaster recovery? Does the solution offer replication?
+Can the solution meet the needs of my business-critical workloads when it comes to processing speed and storage?
+What kinds of protection against downtime can I expect?
+What is the performance overhead of data efficiency features such as dedupe and compression?
+For more info on these points, read the whitepaper: Top 10 Things You Need to Consider When Buying a Hyper-converged Infrastructure.
+
+And of course, you’ll want to take a close look at ROI. By automating routine operations, hyper-convergence improves efficiency and reduces costs. In fact, the ROI can be dramatic, as you can see for yourself with our ROI calculator.
+
+To learn more, register for our e-book: How hyper-convergence can help IT. And for more information about HPE’s new hyper-converged solution check out this webinar replay: www.hpe.com/engage/hyperconverged
+
+#HyperConverged #AcceleratingSimplicity
+
+Said

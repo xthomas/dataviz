@@ -1,0 +1,53 @@
+The data center is more than ever the core of the business – nearly all primary IT functions are housed in, routed through, and coordinated from this hub. Yet, over the years, many data centers have become hard to manage as disparate technologies have been rolled in, requiring increasingly demanding configurations to make everything work together.
+
+The quest for greater datacenter simplicity takes various forms; one that’s attracting a lot of attention these days is hyper-convergence. A new survey report by ActualTech Media seeks to shine a light on today’s data center challenges and to take the market temperature of this emerging technology.
+
+You can read: 
+
+Hyperconverged Infrastructure in the Modern Enterprise Executive Summary 
+And if you want more details into the findings register to download:
+
+Datacenter Challenges and Infrastructure Sentiment
+Hyper-Converged Infrastructure Use-cases.
+If you’re interested in what’s happening in the hyper-converged space and how companies are using these solutions, this is a must-read. I’ll cover just a few of the findings here, the ones that really jumped out at me.
+
+Quantifying data center challenges
+
+Here’s one result that really caught my eye. A slim majority of the 500-plus respondents (55 percent) said that their IT department consistently meets the needs of the business – great news! But at the same time, 29 percent disagreed with the statement that “the existing datacenter environment is easy to manage and does not require subject-matter (resource-specific) experts for each resource.” So clearly there’s some pain around this aspect of managing the datacenter, and this is confirmed by the fact that 45 percent of respondents say it’s hard to maintain staff breadth of knowledge and skills.
+
+Score one for hyper-convergence here, because one of the things it’s really good at is simplifying day-to-day datacenter management tasks to the point where they can be handled by IT staff without specialized skills.
+
+Here’s a snapshot of how respondents see their current datacenter challenges. (Interesting that companies seem pretty confident about deploying private cloud and supporting big data – more so than I would have expected).
+
+for 2.jpg﻿ 
+
+Virtualization has of course been a big part of IT organizations’ success in tackling efficiency challenges for quite a while now. The survey found that only two percent of respondents still haven’t implemented any virtualization in the datacenter. More than two-thirds (67 percent) are now at least 50 percent virtualized, and the number has been steadily growing. So the door is wide open for hyper-convergence, which presupposes a certain amount of virtualization.
+
+Not surprisingly, VMware’s vSphere is the most popular hypervisor in this sample, used by 68 percent of the respondent population. Microsoft’s Hyper-V, however, is gaining, in use at 37 percent of the companies polled, a significant jump from previous surveys.
+
+So where does hyper-convergence fit in?
+
+First off, it’s interesting to note that hyper-converged infrastructure is getting about as much attention as software-defined storage, which has been around for quite a bit longer in the marketplace. Fifty-one percent of the companies polled are considering hyper-convergence for potential adoption, and 52 percent are looking at SDS.
+
+But even more telling, for me, is the fact that 7 percent of respondents say they have already moved their entire computing environment to hyper-converged technology! As the report’s author, Scott Lowe, writes: “This figure may not seem that significant, but as you view the entire storage market, removing 7% of that market from consideration of traditional approaches to storage can be considered the beginnings of a serious market rebalancing.” Indeed.
+
+Another 26 percent have moved some of their infrastructure to hyper-converged systems, and 46 percent are considering doing so.
+
+Is the appeal of hyper-convergence pretty much limited to smaller companies? Not really. The numbers are a bit murky here, because companies that report that they have no intention of deploying it tend to be smaller organizations. But the survey suggests that if anything, HC is of more interest to larger businesses than to smaller ones.
+
+So this brings us to the big questions – what are IT’s hopes and expectations for hyper-convergence, and how well is the technology meeting them?
+
+The outcome most hoped for or expected was cost savings. No huge surprise there. Next came three tied outcomes: improved infrastructure availability, improved operations efficiency, and ease of scaling or growing the environment. The fact that none of the presented possible outcomes received a very low rating suggests that IT decision-makers have high hopes across the board for hyper-convergence.
+
+2 for 2.jpg﻿
+
+The extent to which companies are achieving these goals depends largely on what they’re using the technology for. I won’t go into the specific use cases for HC here, since the report on hyper-converged infrastructure use cases does a great job of examining them in some depth. It’s well worth your time to look through the full survey if you’re interested in:
+
+Virtual Desktop Infrastructure (VDI)—Learn who’s doing VDI and who’s not, and how those that are assess their experiences with hyper-converged systems.
+Remote Office/Branch Office (ROBO) Support—What are the challenges that companies face, and how does HC help?
+Private and Public Cloud Plans—While public cloud isn’t necessarily related to hyper-convergence, private cloud certainly is. Find out how hyper-converged infrastructures can be a key enabler for private clouds.
+To learn more about HPE’s new hyper-converged solution announcing next week, register for the upcoming webinar at www.hpe.com/engage/hyperconverged
+
+#HyperConverged #AcceleratingSimplicity
+
+Said
