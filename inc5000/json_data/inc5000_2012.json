@@ -2702,7 +2702,6 @@
 		"industry": "Consumer Products & Services",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 21095,
 		"rank": 161,
@@ -17629,7 +17628,6 @@
 		"industry": "Software",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 21586,
 		"rank": 1040,
@@ -21965,7 +21963,6 @@
 		"industry": "Construction",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 17425,
 		"rank": 1295,
@@ -22153,7 +22150,6 @@
 		"industry": "Energy",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 19679,
 		"rank": 1307,
@@ -23360,7 +23356,6 @@
 		"industry": "Real Estate",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 19894,
 		"rank": 1379,
@@ -23480,7 +23475,6 @@
 		"industry": "Advertising & Marketing",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 20397,
 		"rank": 1387,
@@ -32372,7 +32366,6 @@
 		"industry": "Health",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 902,
 		"rank": 1911,
@@ -37422,7 +37415,7 @@
 		"industry": "Insurance",
 		"yrs_on_list": 3
 	},
-	null,
+
 	{
 		"id": 343,
 		"rank": 2209,
@@ -40551,7 +40544,6 @@
 		"industry": "Telecommunications",
 		"yrs_on_list": 5
 	},
-	null,
 	{
 		"id": 7380,
 		"rank": 2394,
@@ -50786,7 +50778,6 @@
 		"industry": "Food & Beverage",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 1556,
 		"rank": 2996,
@@ -52945,7 +52936,6 @@
 		"industry": "Human Resources",
 		"yrs_on_list": 6
 	},
-	null,
 	{
 		"id": 284,
 		"rank": 3124,
@@ -65033,7 +65023,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 1809,
 		"rank": 3836,
@@ -66479,7 +66468,6 @@
 		"industry": "Health",
 		"yrs_on_list": 6
 	},
-	null,
 	{
 		"id": 3884,
 		"rank": 3922,
@@ -67771,7 +67759,7 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 2
 	},
-	null,
+
 	{
 		"id": 9755,
 		"rank": 3999,
@@ -74163,7 +74151,6 @@
 		"industry": "Telecommunications",
 		"yrs_on_list": 4
 	},
-	null,
 	{
 		"id": 22642,
 		"rank": 4376,
@@ -82238,7 +82225,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 18956,
 		"rank": 4853,

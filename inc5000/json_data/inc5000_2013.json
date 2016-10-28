@@ -271,7 +271,6 @@
 		"industry": "Computer Hardware",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 20972,
 		"rank": 18,
@@ -1275,7 +1274,6 @@
 		"industry": "IT Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 22948,
 		"rank": 78,
@@ -1514,7 +1512,6 @@
 		"industry": "Financial Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 19303,
 		"rank": 93,
@@ -4490,7 +4487,7 @@
 		"industry": "IT Services",
 		"yrs_on_list": 2
 	},
-	null,
+
 	{
 		"id": 23080,
 		"rank": 270,
@@ -14844,7 +14841,6 @@
 		"industry": "Software",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 23418,
 		"rank": 880,
@@ -23820,7 +23816,6 @@
 		"industry": "Food & Beverage",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 22297,
 		"rank": 1409,
@@ -24212,7 +24207,6 @@
 		"industry": "Human Resources",
 		"yrs_on_list": 5
 	},
-	null,
 	{
 		"id": 2309,
 		"rank": 1433,
@@ -25573,7 +25567,6 @@
 		"industry": "Financial Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 23650,
 		"rank": 1514,
@@ -27665,7 +27658,6 @@
 		"industry": "Telecommunications",
 		"yrs_on_list": 4
 	},
-	null,
 	{
 		"id": 17764,
 		"rank": 1638,
@@ -29876,8 +29868,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 1
 	},
-	null,
-	null,
 	{
 		"id": 23747,
 		"rank": 1770,
@@ -37290,7 +37280,6 @@
 		"industry": "Advertising & Marketing",
 		"yrs_on_list": 2
 	},
-	null,
 	{
 		"id": 23900,
 		"rank": 2207,
@@ -38294,7 +38283,6 @@
 		"industry": "Energy",
 		"yrs_on_list": 3
 	},
-	null,
 	{
 		"id": 23922,
 		"rank": 2267,
@@ -38788,7 +38776,6 @@
 		"industry": "Advertising & Marketing",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 22689,
 		"rank": 2297,
@@ -41764,7 +41751,6 @@
 		"industry": "Consumer Products & Services",
 		"yrs_on_list": 4
 	},
-	null,
 	{
 		"id": 23973,
 		"rank": 2473,
@@ -47477,7 +47463,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 7
 	},
-	null,
 	{
 		"id": 1230,
 		"rank": 2810,
@@ -49620,7 +49605,6 @@
 		"industry": "Manufacturing",
 		"yrs_on_list": 6
 	},
-	null,
 	{
 		"id": 17715,
 		"rank": 2937,
@@ -55044,7 +55028,6 @@
 		"industry": "IT Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 486,
 		"rank": 3257,
@@ -57595,7 +57578,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 24212,
 		"rank": 3408,
@@ -58259,7 +58241,6 @@
 		"industry": "Financial Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 21872,
 		"rank": 3447,
@@ -58413,7 +58394,6 @@
 		"industry": "Environmental Services",
 		"yrs_on_list": 7
 	},
-	null,
 	{
 		"id": 2871,
 		"rank": 3457,
@@ -62069,7 +62049,6 @@
 		"industry": "Manufacturing",
 		"yrs_on_list": 6
 	},
-	null,
 	{
 		"id": 18173,
 		"rank": 3673,
@@ -63226,7 +63205,6 @@
 		"industry": "Business Products & Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 22350,
 		"rank": 3742,
@@ -66933,7 +66911,6 @@
 		"industry": "Engineering",
 		"yrs_on_list": 2
 	},
-	null,
 	{
 		"id": 24367,
 		"rank": 3961,
@@ -69382,7 +69359,6 @@
 		"industry": "Health",
 		"yrs_on_list": 2
 	},
-	null,
 	{
 		"id": 18273,
 		"rank": 4106,
@@ -79906,7 +79882,6 @@
 		"industry": "IT Services",
 		"yrs_on_list": 1
 	},
-	null,
 	{
 		"id": 20649,
 		"rank": 4726,
