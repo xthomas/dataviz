@@ -1,0 +1,461 @@
+,Unnamed: 0,city,state_l,metro,revenue,url,industry,workers,rank,id,yrs_on_list,growth,ifmid,ifiid,state_s,company
+4,4,Boston,Massachusetts,Boston,87036000,dataxu,Advertising & Marketing,220,5,22894,1,21337.4384,6,5,MA,DataXu
+7,7,San Francisco,California,San Francisco,23858231,emerge-digital-group,Advertising & Marketing,75,8,22897,1,17064.0715,4,5,CA,Emerge Digital Group
+11,11,San Francisco,California,San Francisco,34121000,adroll,Advertising & Marketing,200,12,20974,2,15064.8889,4,5,CA,AdRoll
+18,18,Cupertino,California,San Jose,26799334,bluekai,Advertising & Marketing,107,20,22905,1,9245.497,20,5,CA,BlueKai
+25,25,Boulder,Colorado,"Boulder, CO",12555504,trada,Advertising & Marketing,75,27,22908,1,8100.9053,31,5,CO,Trada
+28,28,New York,New York,New York City,8066424,sailthru,Advertising & Marketing,79,30,22911,1,7322.1789,9,5,NY,Sailthru
+35,35,New York,New York,New York City,17967652,yellowhammer,Advertising & Marketing,27,37,22918,1,6739.9472,9,5,NY,YellowHammer
+36,36,New York,New York,New York City,7139438,conductor,Advertising & Marketing,89,38,17365,2,6701.6024,9,5,NY,Conductor
+45,45,Irvine,California,Los Angeles,13840594,29-prime,Advertising & Marketing,300,47,20998,2,5443.3109,2,5,CA,29 Prime
+49,49,Fort Collins,Colorado,"Fort Collins, CO",6901850,madwire,Advertising & Marketing,127,51,22925,1,5254.2559,1009,5,CO,Madwire
+52,52,Denver,Colorado,Denver,11418569,altitude-digital,Advertising & Marketing,21,54,21011,2,5162.0134,30,5,CO,Altitude Digital
+55,55,Newark,California,San Francisco,35566766,lead5-media,Advertising & Marketing,33,57,22930,1,5015.8273,4,5,CA,Lead5 Media
+56,56,Irvine,California,Los Angeles,9639320,egumball,Advertising & Marketing,125,58,17695,4,5014.5387,2,5,CA,eGumball
+61,61,Seattle,Washington,Seattle,7341000,tune,Advertising & Marketing,57,63,22933,1,4836.7855,23,5,WA,TUNE
+66,66,San Francisco,California,San Francisco,6466851,retargeter,Advertising & Marketing,35,68,22938,1,4738.5017,4,5,CA,ReTargeter
+67,67,Saugus,Massachusetts,Boston,4894550,c-4-analytics,Advertising & Marketing,46,69,22939,1,4645.8161,6,5,MA,C-4 Analytics
+68,68,New York,New York,New York City,27916000,33across,Advertising & Marketing,75,70,22940,1,4499.0115,9,5,NY,33Across
+69,69,New York,New York,New York City,6932370,liveintent,Advertising & Marketing,42,71,22941,1,4485.1434,9,5,NY,LiveIntent
+70,70,Redwood City,California,San Francisco,106589000,rocket-fuel,Advertising & Marketing,289,72,22942,1,4451.1956,4,5,CA,Rocket Fuel
+86,86,Boca Raton,Florida,Miami,12034984,skm-media-group,Advertising & Marketing,20,89,22955,1,3751.6509,1,5,FL,SKM Media Group
+100,100,Mount Laurel,New Jersey,Philadelphia,8362768,webimax,Advertising & Marketing,125,104,20999,2,3367.3234,49,5,NJ,Webimax
+119,119,Trumbull,Connecticut,"Bridgeport-Stamford-Norwalk, CT",12100100,asentra,Advertising & Marketing,24,123,19413,3,2963.3165,58,5,CT,Asentra
+126,126,McKinney,Texas,Dallas,3198726,advice-interactive-group,Advertising & Marketing,31,130,21092,2,2807.9327,8,5,TX,Advice Interactive Group
+132,132,Baltimore,Maryland,Baltimore,137512141,videology,Advertising & Marketing,321,136,22984,1,2727.3474,35,5,MD,Videology
+148,148,Santa Monica,California,Los Angeles,59775472,w4,Advertising & Marketing,40,152,22997,1,2515.0148,2,5,CA,W4
+167,167,Needham,Massachusetts,Boston,41532776,extreme-reach,Advertising & Marketing,203,171,23011,1,2348.5936,6,5,MA,Extreme Reach
+180,180,Boston,Massachusetts,Boston,3360907,wordstream,Advertising & Marketing,56,184,23019,1,2224.6163,6,5,MA,WordStream
+182,182,Poway,California,San Diego,2754719,ad-juster,Advertising & Marketing,18,186,23021,1,2217.5385,11,5,CA,Ad-Juster
+217,217,Pasadena,California,Los Angeles,153980000,openx,Advertising & Marketing,276,222,23047,1,1920.7349,2,5,CA,OpenX
+234,234,Emeryville,California,San Francisco,53390749,tubemogul,Advertising & Marketing,165,239,21080,2,1802.5094,4,5,CA,TubeMogul
+235,235,JERSEY CITY,New Jersey,New York City,2515766,iquanti,Advertising & Marketing,50,240,23059,1,1795.9869,9,5,NJ,iQuanti
+242,242,Indianapolis,Indiana,"Indianapolis, IN",3740544,trendyminds,Advertising & Marketing,29,247,23065,1,1757.8338,81,5,IN,TrendyMinds
+245,245,New York,New York,New York City,12393534,gravity-media,Advertising & Marketing,15,250,23067,1,1723.5305,9,5,NY,Gravity Media
+250,250,Greenacres,Florida,Miami,6650000,transcend-media,Advertising & Marketing,107,255,23070,1,1673.0969,1,5,FL,Transcend Media
+267,267,Ft. Lauderdale,Florida,Miami,3409652,full-circle-marketing,Advertising & Marketing,14,273,21134,2,1586.8693,1,5,FL,Full Circle Marketing
+279,279,Portland,Oregon,"Portland, OR",23673000,set,Advertising & Marketing,52,285,23090,1,1528.3858,10,5,OR,SET
+285,285,Irvine,California,Los Angeles,5337847,column-five,Advertising & Marketing,42,291,23094,1,1503.5301,2,5,CA,Column Five
+298,298,Nashville,Tennessee,CBSA Metro Region,11750390,reboot-marketing,Advertising & Marketing,7,304,23104,1,1427.9257,977,5,TN,Reboot Marketing
+328,328,Bellaire,Texas,"Ashtabula, OH",2230375,fuelfx,Advertising & Marketing,31,334,23124,1,1290.6902,653,5,TX,FuelFX
+352,352,St. Louis Park,Minnesota,Minneapolis,17118715,magnet-360,Advertising & Marketing,71,358,23140,1,1230.8949,13,5,MN,Magnet 360
+353,353,Needham,Massachusetts,Boston,3323489,acceleration-partners,Advertising & Marketing,15,359,23141,1,1226.8375,6,5,MA,Acceleration Partners
+362,362,Morrisville,North Carolina,"Durham-Chapel Hill, NC",9002000,netsertive,Advertising & Marketing,73,368,23145,1,1193.3908,56,5,NC,Netsertive
+364,364,Ramsey,New Jersey,New York City,2852449,rethink-ramsey-nj,Advertising & Marketing,22,370,23147,1,1186.0281,9,5,NJ,"Re:think (Ramsey, NJ)"
+367,367,West Chicago,Illinois,Chicago,4491898,evo-exhibits,Advertising & Marketing,22,373,23150,1,1184.3939,17,5,IL,Evo Exhibits
+369,369,Chicago,Illinois,Chicago,7858317,action-lead-solutions,Advertising & Marketing,12,375,23152,1,1180.7782,17,5,IL,Action Lead Solutions
+370,370,San Francisco,California,San Francisco,17168718,martini-media,Advertising & Marketing,50,376,23153,1,1176.6384,4,5,CA,Martini Media
+380,380,Cranston,Rhode Island,"Providence-New Bedford-Fall River, RI-MA",8814495,seven-swords-media,Advertising & Marketing,29,386,23160,1,1155.7763,55,5,RI,Seven Swords Media
+383,383,Cedar Knolls,New Jersey,New York City,28142981,marketsmith,Advertising & Marketing,23,389,23162,1,1137.652,9,5,NJ,Marketsmith
+390,390,Austin,Texas,Dallas,10882518,adscend-media,Advertising & Marketing,8,396,23168,1,1123.4999,8,5,TX,Adscend Media
+412,412,New York,New York,New York City,9369733,grok,Advertising & Marketing,19,418,23181,1,1077.2633,9,5,NY,Grok
+438,438,Los Angeles,California,Los Angeles,11305000,adcolony,Advertising & Marketing,53,444,23197,1,1028.2435,2,5,CA,AdColony
+444,444,Brooklyn,New York,New York City,7216000,carrot-creative,Advertising & Marketing,45,450,23202,1,1023.676,9,5,NY,Carrot Creative
+447,447,Boston,Massachusetts,Boston,16742107,brafton,Advertising & Marketing,263,453,21016,2,1014.1773,6,5,MA,Brafton
+448,448,Springfield,Missouri,"Springfield, MO",2362682,classy-llama,Advertising & Marketing,26,454,23205,1,1008.3714,102,5,MO,Classy Llama
+450,450,Los Angeles,California,Los Angeles,5755000,dogs-bollocks-db5,Advertising & Marketing,27,456,21360,2,1006.7308,2,5,CA,Dogs Bollocks DB5
+456,456,Seattle,Washington,Seattle,5890936,add3,Advertising & Marketing,18,462,23209,1,1000.0506,23,5,WA,Add3
+466,466,Granville,Ohio,"Columbus, OH",2513835,revlocal,Advertising & Marketing,136,472,23215,1,982.1549,19,5,OH,RevLocal
+469,469,Los Angeles,California,Los Angeles,5648445,jess3,Advertising & Marketing,27,475,21276,2,972.717,2,5,CA,JESS3
+485,485,Phoenix,Arizona,Phoenix,3278295,owens-harkey-advertising,Advertising & Marketing,22,491,23228,1,930.8618,46,5,AZ,Owens Harkey Advertising
+489,489,Elmhurst,Illinois,Chicago,3537717,five-data,Advertising & Marketing,7,495,23230,1,926.6483,17,5,IL,Five Data
+496,496,New York,New York,New York City,3698995,largetail,Advertising & Marketing,12,502,23235,1,909.5951,9,5,NY,Largetail
+546,546,San Francisco,California,San Francisco,22103529,bizo,Advertising & Marketing,117,552,21035,2,818.9663,4,5,CA,Bizo
+548,548,Jupiter,Florida,"Port St. Lucie, FL",3190829,renaissance-interactive-media-group,Advertising & Marketing,50,554,23266,1,818.2321,334,5,FL,Renaissance Interactive Media Group
+555,555,Portola Valley,California,San Francisco,4306863,left-brain-dga,Advertising & Marketing,17,561,23271,1,800.8892,4,5,CA,Left Brain DGA
+562,562,New York,New York,New York City,3892473,localresponse,Advertising & Marketing,25,568,23274,1,794.2478,9,5,NY,LocalResponse
+565,565,San Diego,California,San Diego,13740822,internet-marketing,Advertising & Marketing,60,571,21111,2,790.6436,11,5,CA,Internet Marketing
+568,568,Westminster,Colorado,Denver,15922000,trueffect,Advertising & Marketing,56,574,23277,1,788.2739999999999,30,5,CO,Trueffect
+578,578,Scottsdale,Arizona,Phoenix,38245311,blue-global,Advertising & Marketing,32,584,19339,3,776.3917,46,5,AZ,Blue Global
+580,580,El Segundo,California,Los Angeles,35456568,prodege,Advertising & Marketing,65,586,19237,3,774.2477,2,5,CA,Prodege
+581,581,Mary Esther,Florida,"Pensacola-Ferry Pass-Brent, FL",62295999,advanced-enterprises-of-nw-fl,Advertising & Marketing,346,587,21328,2,773.3586,130,5,FL,Advanced Enterprises of NW FL
+585,585,Boston,Massachusetts,Boston,5846293,fluent-boston-ma,Advertising & Marketing,39,591,23286,1,770.6876,6,5,MA,"Fluent (Boston, MA)"
+591,591,Palm Beach Gardens,Florida,Miami,45177182,ads-direct-media,Advertising & Marketing,20,597,23289,1,767.7195,1,5,FL,Ads Direct Media
+598,598,Venice,California,Los Angeles,13100000,zambezi,Advertising & Marketing,61,604,19597,3,760.8227,2,5,CA,Zambezi
+618,618,Orlando,Florida,"Orlando, FL",5706783,rich-dealers,Advertising & Marketing,30,624,21398,2,734.3518,68,5,FL,Rich Dealers
+641,641,Apex,North Carolina,"Raleigh-Cary, NC",2228312,autoshop-solutions,Advertising & Marketing,23,647,23312,1,709.23,36,5,NC,Autoshop Solutions
+659,659,Plantation,Florida,Miami,16447000,world-web-partners,Advertising & Marketing,22,665,23322,1,690.3412,1,5,FL,World Web Partners
+665,665,Austin,Texas,Austin,9009887,murphy-turner-associates,Advertising & Marketing,30,671,20092,2,679.6178,18,5,TX,Murphy Turner Associates
+669,669,Indianapolis,Indiana,"Indianapolis, IN",10338385,slingshot-seo,Advertising & Marketing,81,675,19249,3,676.2005,81,5,IN,Slingshot SEO
+678,678,Southern Pines,North Carolina,"Southern Pines-Pinehurst, NC",4220541,buycalls,Advertising & Marketing,6,684,23329,1,667.6669999999999,152,5,NC,buyCalls
+684,684,Irvine,California,Los Angeles,2120000,interticket-usa,Advertising & Marketing,8,690,23333,1,662.5899,2,5,CA,Interticket USA
+685,685,Newport Beach,California,Los Angeles,39667000,ymarketing,Advertising & Marketing,37,691,19302,3,662.3871,2,5,CA,ymarketing
+688,688,Gaithersburg,Maryland,"Washington, DC",2971466,blue-corona,Advertising & Marketing,21,694,21104,2,659.5073,3,5,MD,Blue Corona
+689,689,San Diego,California,San Diego,24406866,underground-elephant,Advertising & Marketing,65,695,23335,1,659.2226,11,5,CA,Underground Elephant
+690,690,Worthington,Ohio,"Columbus, OH",7887686,farmer-lumpe-mcclelland-advertising-agency,Advertising & Marketing,37,696,21547,2,657.8666,19,5,OH,"Farmer, Lumpe, & McClelland Advertising Agency"
+701,701,Falls Church,Virginia,"Washington, DC",2525001,hubshout,Advertising & Marketing,25,707,23341,1,647.867,3,5,VA,HubShout
+703,703,Melville,New York,New York City,7472969,driven-local,Advertising & Marketing,28,709,21218,2,645.0617,9,5,NY,Driven Local
+704,704,Portland,Oregon,"Portland, OR",12259347,citizen,Advertising & Marketing,32,710,23343,1,644.6909,10,5,OR,Citizen
+715,715,Idaho Falls,Idaho,"Idaho Falls, ID",4829796,netmark,Advertising & Marketing,64,721,23348,1,640.0138,148,5,ID,Netmark
+722,722,New York,New York,New York City,2118667,vector-media-group,Advertising & Marketing,12,728,23354,1,630.4892,9,5,NY,Vector Media Group
+759,759,San Francisco,California,San Francisco,7097249,paperg,Advertising & Marketing,30,765,23370,1,596.3788,4,5,CA,PaperG
+775,775,Chicago,Illinois,Chicago,19469682,rise-interactive,Advertising & Marketing,72,781,17579,4,582.927,17,5,IL,Rise Interactive
+781,781,Washington,District of Columbia,"Washington, DC",4074472,istrategylabs,Advertising & Marketing,23,787,23376,1,578.9384,3,5,DC,iStrategyLabs
+798,798,Mandeville,Louisiana,"New Orleans-Metairie-Kenner, LA",11192000,innovative-advertising,Advertising & Marketing,20,804,23383,1,561.075,33,5,LA,Innovative Advertising
+809,809,Saratoga Springs,New York,"Albany-Schenectady-Troy, NY",9539893,fingerpaint,Advertising & Marketing,67,815,23391,1,554.544,146,5,NY,Fingerpaint
+816,816,Culver City,California,Los Angeles,4276256,dash-two,Advertising & Marketing,8,822,23393,1,547.382,2,5,CA,Dash Two
+821,821,Brooklyn Park,Minnesota,Minneapolis,2074000,proforma-powerhouse-solutions,Advertising & Marketing,3,827,23397,1,544.0994,13,5,MN,Proforma Powerhouse Solutions
+823,823,Saratoga,California,San Jose,4050187,stage-4-solutions,Advertising & Marketing,31,829,21924,2,540.674,20,5,CA,Stage 4 Solutions
+824,824,New York,New York,New York City,6565000,launchpad-advertising,Advertising & Marketing,40,830,21281,2,540.4878,9,5,NY,Launchpad Advertising
+833,833,Kaukauna,Wisconsin,"Green Bay, WI",4096485,exclusivecpa,Advertising & Marketing,5,839,23403,1,533.1859,282,5,WI,ExclusiveCPA
+843,843,Kansas City,Missouri,"Kansas City, MO-KS",7127803,meers-advertising,Advertising & Marketing,22,849,19941,3,524.9805,21,5,MO,Meers Advertising
+858,858,Mohnton,Pennsylvania,"Lancaster, PA",5386091,mail-shark,Advertising & Marketing,25,864,21234,2,517.8495,305,5,PA,Mail Shark
+868,868,Chicago,Illinois,Chicago,2105616,no-limit-agency,Advertising & Marketing,21,874,23415,1,508.2203,17,5,IL,No Limit Agency
+889,889,New York,New York,New York City,8694000,optimatic-media,Advertising & Marketing,8,896,23427,1,496.7056,9,5,NY,Optimatic Media
+891,891,Duluth,Minnesota,"Duluth, MN-WI",4161447,aimclear,Advertising & Marketing,23,898,21296,2,493.5783,343,5,MN,Aimclear
+892,892,Miami,Florida,Miami,73225897,ims---internet-media-services,Advertising & Marketing,129,899,23428,1,492.8118,1,5,FL,IMS - Internet Media Services
+893,893,Akron,Ohio,"Akron, OH",2098192,outerbox-solutions,Advertising & Marketing,30,900,21316,2,492.2111,34,5,OH,OuterBox Solutions
+916,916,Evanston,Illinois,Chicago,16286885,l2tmedia,Advertising & Marketing,37,923,21478,2,474.9037,17,5,IL,L2TMedia
+918,918,Sellersburg,Indiana,"Louisville/Jefferson County, KY-IN",2109512,day-online-solutions,Advertising & Marketing,2,925,21106,2,472.4871,630,5,IN,Day Online Solutions
+921,921,Pasadena,California,Los Angeles,23947240,ratespecial-interactive,Advertising & Marketing,35,928,20981,2,469.4704,2,5,CA,RateSpecial Interactive
+951,951,San Jose,California,San Jose,2111594,tanis-communications,Advertising & Marketing,7,958,23451,1,452.7342,20,5,CA,Tanis Communications
+952,952,Chicago,Illinois,Chicago,2048351,punchkick-interactive,Advertising & Marketing,27,959,23452,1,452.2874,17,5,IL,Punchkick Interactive
+963,963,Emeryville,California,San Francisco,7695630,webmarketing123,Advertising & Marketing,34,970,21275,2,444.9171,4,5,CA,WebMarketing123
+972,972,Webb City,Missouri,"Joplin, MO",6055000,infinity-publishing-group,Advertising & Marketing,23,979,23465,1,439.1808,273,5,MO,Infinity Publishing Group
+992,992,Herndon,Virginia,"Washington, DC",12200759,tier10,Advertising & Marketing,53,999,23473,1,429.8184,3,5,VA,Tier10
+994,994,Chicago,Illinois,Chicago,10933843,ifbyphone,Advertising & Marketing,80,1001,21156,2,429.0328,17,5,IL,IfByPhone
+999,999,Norwalk,Connecticut,"Bridgeport-Stamford-Norwalk, CT",12408769,inspira-marketing,Advertising & Marketing,27,1006,21004,2,427.7612,58,5,CT,Inspira Marketing
+1003,1003,New York,New York,New York City,7093708,resolute-digital,Advertising & Marketing,28,1010,5293,1,426.4836,9,5,NY,Resolute Digital
+1008,1008,Cary,North Carolina,"Raleigh-Cary, NC",13148437,ignite-social-media,Advertising & Marketing,101,1015,21493,2,422.8999,36,5,NC,Ignite Social Media
+1011,1011,Citrus Heights,California,"Sacramento, CA",3079007,retail-radio,Advertising & Marketing,19,1018,21365,2,422.5884,1011,5,CA,Retail Radio
+1043,1043,Lynnwood,Washington,Seattle,2456919,richter102-media-group,Advertising & Marketing,50,1050,23493,1,404.8481,23,5,WA,Richter10.2 Media Group
+1058,1058,Baltimore,Maryland,Baltimore,26228000,doublepositive,Advertising & Marketing,70,1065,2242,2,396.8365,35,5,MD,DoublePositive
+1060,1060,West Islip,New York,New York City,3350000,dionysus-consulting,Advertising & Marketing,22,1067,23501,1,396.2963,9,5,NY,Dionysus Consulting
+1084,1084,New York,New York,New York City,14190000,blue-fountain-media,Advertising & Marketing,180,1091,19554,3,384.6311,9,5,NY,Blue Fountain Media
+1086,1086,Toms River,New Jersey,New York City,6360606,yashi,Advertising & Marketing,16,1093,21527,2,383.9815,9,5,NJ,Yashi
+1088,1088,New York,New York,New York City,3643783,upsurge-media-group,Advertising & Marketing,2,1095,23511,1,383.6908,9,5,NY,UpSurge Media Group
+1096,1096,San Francisco,California,San Francisco,4093335,highwire-public-relations,Advertising & Marketing,23,1103,23516,1,379.5968,4,5,CA,Highwire Public Relations
+1122,1122,New York,New York,New York City,5049184,likeable-media,Advertising & Marketing,65,1129,19292,3,371.7678,9,5,NY,Likeable Media
+1123,1123,Derwood,Maryland,"Washington, DC",6112143,dealeron,Advertising & Marketing,36,1130,20111,3,371.0737,3,5,MD,DealerOn
+1143,1143,Austin,Texas,Austin,2002000,findmycompanycom,Advertising & Marketing,30,1150,23533,1,363.4259,18,5,TX,FindMyCompany.com
+1148,1148,Greenwood Villiage,Colorado,Denver,77528788,shopathomecom,Advertising & Marketing,128,1155,19649,3,362.6137,30,5,CO,ShopAtHome.com
+1165,1165,San Francisco,California,San Francisco,37240540,spruce-media,Advertising & Marketing,65,1172,23542,1,358.6486,4,5,CA,Spruce Media
+1172,1172,Fort Myers,Florida,"Cape Coral-Fort Myers, FL",2180073,victory-agency,Advertising & Marketing,10,1179,23544,1,356.8267,246,5,FL,Victory Agency
+1174,1174,New York,New York,New York City,9546104,sub-rosa,Advertising & Marketing,28,1181,22235,2,356.3531,9,5,NY,Sub Rosa
+1184,1184,Sarasota,Florida,"Panama City-Lynn Haven, FL",7954290,revenue-universe,Advertising & Marketing,4,1191,23547,1,350.6672,572,5,FL,Revenue Universe
+1190,1190,Sherman Oaks,California,Los Angeles,43268197,triton-digital,Advertising & Marketing,270,1197,21955,2,348.8236,2,5,CA,Triton Digital
+1203,1203,Great Neck,New York,New York City,4291638,trepoint,Advertising & Marketing,15,1210,23553,1,343.3281,9,5,NY,Trepoint
+1216,1216,Austin,Texas,Austin,3661665,sales-engine-international,Advertising & Marketing,28,1223,21794,2,338.2567,18,5,TX,Sales Engine International
+1265,1265,New Orleans,Louisiana,"New Orleans-Metairie, LA",4633094,search-influence,Advertising & Marketing,53,1272,19497,3,321.2333,1010,5,LA,Search Influence
+1278,1278,Herndon,Virginia,"Washington, DC",38405440,team-velocity-marketing,Advertising & Marketing,87,1285,21805,2,317.2833,3,5,VA,Team Velocity Marketing
+1286,1286,New York,New York,New York City,14944112,madison-logic,Advertising & Marketing,51,1293,23578,1,314.3931,9,5,NY,Madison Logic
+1295,1295,Reston,Virginia,"Washington, DC",16753792,resonate,Advertising & Marketing,79,1302,21146,2,312.0932,3,5,VA,Resonate
+1314,1314,Quincy,Massachusetts,Boston,10501000,edvisors,Advertising & Marketing,28,1321,22416,2,306.5245,6,5,MA,Edvisors
+1338,1338,Knoxville,Tennessee,"Knoxville, TN",2763358,pyxl,Advertising & Marketing,22,1345,23596,1,299.4348,99,5,TN,Pyxl
+1341,1341,Portland,Oregon,"Portland, OR",2582000,copious,Advertising & Marketing,17,1348,23597,1,299.0726,10,5,OR,Copious
+1350,1350,New York,New York,New York City,10303001,elite-sem,Advertising & Marketing,40,1357,17855,4,297.92400000000004,9,5,NY,Elite SEM
+1386,1386,Valencia,California,Los Angeles,19633441,scorpion,Advertising & Marketing,97,1393,43661,3,288.8535,2,5,CA,Scorpion
+1394,1394,Chicago,Illinois,Chicago,3219000,target-data,Advertising & Marketing,14,1401,23615,1,286.899,17,5,IL,Target Data
+1424,1424,Simi Valley,California,"Oxnard-Thousand Oaks-Ventura, CA",13496000,bruce-clay,Advertising & Marketing,90,1433,2309,7,280.4912,67,5,CA,Bruce Clay
+1426,1426,Peachtree City,Georgia,Atlanta,2399673,powersports-marketing,Advertising & Marketing,17,1435,23625,1,280.23900000000003,29,5,GA,Powersports Marketing
+1435,1435,Lisle,Illinois,Chicago,356761936,royal-buying-group,Advertising & Marketing,63,1444,46,8,278.0804,17,5,IL,Royal Buying Group
+1451,1451,Cincinnati,Ohio,Cincinnati,2089693,copperfox-marketing,Advertising & Marketing,17,1460,23631,1,273.9213,47,5,OH,Copperfox Marketing
+1470,1470,Chicago,Illinois,Chicago,8958330,all-terrain,Advertising & Marketing,31,1479,2410,5,270.0231,17,5,IL,All Terrain
+1474,1474,Chicago,Illinois,Chicago,2946817,walker-sands-communications,Advertising & Marketing,40,1483,23639,1,269.3392,17,5,IL,Walker Sands Communications
+1480,1480,San Diego,California,San Diego,2478768,vertical-direct-marketing-group,Advertising & Marketing,27,1489,23641,1,267.9297,11,5,CA,Vertical Direct Marketing Group
+1485,1485,Pittsburgh,Pennsylvania,"Pittsburgh, PA",3091627,z-brand-group,Advertising & Marketing,15,1494,23642,1,266.9735,52,5,PA,Z Brand Group
+1486,1486,Gaithersburg,Maryland,"Washington, DC",6543059,aquarius-sports-and-entertainment,Advertising & Marketing,7,1495,23643,1,266.893,3,5,MD,Aquarius Sports and Entertainment
+1492,1492,Duluth,Georgia,Atlanta,13519559,campus-special,Advertising & Marketing,50,1501,18005,4,265.4614,29,5,GA,Campus Special
+1494,1494,Irvington,New York,New York City,6845054,adcorp-media-group,Advertising & Marketing,38,1503,23645,1,265.3523,9,5,NY,AdCorp Media Group
+1509,1509,Raleigh,North Carolina,"Raleigh, NC",5859653,trimark-digital,Advertising & Marketing,22,1519,19467,3,262.6586,1029,5,NC,TriMark Digital
+1517,1517,Atlanta,Georgia,Atlanta,5335339,arke,Advertising & Marketing,50,1527,23658,1,260.8826,29,5,GA,Arke
+1518,1518,Southfield,Michigan,Detroit,14346348,detroit-trading,Advertising & Marketing,21,1528,19745,3,260.5978,50,5,MI,Detroit Trading
+1521,1521,Plano,Texas,Dallas,5576160,vlg,Advertising & Marketing,34,1531,20611,3,260.4979,8,5,TX,VLG
+1525,1525,Overland Park,Kansas,"Kansas City, MO-KS",14475000,deg,Advertising & Marketing,115,1535,20136,3,260.132,21,5,KS,DEG
+1541,1541,Burlington,Vermont,"Burlington-South Burlington, VT",182637141,dealercom,Advertising & Marketing,697,1551,994,7,256.8099,156,5,VT,Dealer.com
+1550,1550,Hollywood,Florida,Miami,39142522,onekreate,Advertising & Marketing,100,1560,23668,1,254.7896,1,5,FL,OneKreate
+1555,1555,New York,New York,New York City,67272950,droga5,Advertising & Marketing,250,1565,23671,1,253.9824,9,5,NY,Droga5
+1561,1561,Plano,Texas,Dallas,2060174,wrightimc,Advertising & Marketing,35,1571,23675,1,252.8608,8,5,TX,WrightIMC
+1578,1578,Salt Lake City,Utah,Salt Lake City,2759216,queen-of-wraps,Advertising & Marketing,32,1588,23683,1,249.7912,12,5,UT,Queen of Wraps
+1586,1586,Newtown,Pennsylvania,Philadelphia,10905495,optimal-strategix-group,Advertising & Marketing,75,1596,17551,4,248.1496,49,5,PA,Optimal Strategix Group
+1591,1591,Birmingham,Alabama,"Birmingham-Hoover, AL",2030524,digital-marketing-services,Advertising & Marketing,14,1601,23685,1,247.2394,140,5,AL,Digital Marketing Services
+1599,1599,New York,New York,New York City,6542518,entermarketing,Advertising & Marketing,35,1609,23687,1,246.5546,9,5,NY,Enter:Marketing
+1616,1616,Las Vegas,Nevada,"Las Vegas-Paradise, NV",2322000,socialradius,Advertising & Marketing,11,1626,23696,1,241.4706,57,5,NV,SocialRadius
+1624,1624,Culver City,California,Los Angeles,8300320,adsupply,Advertising & Marketing,25,1634,23701,1,239.4375,2,5,CA,AdSupply
+1646,1646,Pleasant Grove,Utah,"Provo-Orem, UT",2143095,riser,Advertising & Marketing,16,1657,23709,1,235.2106,48,5,UT,Riser
+1652,1652,Portland,Maine,"Portland-South Portland-Biddeford, ME",2591768,kpi-direct,Advertising & Marketing,20,1663,21610,2,234.2246,98,5,ME,KPI Direct
+1695,1695,New York,New York,New York City,20933284,mkg,Advertising & Marketing,41,1706,23723,1,227.3902,9,5,NY,MKG
+1696,1696,Denver,Colorado,Denver,3329800,volume-nine,Advertising & Marketing,35,1707,21664,2,227.3496,30,5,CO,Volume Nine
+1704,1704,Durham,North Carolina,"Durham, NC",10423714,appia,Advertising & Marketing,51,1715,23725,1,225.9382,509,5,NC,Appia
+1713,1713,Greensboro,North Carolina,"Greensboro-High Point, NC",5395000,web-decisions,Advertising & Marketing,35,1724,21700,2,224.8063,287,5,NC,Web Decisions
+1720,1720,Delray Beach,Florida,Miami,8261913,derflan,Advertising & Marketing,65,1731,19524,3,223.5163,1,5,FL,Derflan
+1725,1725,Beverly,Massachusetts,Boston,6135825,blue-vase-marketing,Advertising & Marketing,94,1736,23732,1,222.4296,6,5,MA,Blue Vase Marketing
+1740,1740,Indianapolis,Indiana,"Indianapolis, IN",7652189,main-event-merchandise-group,Advertising & Marketing,25,1751,23738,1,220.1671,81,5,IN,Main Event Merchandise Group
+1751,1751,Atlanta,Georgia,Atlanta,2798174,brightwave,Advertising & Marketing,20,1762,21702,2,218.2474,29,5,GA,BrightWave
+1752,1752,Sioux Falls,South Dakota,"Sioux Falls, SD",2091428,click-rain,Advertising & Marketing,16,1763,23743,1,218.0632,737,5,SD,Click Rain
+1753,1753,Chicago,Illinois,Chicago,6803452,exact-data,Advertising & Marketing,70,1764,20265,3,218.0113,17,5,IL,Exact Data
+1758,1758,Singer Island,Florida,Miami,5492226,top-marketing-group,Advertising & Marketing,13,1771,23748,1,216.8055,1,5,FL,T.O.P. Marketing Group
+1800,1800,Wellesley,Massachusetts,Boston,2165580,md-connect,Advertising & Marketing,6,1813,23762,1,211.2476,6,5,MA,MD Connect
+1823,1823,Reno,Nevada,"Reno, NV",2676611,noble-studios,Advertising & Marketing,29,1836,23771,1,208.4908,1013,5,NV,Noble Studios
+1838,1838,New Albany,Ohio,"Columbus, OH",3143185,prism-marketing,Advertising & Marketing,14,1851,23776,1,206.2742,19,5,OH,Prism Marketing
+1839,1839,Irvine,California,Los Angeles,5698359,ink-studios,Advertising & Marketing,32,1852,22141,2,206.1754,2,5,CA,INK Studios
+1868,1868,Atlanta,Georgia,Atlanta,19053278,force-marketing,Advertising & Marketing,60,1881,1030,5,202.5935,29,5,GA,Force Marketing
+1874,1874,Miami,Florida,Miami,7377186,max-borges-agency,Advertising & Marketing,43,1887,1696,5,201.6406,1,5,FL,Max Borges Agency
+1876,1876,Charlottesville,Virginia,"Charlottesville, VA",15146979,rimm-kaufman-group,Advertising & Marketing,204,1889,537,3,201.2936,106,5,VA,Rimm-Kaufman Group
+1885,1885,San Dimas,California,Los Angeles,37161384,webmetro,Advertising & Marketing,90,1898,1845,4,200.2015,2,5,CA,WebMetro
+1888,1888,Deer Park,Illinois,Chicago,3738351,qcss,Advertising & Marketing,200,1901,23792,1,199.5198,17,5,IL,QCSS
+1905,1905,Louisville,Kentucky,"Louisville/Jefferson County, KY-IN",7577463,dealer-car-search,Advertising & Marketing,50,1918,23800,1,197.2695,630,5,KY,Dealer Car Search
+1909,1909,Nashville,Tennessee,CBSA Metro Region,9551992,advent,Advertising & Marketing,48,1922,5951,2,196.7628,977,5,TN,Advent
+1918,1918,Greensboro,North Carolina,"Greensboro-High Point, NC",5214614,sfw,Advertising & Marketing,30,1931,22134,2,195.6513,287,5,NC,SFW
+1935,1935,Draper,Utah,Salt Lake City,8799305,seocom,Advertising & Marketing,85,1948,2424,5,194.0504,12,5,UT,SEO.com
+1942,1942,Alpharetta,Georgia,Atlanta,3860384,pure-marketing-group,Advertising & Marketing,11,1955,19703,3,193.3897,29,5,GA,Pure Marketing Group
+1949,1949,Santa Fe Springs,California,Los Angeles,2807811,exhibit-options,Advertising & Marketing,13,1962,23818,1,192.5099,2,5,CA,Exhibit Options
+1958,1958,Charleston,South Carolina,"Charleston-North Charleston, SC",50419113,levelwing,Advertising & Marketing,46,1971,17701,4,191.9036,536,5,SC,Levelwing
+1959,1959,Minneapolis,Minnesota,Minneapolis,90664000,olson,Advertising & Marketing,350,1972,21784,5,191.0468,13,5,MN,Olson
+1960,1960,Grand Rapids,Michigan,"Grand Rapids-Wyoming, MI",2941160,mindscape-at-hanon-mckendry,Advertising & Marketing,26,1973,21995,2,190.7922,219,5,MI,Mindscape at Hanon McKendry
+1962,1962,Beverly Hills,California,Los Angeles,10919047,YURZ,Advertising & Marketing,181,1975,21762,2,190.3844,2,5,CA,YURZ
+1988,1988,Southfield,Michigan,Detroit,13572087,prizelogic,Advertising & Marketing,110,2001,21288,2,186.9612,50,5,MI,prizelogic
+2013,2013,Las Vegas,Nevada,"Las Vegas-Paradise, NV",7563292,best-rate-referrals,Advertising & Marketing,35,2026,17563,4,184.5817,57,5,NV,Best Rate Referrals
+2016,2016,Seattle,Washington,Seattle,3156007,point-it,Advertising & Marketing,21,2029,22291,2,184.4749,23,5,WA,Point It!
+2018,2018,Raleigh,North Carolina,"Raleigh-Cary, NC",3775597,alpha-marketing,Advertising & Marketing,18,2031,22015,2,184.322,36,5,NC,Alpha Marketing
+2038,2038,Bay Head,New Jersey,New York City,2490000,teknicks,Advertising & Marketing,15,2051,19326,3,181.9198,9,5,NJ,Teknicks
+2073,2073,Kansas City,Missouri,"Kansas City, MO-KS",42663755,gragg-advertising,Advertising & Marketing,66,2086,21666,2,178.5805,21,5,MO,Gragg Advertising
+2076,2076,New York,New York,New York City,5563898,react2media,Advertising & Marketing,15,2089,21396,2,177.9952,9,5,NY,React2Media
+2081,2081,Newton,Massachusetts,Boston,5811822,influence-central,Advertising & Marketing,30,2094,19762,3,177.796,6,5,MA,Influence Central
+2084,2084,Salem,Massachusetts,Boston,9285572,net-atlantic,Advertising & Marketing,39,2097,23859,1,177.5509,6,5,MA,Net Atlantic
+2092,2092,Denver,Colorado,Denver,8139000,faction-media,Advertising & Marketing,46,2105,20148,3,177.0252,30,5,CO,Faction Media
+2093,2093,Kirkland,Washington,Seattle,21225813,simplicity-consulting,Advertising & Marketing,154,2106,19247,3,177.0019,23,5,WA,Simplicity Consulting
+2128,2128,San Francisco,California,San Francisco,4303108,datasong,Advertising & Marketing,45,2141,23875,1,173.4109,4,5,CA,DataSong
+2130,2130,Lehi,Utah,"Provo-Orem, UT",5252543,infuse-medical,Advertising & Marketing,37,2143,21671,2,173.3568,48,5,UT,Infuse Medical
+2138,2138,Atlanta,Georgia,Atlanta,4621473,nebo,Advertising & Marketing,40,2151,22017,3,172.6217,29,5,GA,Nebo
+2151,2151,Seattle,Washington,Seattle,14007866,206,Advertising & Marketing,37,2164,19858,3,171.4306,23,5,WA,206
+2157,2157,Austin,Texas,Austin,6578310,somnio,Advertising & Marketing,42,2170,21905,2,170.5259,18,5,TX,Somnio
+2170,2170,Wilmington,Delaware,Philadelphia,5044000,getresponse,Advertising & Marketing,173,2183,23891,1,169.0851,49,5,DE,GetResponse
+2180,2180,Alexandria,Virginia,"Washington, DC",2890182,spire-communications,Advertising & Marketing,16,2193,23894,1,168.4296,3,5,VA,Spire Communications
+2192,2192,Chicago,Illinois,Chicago,3388876,anthem-marketing-solutions,Advertising & Marketing,25,2205,21717,2,167.7542,17,5,IL,Anthem Marketing Solutions
+2195,2195,New York,New York,New York City,25473308,invnt,Advertising & Marketing,44,2209,23902,1,167.399,9,5,NY,inVNT
+2211,2211,Alpharetta,Georgia,Atlanta,8554782,the-pedowitz-group,Advertising & Marketing,51,2225,21305,2,166.2697,29,5,GA,The Pedowitz Group
+2230,2230,Minneapolis,Minnesota,Minneapolis,3539603,nina-hale,Advertising & Marketing,32,2244,23916,1,164.0919,13,5,MN,Nina Hale
+2231,2231,Carlsbad,California,San Diego,15466034,san-diego-sign-company,Advertising & Marketing,91,2245,21928,2,163.9756,11,5,CA,San Diego Sign Company
+2257,2257,Pittsburgh,Pennsylvania,"Pittsburgh, PA",17287222,gatesmandave,Advertising & Marketing,38,2272,23923,1,160.9094,52,5,PA,Gatesman+Dave
+2261,2261,Baltimore,Maryland,Baltimore,2250132,groove-commerce,Advertising & Marketing,26,2276,23924,1,160.5339,35,5,MD,Groove Commerce
+2262,2262,Oradell,New Jersey,New York City,27959041,sigma-oradell-nj,Advertising & Marketing,55,2277,23925,1,160.4962,9,5,NJ,"Sigma (Oradell, NJ)"
+2280,2280,Fort Worth,Texas,Dallas,3828218,the-starr-conspiracy,Advertising & Marketing,32,2295,23931,1,158.7646,8,5,TX,The Starr Conspiracy
+2285,2285,Portland,Oregon,"Portland, OR",2694574,strategic-marketing,Advertising & Marketing,28,2301,23932,1,158.1858,10,5,OR,Strategic Marketing
+2288,2288,San Mateo,California,San Francisco,5574438,clickmail-marketing,Advertising & Marketing,18,2304,773,4,157.9563,4,5,CA,ClickMail Marketing
+2299,2299,The Woodlands,Texas,Houston,6144652,bubbleup,Advertising & Marketing,35,2315,21479,2,157.3689,22,5,TX,BubbleUp
+2300,2300,Boston,Massachusetts,Boston,13025941,genuine-interactive,Advertising & Marketing,80,2316,17808,2,157.3187,6,5,MA,Genuine Interactive
+2327,2327,Overland Park,Kansas,"Kansas City, MO-KS",2208000,sweet-spot-marketing,Advertising & Marketing,12,2343,21315,2,155.2601,21,5,KS,Sweet Spot Marketing
+2341,2341,Denver,Colorado,Denver,24293226,diablo-media,Advertising & Marketing,22,2357,21459,2,153.6313,30,5,CO,Diablo Media
+2345,2345,Burlington,Massachusetts,Boston,5131364,exclusive-concepts,Advertising & Marketing,31,2361,849,5,153.4251,6,5,MA,Exclusive Concepts
+2350,2350,Columbia,Missouri,"Columbia, MO",35793326,true-media,Advertising & Marketing,52,2366,18124,4,152.9464,62,5,MO,True Media
+2356,2356,New York,New York,New York City,4724000,digennaro-communications,Advertising & Marketing,32,2372,22151,3,152.3504,9,5,NY,DiGennaro Communications
+2360,2360,New Haven,Connecticut,"New Haven-Milford, CT",2306264,response-marketing,Advertising & Marketing,19,2376,22662,2,152.1758,70,5,CT,Response Marketing
+2383,2383,New York,New York,New York City,10703827,rain,Advertising & Marketing,74,2399,21962,2,150.6353,9,5,NY,Rain
+2389,2389,New York,New York,New York City,9942592,sullivan,Advertising & Marketing,63,2405,4540,4,150.1525,9,5,NY,Sullivan
+2396,2396,San Francisco,California,Los Angeles,8792209,attack,Advertising & Marketing,55,2412,1515,6,149.5903,2,5,CA,Attack!
+2402,2402,Venice,California,Los Angeles,2288399,left-field-labs,Advertising & Marketing,8,2418,23957,1,149.2264,2,5,CA,Left Field Labs
+2407,2407,Westlake Village,California,Los Angeles,6643910,giant-partners,Advertising & Marketing,55,2423,23959,1,149.0024,2,5,CA,Giant Partners
+2412,2412,Vero Beach,Florida,"Sebastian-Vero Beach, FL",54005000,bridgevine,Advertising & Marketing,100,2428,1370,6,148.7449,187,5,FL,Bridgevine
+2426,2426,Las Vegas,Nevada,"Las Vegas-Paradise, NV",5423000,proforma-gps-global-promotional-sourcing,Advertising & Marketing,7,2442,23966,1,147.5126,57,5,NV,Proforma GPS Global Promotional Sourcing
+2428,2428,San Francisco,California,San Francisco,15626000,hot-studio,Advertising & Marketing,71,2444,1949,6,147.1686,4,5,CA,Hot Studio
+2446,2446,Chicago,Illinois,Chicago,185489638,centro,Advertising & Marketing,341,2462,117,5,145.3799,17,5,IL,Centro
+2454,2454,Plainfield,Illinois,Chicago,18499712,infutor-data-solutions,Advertising & Marketing,53,2470,23972,1,145.1177,17,5,IL,Infutor Data Solutions
+2457,2457,Chicago,Illinois,Chicago,26633000,revolution,Advertising & Marketing,70,2474,18702,4,144.6762,17,5,IL,rEvolution
+2468,2468,Tampa,Florida,Tampa,171322711,triad-retail-media,Advertising & Marketing,289,2485,372,3,143.1579,7,5,FL,Triad Retail Media
+2473,2473,St. Paul,Minnesota,Minneapolis,2771094,oppsource,Advertising & Marketing,29,2490,21391,2,142.4423,13,5,MN,OppSource
+2506,2506,Winter Park,Florida,"Orlando, FL",5026074,hooah,Advertising & Marketing,10,2523,17651,4,140.555,68,5,FL,Hooah
+2510,2510,Oldsmar,Florida,Tampa,15395024,spectrio,Advertising & Marketing,68,2527,2493,6,140.3756,7,5,FL,Spectrio
+2541,2541,Miami,Florida,Miami,10687420,republica,Advertising & Marketing,67,2558,20177,3,138.3668,1,5,FL,Republica
+2596,2596,Brooklyn Heights,Ohio,Cleveland,2010000,proforma-signature-solutions,Advertising & Marketing,14,2613,24002,4,134.8131,79,5,OH,Proforma Signature Solutions
+2609,2609,Austin,Texas,Austin,13807000,bulldog-solutions,Advertising & Marketing,60,2626,3414,7,133.7792,18,5,TX,Bulldog Solutions
+2612,2612,Chicago,Illinois,Chicago,2806364,merge-design-interactive,Advertising & Marketing,17,2629,24006,1,133.675,17,5,IL,Merge Design & Interactive
+2631,2631,Fairfax,Virginia,"Washington, DC",6406035,leapfrog-solutions,Advertising & Marketing,29,2648,6586,5,132.607,3,5,VA,LeapFrog Solutions
+2683,2683,Bellaire,Texas,Houston,4030528,direct-innovations,Advertising & Marketing,7,2700,22782,2,129.8651,22,5,TX,Direct Innovations
+2689,2689,Pleasantville,New York,New York City,2968775,primary-wave-media,Advertising & Marketing,15,2706,24027,1,129.6372,9,5,NY,Primary Wave Media
+2690,2690,Boca Raton,Florida,Miami,5372309,citytwist,Advertising & Marketing,50,2707,18025,3,129.4391,1,5,FL,Citytwist
+2700,2700,Stamford,Connecticut,"Bridgeport-Stamford-Norwalk, CT",10050000,proforma-promotion-consultants,Advertising & Marketing,6,2717,20743,4,128.6169,58,5,CT,Proforma Promotion Consultants
+2701,2701,New York,New York,New York City,9676532,creativefeed,Advertising & Marketing,32,2718,19608,3,128.5274,9,5,NY,CreativeFeed
+2707,2707,Westborough,Massachusetts,"Worcester, MA",4405825,wakefly,Advertising & Marketing,24,2724,22407,2,128.2293,113,5,MA,Wakefly
+2716,2716,Minneapolis,Minnesota,Minneapolis,12281000,broadhead,Advertising & Marketing,51,2733,24033,1,127.6367,13,5,MN,BroadHead
+2728,2728,Nashville,Tennessee,CBSA Metro Region,3715217,centresource,Advertising & Marketing,33,2745,20278,3,127.0976,977,5,TN,CentreSource
+2734,2734,New York,New York,New York City,13482237,iomedia,Advertising & Marketing,133,2751,24037,1,126.6585,9,5,NY,IOMedia
+2741,2741,Lewis Center,Ohio,"Columbus, OH",2957970,minds-on,Advertising & Marketing,13,2758,24041,1,126.2497,19,5,OH,Minds On
+2751,2751,Aurora,Illinois,Chicago,19025900,quality-logo-products,Advertising & Marketing,52,2768,4938,4,125.6366,17,5,IL,Quality Logo Products
+2787,2787,Woodbridge,Virginia,"Washington, DC",2126183,creating-results,Advertising & Marketing,13,2804,9377,4,123.5379,3,5,VA,Creating Results
+2788,2788,New York,New York,New York City,32885859,leaddog-marketing-group,Advertising & Marketing,131,2805,18528,4,123.3657,9,5,NY,LeadDog Marketing Group
+2794,2794,Midwest City,Oklahoma,"Oklahoma City, OK",8055573,leadvision-media,Advertising & Marketing,12,2812,22521,2,122.9037,38,5,OK,LeadVision Media
+2813,2813,New York,New York,New York City,9192424,taylor-creative,Advertising & Marketing,35,2831,24059,1,121.7597,9,5,NY,Taylor Creative
+2822,2822,Pittsburgh,Pennsylvania,"Pittsburgh, PA",3065509,beyond-spots-dots,Advertising & Marketing,15,2840,21910,2,121.1054,52,5,PA,Beyond Spots & Dots
+2831,2831,San Francisco,California,San Francisco,41676984,geary-lsf,Advertising & Marketing,143,2849,24063,4,120.5043,4,5,CA,Geary LSF
+2837,2837,Alpharetta,Georgia,Atlanta,5937866,dodge-communications,Advertising & Marketing,42,2855,1759,5,120.2842,29,5,GA,Dodge Communications
+2855,2855,Seattle,Washington,Seattle,8979000,lenati,Advertising & Marketing,53,2873,20546,2,119.1069,23,5,WA,Lenati
+2875,2875,San Francisco,California,San Francisco,9387224,launchsquad,Advertising & Marketing,85,2893,1186,6,117.9872,4,5,CA,LaunchSquad
+2905,2905,San Francisco,California,San Francisco,12238781,the-sage-group,Advertising & Marketing,62,2923,24081,1,116.3652,4,5,CA,The Sage Group
+2919,2919,Valley View,Ohio,Cleveland,14942374,fathom-valley-view-oh,Advertising & Marketing,121,2938,21992,4,115.6909,79,5,OH,"Fathom (Valley View, OH)"
+2968,2968,Cleveland,Ohio,Cleveland,2838178,thunder-tech,Advertising & Marketing,31,2987,24092,1,113.0451,79,5,OH,Thunder Tech
+2970,2970,CINCINNATI,Ohio,Cincinnati,6066162,deanhouston,Advertising & Marketing,38,2989,22301,2,113.0325,47,5,OH,DEANHOUSTON
+2994,2994,San Francisco,California,San Francisco,92801034,prophet,Advertising & Marketing,228,3013,24098,1,111.4658,4,5,CA,Prophet
+3030,3030,Castle Rock,Colorado,Denver,6895362,myweddingcom,Advertising & Marketing,73,3049,2681,5,109.5366,30,5,CO,mywedding.com
+3033,3033,Mountain View,California,San Jose,20390927,duarte,Advertising & Marketing,106,3052,22240,2,109.4387,20,5,CA,Duarte
+3037,3037,New York,New York,New York City,4541808,vhmnetwork,Advertising & Marketing,10,3056,21790,2,109.3082,9,5,NY,VHMnetwork
+3048,3048,Farmington,Connecticut,"Hartford-West Hartford-East Hartford, CT",14991747,primacy,Advertising & Marketing,77,3067,24111,1,108.9188,100,5,CT,Primacy
+3076,3076,Saint Charles,Missouri,"St. Louis, MO-IL",4488351,borgmeyer-marketing-group,Advertising & Marketing,13,3095,24117,1,107.035,74,5,MO,Borgmeyer Marketing Group
+3087,3087,Le Claire,Iowa,"Davenport-Moline-Rock Island, IA-IL",2148746,mindfire-communications,Advertising & Marketing,14,3106,24124,1,106.55799999999999,37,5,IA,MindFire Communications
+3098,3098,New York,New York,New York City,8161000,team-epiphany,Advertising & Marketing,37,3117,17976,5,105.8779,9,5,NY,Team Epiphany
+3118,3118,Oklahoma City,Oklahoma,"Oklahoma City, OK",4677966,wilson-perkins-allen-opinion-research,Advertising & Marketing,16,3137,24135,1,104.7686,38,5,OK,Wilson Perkins Allen Opinion Research
+3127,3127,New York,New York,New York City,4028850,verge-marketing,Advertising & Marketing,21,3146,24137,3,104.4405,9,5,NY,Verge Marketing
+3134,3134,New York,New York,New York City,53796000,juice-pharma-worldwide,Advertising & Marketing,186,3153,4069,7,103.9272,9,5,NY,Juice Pharma Worldwide
+3138,3138,Farmington Hills,Michigan,Detroit,12865906,eview-360,Advertising & Marketing,34,3157,17888,3,103.8321,50,5,MI,Eview 360
+3143,3143,Baltimore,Maryland,Baltimore,10470662,planit,Advertising & Marketing,60,3162,9398,2,103.4812,35,5,MD,Planit
+3148,3148,Bolingbrook,Illinois,Chicago,15633980,tobe-direct,Advertising & Marketing,55,3167,22057,2,103.3109,17,5,IL,Tobe Direct
+3160,3160,Providence,Rhode Island,"Providence-New Bedford-Fall River, RI-MA",9922923,addventures,Advertising & Marketing,40,3179,3802,9,102.7568,55,5,RI,(add)ventures
+3163,3163,Milwaukee,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",5697470,core-creative,Advertising & Marketing,31,3182,24145,1,102.3584,27,5,WI,Core Creative
+3167,3167,Orlando,Florida,"Orlando, FL",9438153,akt-enterprises,Advertising & Marketing,137,3186,17617,3,102.1682,68,5,FL,AKT Enterprises
+3183,3183,Cerritos,California,Los Angeles,7803000,ace-exhibits,Advertising & Marketing,42,3202,20147,3,101.212,2,5,CA,Ace Exhibits
+3184,3184,Boston,Massachusetts,Boston,9170447,verndale,Advertising & Marketing,87,3203,2449,7,101.1847,6,5,MA,Verndale
+3209,3209,St. Paul,Minnesota,Minneapolis,6152059,three-deep-marketing,Advertising & Marketing,50,3228,17942,4,100.2417,13,5,MN,Three Deep Marketing
+3216,3216,Tempe,Arizona,Phoenix,9368000,bluemedia,Advertising & Marketing,74,3235,5645,5,100.0,46,5,AZ,bluemedia
+3222,3222,Irvine,California,Los Angeles,3656057,rhythm,Advertising & Marketing,19,3241,24162,1,99.7415,2,5,CA,Rhythm
+3232,3232,New York,New York,New York City,2251551,modus-associates,Advertising & Marketing,9,3251,24168,1,99.2021,9,5,NY,Modus Associates
+3246,3246,Costa Mesa,California,Los Angeles,9202454,local-splash,Advertising & Marketing,152,3266,17340,4,97.9776,2,5,CA,Local Splash
+3268,3268,Winder,Georgia,Atlanta,7800000,inkhead,Advertising & Marketing,22,3288,3798,6,97.0194,29,5,GA,InkHead
+3269,3269,Rochester,New York,"Rochester, NY",123570070,butlertill-media-communications,Advertising & Marketing,73,3289,18250,3,97.009,71,5,NY,Butler/Till Media & Communications
+3270,3270,Seattle,Washington,Seattle,6818771,denny-mountain-media,Advertising & Marketing,70,3290,24179,1,96.9915,23,5,WA,Denny Mountain Media
+3279,3279,Wayne,Pennsylvania,Philadelphia,5018295,focus-forward,Advertising & Marketing,75,3299,20173,3,96.2971,49,5,PA,Focus Forward
+3315,3315,Los Angeles,California,Los Angeles,3217681,soap-creative,Advertising & Marketing,25,3335,24192,1,94.8857,2,5,CA,Soap Creative
+3319,3319,Richmond,Virginia,"Richmond, VA",29081647,barber-martin-agency,Advertising & Marketing,29,3339,12897,5,94.5707,40,5,VA,Barber Martin Agency
+3327,3327,Fargo,North Dakota,"Fargo, ND-MN",10372813,sundog,Advertising & Marketing,96,3347,22499,2,93.8024,118,5,ND,Sundog
+3334,3334,Pittsburgh,Pennsylvania,"Pittsburgh, PA",12516933,hds,Advertising & Marketing,48,3354,24196,1,93.6946,52,5,PA,HDS
+3348,3348,Margate,Florida,Miami,226768114,saveologycom,Advertising & Marketing,1528,3368,4499,7,92.7342,1,5,FL,Saveology.com
+3353,3353,Boise,Idaho,"Boise City-Nampa, ID",8947900,daviesmoore,Advertising & Marketing,15,3373,21890,2,92.5073,159,5,ID,DaviesMoore
+3371,3371,Irvine,California,Los Angeles,6274000,restoration-media,Advertising & Marketing,33,3391,18155,3,91.8654,2,5,CA,Restoration Media
+3384,3384,Oakland,California,San Francisco,5154353,alpi-international,Advertising & Marketing,30,3404,22456,2,91.4286,4,5,CA,Alpi International
+3389,3389,New York,New York,New York City,12518123,formula-pr,Advertising & Marketing,92,3410,20418,3,90.8637,9,5,NY,Formula PR
+3410,3410,Oklahoma City,Oklahoma,"Oklahoma City, OK",4255489,funnel-design-group,Advertising & Marketing,13,3430,24217,1,90.1989,38,5,OK,Funnel Design Group
+3443,3443,Beaverton,Oregon,"Portland, OR",22533000,opus-events-agency,Advertising & Marketing,85,3465,24232,1,88.7977,10,5,OR,Opus Events Agency
+3453,3453,Greenville,South Carolina,"Greenville-Mauldin-Easley, SC",2151489,worthwhile,Advertising & Marketing,25,3475,24235,1,88.3542,107,5,SC,Worthwhile
+3466,3466,Columbus,Ohio,"Columbus, OH",4291531,skyline-exhibits-of-central-ohio,Advertising & Marketing,16,3488,24242,1,87.8565,19,5,OH,Skyline Exhibits of Central Ohio
+3469,3469,Agoura Hills,California,Los Angeles,12957000,national-positions,Advertising & Marketing,128,3491,110,5,87.7826,2,5,CA,National Positions
+3507,3507,San Diego,California,San Diego,4486731,rescue-|-the-behavior-change-agency,Advertising & Marketing,34,3529,1170,5,86.4996,11,5,CA,Rescue | The Behavior Change Agency
+3526,3526,San Jose,California,San Jose,9811419,envision-technology-marketing-group,Advertising & Marketing,35,3548,7211,2,85.7053,20,5,CA,Envision Technology Marketing Group
+3527,3527,New York,New York,New York City,4095411,influence-graphics,Advertising & Marketing,24,3549,20587,3,85.6999,9,5,NY,Influence Graphics
+3529,3529,Austin,Texas,Austin,11676503,adlucent,Advertising & Marketing,83,3551,73,3,85.6514,18,5,TX,Adlucent
+3533,3533,Winston-Salem,North Carolina,"Winston-Salem, NC",2587393,concinnity-marketing,Advertising & Marketing,25,3555,24259,1,85.5194,245,5,NC,Concinnity Marketing
+3534,3534,Wayne,Nebraska,"Sioux City, IA-NE-SD",7300143,beck-ag,Advertising & Marketing,16,3556,6827,4,85.51100000000001,709,5,NE,Beck Ag
+3550,3550,Farmington Hills,Michigan,Detroit,10877519,duffey-petrosky,Advertising & Marketing,75,3572,4114,5,85.0242,50,5,MI,Duffey Petrosky
+3555,3555,Los Angeles,California,Los Angeles,12272538,sensis,Advertising & Marketing,39,3577,367,6,84.6921,2,5,CA,Sensis
+3558,3558,Hillsboro,Oregon,"Portland, OR",31742385,pinnacle-exhibits,Advertising & Marketing,114,3580,24263,1,84.5675,10,5,OR,Pinnacle Exhibits
+3564,3564,Seattle,Washington,Seattle,3740000,portent,Advertising & Marketing,38,3586,24266,1,84.2365,23,5,WA,Portent
+3566,3566,Malvern,Pennsylvania,Philadelphia,26577575,stream-companies,Advertising & Marketing,85,3588,1158,7,84.2174,49,5,PA,Stream Companies
+3568,3568,Jacksonville,Florida,"Jacksonville, FL",6032329,burdette-ketchum,Advertising & Marketing,26,3590,24268,1,84.1788,64,5,FL,Burdette Ketchum
+3572,3572,New York,New York,New York City,5894145,post-beam,Advertising & Marketing,32,3594,24269,1,83.9763,9,5,NY,Post Beam
+3580,3580,Chicago,Illinois,Chicago,12317385,opinionlab,Advertising & Marketing,75,3602,24273,1,83.7268,17,5,IL,OpinionLab
+3609,3609,Glenview,Illinois,Chicago,12815885,dimension-design,Advertising & Marketing,92,3631,22498,2,82.5836,17,5,IL,Dimension Design
+3633,3633,San Diego,California,San Diego,4098116,titan-seo,Advertising & Marketing,20,3655,22111,4,81.3846,11,5,CA,Titan SEO
+3658,3658,Orinda,California,San Francisco,11146305,insight-resource-group,Advertising & Marketing,20,3681,17312,4,80.3434,4,5,CA,Insight Resource Group
+3664,3664,Scottsdale,Arizona,Phoenix,11699136,eventpro-strategies,Advertising & Marketing,314,3687,4024,4,80.0682,46,5,AZ,EventPro Strategies
+3671,3671,Chicago,Illinois,Chicago,10613142,dean-media-group,Advertising & Marketing,17,3694,17292,4,79.8095,17,5,IL,Dean Media Group
+3672,3672,Allentown,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",2810736,liquid-interactive,Advertising & Marketing,35,3695,24295,1,79.8144,93,5,PA,Liquid Interactive
+3687,3687,Oklahoma City,Oklahoma,"Oklahoma City, OK",4070590,saxum,Advertising & Marketing,28,3710,20480,3,79.1696,38,5,OK,Saxum
+3689,3689,Newport Beach,California,Los Angeles,35971000,lifescript,Advertising & Marketing,71,3712,2672,7,79.1474,2,5,CA,Lifescript
+3700,3700,Lanham,Maryland,"Washington, DC",100814903,hargrove,Advertising & Marketing,243,3723,24302,1,78.4607,3,5,MD,Hargrove
+3709,3709,Minneapolis,Minnesota,Minneapolis,20579863,knock,Advertising & Marketing,51,3732,20039,3,78.1166,13,5,MN,KNOCK
+3726,3726,Denver,Colorado,Denver,24497300,location3-media,Advertising & Marketing,72,3750,1415,7,77.494,30,5,CO,Location3 Media
+3745,3745,Henderson,Nevada,"Las Vegas-Paradise, NV",8012912,panthera-interactive,Advertising & Marketing,13,3769,17487,4,76.874,57,5,NV,Panthera Interactive
+3753,3753,St. Louis,Missouri,"St. Louis, MO-IL",48488867,switch,Advertising & Marketing,1430,3777,24315,1,76.561,74,5,MO,Switch
+3769,3769,La Palma,California,Los Angeles,8224298,freddie-georges-production-group,Advertising & Marketing,24,3793,24321,1,76.0622,2,5,CA,Freddie Georges Production Group
+3778,3778,Charlotte,North Carolina,Charlotte,3954021,concentric-marketing,Advertising & Marketing,22,3802,24325,1,75.4623,43,5,NC,Concentric Marketing
+3786,3786,Escondido,California,San Diego,4115699,dynamicard-plastic-postcards-analytics,Advertising & Marketing,6,3810,24329,1,75.1498,11,5,CA,DynamiCard Plastic Postcards & Analytics
+3787,3787,Tampa,Florida,Tampa,7760167,bayshore-solutions,Advertising & Marketing,53,3811,2208,5,75.0698,7,5,FL,Bayshore Solutions
+3807,3807,San Francisco,California,San Francisco,2889744,img-business-solutions,Advertising & Marketing,11,3831,24335,1,74.2305,4,5,CA,IMG Business Solutions
+3836,3836,McLean,Virginia,"Washington, DC",12268987,sage-communications,Advertising & Marketing,50,3860,24342,1,73.0782,3,5,VA,Sage Communications
+3837,3837,Pleasant Ridge,Michigan,Detroit,65220508,eprize,Advertising & Marketing,400,3861,2745,9,73.0638,50,5,MI,HelloWorld
+3853,3853,Cedar Falls,Iowa,"Waterloo-Cedar Falls, IA",52132605,mudd,Advertising & Marketing,259,3877,22776,2,72.2298,169,5,IA,Mudd
+3855,3855,San Diego,California,San Diego,7242814,businessonline,Advertising & Marketing,37,3879,18504,4,72.182,11,5,CA,BusinessOnline
+3862,3862,Chicago,Illinois,Chicago,15491000,imagination,Advertising & Marketing,90,3886,24343,1,71.8549,17,5,IL,Imagination
+3864,3864,Virginia Beach,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",3750429,customer-magnetism,Advertising & Marketing,23,3888,20232,2,71.8281,15,5,VA,Customer Magnetism
+3895,3895,Sterling Heights,Michigan,Detroit,18670309,mercury-promotions-fulfillment,Advertising & Marketing,50,3919,24355,1,70.5428,50,5,MI,Mercury Promotions & Fulfillment
+3903,3903,Boulder,Colorado,"Boulder, CO",2141945,parallel-path,Advertising & Marketing,22,3927,24356,1,70.2437,31,5,CO,Parallel Path
+3907,3907,Reston,Virginia,"Washington, DC",21834000,intermarkets,Advertising & Marketing,45,3931,1265,6,70.1527,3,5,VA,Intermarkets
+3928,3928,Elmhurst,Illinois,Chicago,9225279,foodmix-marketing-communications,Advertising & Marketing,35,3952,24362,1,69.4938,17,5,IL,Foodmix Marketing Communications
+3938,3938,Long Grove,Illinois,Chicago,19238284,dealer-product-services,Advertising & Marketing,150,3963,24369,1,69.0564,17,5,IL,Dealer Product Services
+3944,3944,Milwaukee,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",76452469,ab-data,Advertising & Marketing,273,3969,24372,5,68.6414,27,5,WI,AB Data
+3945,3945,Virginia Beach,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",10247627,nexus-direct,Advertising & Marketing,31,3970,3667,3,68.5732,15,5,VA,Nexus Direct
+3985,3985,Los Angeles,California,Los Angeles,99029626,evolve-media,Advertising & Marketing,348,4010,18337,4,67.1163,2,5,CA,Evolve Media
+3995,3995,New York,New York,New York City,15019717,prosek-partners,Advertising & Marketing,62,4020,2717,5,66.7617,9,5,NY,Prosek Partners
+3997,3997,Albuquerque,New Mexico,"Albuquerque, NM",2028400,griffin-associates,Advertising & Marketing,10,4022,6798,2,66.7039,66,5,NM,Griffin & Associates
+4001,4001,El Segundo,California,Los Angeles,13857795,wpromote,Advertising & Marketing,85,4026,1990,7,66.4552,2,5,CA,Wpromote
+4011,4011,Chicago,Illinois,Chicago,2700978,bfo,Advertising & Marketing,25,4036,21419,2,65.9962,17,5,IL,BFO
+4017,4017,St. Petersburg,Florida,Tampa,17222322,kobie-marketing,Advertising & Marketing,85,4042,18579,4,65.8414,7,5,FL,Kobie Marketing
+4020,4020,San Diego,California,San Diego,17429738,red-door-interactive,Advertising & Marketing,61,4045,1743,7,65.7007,11,5,CA,Red Door Interactive
+4022,4022,Portland,Oregon,"Portland, OR",3669092,pcd-group,Advertising & Marketing,15,4047,2141,6,65.6841,10,5,OR,PCD Group
+4045,4045,Knoxville,Tennessee,"Knoxville, TN",2000364,designsensory,Advertising & Marketing,21,4070,24395,1,64.7307,99,5,TN,DesignSensory
+4061,4061,Brookfield,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",37028000,bader-rutter,Advertising & Marketing,244,4086,24400,1,64.5396,27,5,WI,Bader Rutter
+4063,4063,Reston,Virginia,"Washington, DC",9220282,merritt-group,Advertising & Marketing,40,4088,4043,7,64.5118,3,5,VA,Merritt Group
+4073,4073,Denver,Colorado,Denver,4488500,90octane,Advertising & Marketing,47,4098,1671,5,64.1434,30,5,CO,90octane
+4077,4077,Boston,Massachusetts,Boston,28734462,amp-agency,Advertising & Marketing,92,4102,22199,2,64.0754,6,5,MA,AMP Agency
+4109,4109,Grand Prairie,Texas,Dallas,7767000,skyline-exhibits-events-dallasfort-worth-tx,Advertising & Marketing,29,4135,18633,4,63.138000000000005,8,5,TX,"Skyline Exhibits & Events (Dallas/Fort Worth, TX)"
+4134,4134,Loveland,Colorado,"Fort Collins-Loveland, CO",22009032,vision-graphics,Advertising & Marketing,127,4160,24419,1,62.1682,120,5,CO,Vision Graphics
+4140,4140,Westbury,New York,New York City,13187245,motivatorscom,Advertising & Marketing,55,4166,1423,6,62.0012,9,5,NY,Motivators.com
+4150,4150,Columbus,Ohio,"Columbus, OH",6812000,proforma-graphic-services,Advertising & Marketing,19,4176,22626,2,61.69,19,5,OH,Proforma Graphic Services
+4161,4161,Lafayette,California,San Francisco,10521368,krt-marketing,Advertising & Marketing,18,4187,24424,1,61.2071,4,5,CA,KRT Marketing
+4174,4174,St. Simons Island,Georgia,"Brunswick, GA",9366862,jda,Advertising & Marketing,24,4200,24428,1,60.9596,556,5,GA,Joseph David Advertising
+4183,4183,Gaithersburg,Maryland,"Washington, DC",2484022,sonic-promos,Advertising & Marketing,12,4209,22386,2,60.5703,3,5,MD,Sonic Promos
+4190,4190,Des Moines,Iowa,"Des Moines-West Des Moines, IA",4540855,lessing-flynn-advertising,Advertising & Marketing,16,4216,24431,1,60.3896,161,5,IA,Lessing-Flynn Advertising
+4196,4196,Red Bank,New Jersey,New York City,22745474,v12-group,Advertising & Marketing,82,4222,17938,4,60.1035,9,5,NJ,V12 Group
+4204,4204,Cumming,Georgia,Atlanta,5463919,client-command,Advertising & Marketing,15,4230,24434,4,59.9083,29,5,GA,Client Command
+4209,4209,Austin,Texas,Austin,29469119,builder-homesite,Advertising & Marketing,216,4235,6012,6,59.8105,18,5,TX,Builder Homesite
+4243,4243,Atlanta,Georgia,Atlanta,6156199,352,Advertising & Marketing,58,4269,2614,7,58.0188,29,5,GA,352
+4244,4244,Seattle,Washington,Seattle,10279622,smashing-ideas,Advertising & Marketing,75,4270,18742,3,57.9995,23,5,WA,Smashing Ideas
+4246,4246,Atlanta,Georgia,Atlanta,13668825,response-mine-interactive,Advertising & Marketing,87,4272,20506,3,57.9717,29,5,GA,Response Mine Interactive
+4247,4247,Newport Beach,California,Los Angeles,2818104,ileadscom,Advertising & Marketing,18,4273,9215,2,57.8627,2,5,CA,iLeads.com
+4259,4259,Loveland,Ohio,Cincinnati,2666089,hyperdrive,Advertising & Marketing,18,4285,22428,2,57.4799,47,5,OH,HyperDrive
+4262,4262,Glen Allen,Virginia,"Richmond, VA",3884127,taradel,Advertising & Marketing,12,4288,3794,6,57.3591,40,5,VA,Taradel
+4275,4275,Portland,Oregon,"Portland, OR",9314000,connective-dx,Advertising & Marketing,64,4301,1345,6,57.0154,10,5,OR,Connective DX
+4289,4289,Denver,Colorado,Denver,5180067,linhart-public-relations,Advertising & Marketing,28,4315,20595,3,56.6731,30,5,CO,Linhart Public Relations
+4291,4291,Los Angeles,California,Los Angeles,3517000,trims-unlimited,Advertising & Marketing,5,4317,4143,5,56.6592,2,5,CA,Trims Unlimited
+4331,4331,Atlanta,Georgia,Atlanta,10911000,inreality,Advertising & Marketing,33,4357,18724,2,55.0078,29,5,GA,InReality
+4354,4354,Springfield,Missouri,"Springfield, MO",11314662,marlin-network,Advertising & Marketing,113,4380,18903,4,54.2265,102,5,MO,Marlin Network
+4365,4365,Bethesda,Maryland,"Washington, DC",8484933,itn-international,Advertising & Marketing,50,4391,22421,2,53.9233,3,5,MD,ITN International
+4373,4373,New York,New York,New York City,22730737,direct-agents,Advertising & Marketing,47,4399,1078,5,53.7468,9,5,NY,Direct Agents
+4387,4387,Milwaukee,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",10918466,first-edge-solutions,Advertising & Marketing,88,4413,22410,2,53.2857,27,5,WI,First Edge Solutions
+4395,4395,Blue Bell,Pennsylvania,Philadelphia,39471787,mayoseitz-media,Advertising & Marketing,26,4421,24464,1,53.0068,49,5,PA,MayoSeitz Media
+4403,4403,Tarpon springs,Florida,Tampa,4574123,imagemediacom,Advertising & Marketing,34,4429,3521,2,52.8759,7,5,FL,imageMEDIA.com
+4404,4404,Phoenix,Arizona,Phoenix,10710796,commotion-promotions,Advertising & Marketing,28,4430,20675,3,52.8608,46,5,AZ,Commotion Promotions
+4406,4406,New York,New York,New York City,27709051,c2c-outdoor,Advertising & Marketing,12,4432,21887,3,52.8434,9,5,NY,C2C Outdoor
+4473,4473,Carrollton,Texas,Dallas,4250000,launch-agency,Advertising & Marketing,29,4499,18696,4,50.4425,8,5,TX,Launch Agency
+4490,4490,Watsontown,Pennsylvania,"Sunbury, PA",2330500,mojo-active,Advertising & Marketing,20,4516,24489,1,49.6548,491,5,PA,MoJo Active
+4508,4508,Austin,Texas,Austin,10661405,proof-advertising,Advertising & Marketing,95,4534,24494,1,49.196999999999996,18,5,TX,Proof Advertising
+4518,4518,St. Cloud,Minnesota,"St. Cloud, MN",28397085,epromos-promotional-products,Advertising & Marketing,104,4544,2038,5,48.9773,332,5,MN,ePromos Promotional Products
+4526,4526,New York,New York,New York City,41043330,paradysz,Advertising & Marketing,270,4552,7450,5,48.7864,9,5,NY,Paradysz
+4528,4528,Seattle,Washington,Seattle,26849827,projectline-services,Advertising & Marketing,201,4554,680,6,48.7461,23,5,WA,Projectline Services
+4542,4542,Sterling,Virginia,"Washington, DC",17202207,media-prowler,Advertising & Marketing,37,4568,20859,2,48.251999999999995,3,5,VA,Media Prowler
+4563,4563,Orlando,Florida,"Orlando, FL",2478247,barnett-murphy-direct-marketing,Advertising & Marketing,15,4589,24508,1,47.6492,68,5,FL,Barnett Murphy Direct Marketing
+4564,4564,Chicago,Illinois,Chicago,5004917,greentarget-global-group,Advertising & Marketing,24,4590,1266,3,47.6416,17,5,IL,Greentarget Global Group
+4574,4574,Santa Ana,California,Los Angeles,7571800,mark-it-smart,Advertising & Marketing,14,4600,22527,2,47.4547,2,5,CA,Mark-It Smart
+4586,4586,Houston,Texas,Houston,24326201,2020-exhibits,Advertising & Marketing,125,4612,2862,3,47.1568,22,5,TX,2020 Exhibits
+4592,4592,Troy,Michigan,Detroit,9036903,one-source-talent,Advertising & Marketing,120,4618,1319,6,46.9353,50,5,MI,One Source Talent
+4597,4597,Memphis,Tennessee,"Memphis, TN-MS-AR",3114877,directfx-solutions,Advertising & Marketing,18,4623,18681,4,46.722,105,5,TN,DirectFX Solutions
+4614,4614,Charlestown,Massachusetts,Boston,6711090,boston-interactive,Advertising & Marketing,35,4640,2279,5,46.3427,6,5,MA,Boston Interactive
+4626,4626,Binghamton,New York,"Binghamton, NY",6854931,savearound,Advertising & Marketing,64,4652,20099,3,45.9585,238,5,NY,SaveAround
+4650,4650,Memphis,Tennessee,"Memphis, TN-MS-AR",13659383,archer-malmo,Advertising & Marketing,130,4676,9495,2,45.238,105,5,TN,Archer Malmo
+4651,4651,Ewing,New Jersey,"Trenton-Ewing, NJ",7280930,compass-healthcare-marketers,Advertising & Marketing,35,4677,2706,5,45.2436,59,5,NJ,Compass Healthcare Marketers
+4654,4654,Tallahassee,Florida,"Tallahassee, FL",4778000,moore-communications-group,Advertising & Marketing,27,4680,20676,3,45.1838,362,5,FL,Moore Communications Group
+4686,4686,Boston,Massachusetts,Boston,8676336,connelly-partners,Advertising & Marketing,60,4712,24537,1,44.225,6,5,MA,Connelly Partners
+4692,4692,Tempe,Arizona,Phoenix,4607685,ee-exhibit-solutions,Advertising & Marketing,19,4718,2773,5,44.0114,46,5,AZ,E&E Exhibit Solutions
+4709,4709,Portland,Oregon,"Portland, OR",2524279,quango,Advertising & Marketing,15,4736,24543,1,43.0816,10,5,OR,Quango
+4711,4711,New York City,New York,New York City,91381825,mcmurrytmg,Advertising & Marketing,269,4738,24544,1,43.0169,9,5,NY,McMurry/TMG
+4734,4734,Santa Barbara,California,"Santa Barbara-Santa Maria-Goleta, CA",2486757,star-media-network,Advertising & Marketing,10,4761,24546,1,42.1742,274,5,CA,Star Media Network
+4749,4749,Fort Lauderdale,Florida,Miami,4270580,crisp-marketing,Advertising & Marketing,50,4776,21337,2,41.9345,1,5,FL,Crisp Marketing
+4760,4760,Los Angeles,California,Los Angeles,6035000,dial800,Advertising & Marketing,23,4787,20419,3,41.4343,2,5,CA,Dial800
+4795,4795,Portland,Oregon,"Portland, OR",3968034,lane-pr,Advertising & Marketing,29,4822,20679,2,40.1428,10,5,OR,Lane PR
+4802,4802,Norcross,Georgia,Atlanta,9827197,next-marketing,Advertising & Marketing,22,4829,2610,5,39.9535,29,5,GA,Next Marketing
+4805,4805,Houston,Texas,Houston,13776129,topspot-internet-marketing,Advertising & Marketing,56,4832,1163,4,39.9327,22,5,TX,TopSpot Internet Marketing
+4806,4806,Spring,Texas,Houston,3484103,jump2-group,Advertising & Marketing,5,4833,18403,4,39.9152,22,5,TX,Jump2 Group
+4810,4810,San Francisco,California,San Francisco,10350217,spark,Advertising & Marketing,47,4837,3197,7,39.7628,4,5,CA,Spark
+4812,4812,New York,New York,New York City,14330000,makovsky,Advertising & Marketing,55,4839,3135,4,39.7503,9,5,NY,Makovsky
+4818,4818,St. Louis,Missouri,"St. Louis, MO-IL",86196000,ansira,Advertising & Marketing,515,4845,24570,1,39.6294,74,5,MO,Ansira
+4826,4826,New York,New York,New York City,2550000,affect,Advertising & Marketing,18,4853,20011,2,39.4967,9,5,NY,Affect
+4836,4836,Salt Lake City,Utah,Salt Lake City,30370491,snugz-usa,Advertising & Marketing,334,4863,20862,3,39.071999999999996,12,5,UT,SnugZ USA
+4842,4842,Farmington,Utah,"Ogden-Clearfield, UT",12603939,thomasarts,Advertising & Marketing,105,4869,18413,4,38.769,204,5,UT,ThomasARTS
+4853,4853,Wellesley,Massachusetts,Boston,16013095,travelers-marketing,Advertising & Marketing,15,4880,21851,2,38.5262,6,5,MA,Travelers Marketing
+4855,4855,San Francisco,California,San Francisco,25198125,verticalresponse,Advertising & Marketing,109,4882,1261,8,38.5126,4,5,CA,VerticalResponse
+4856,4856,Denver,Colorado,Denver,4545744,lrxd,Advertising & Marketing,27,4883,24572,1,38.5079,30,5,CO,LRXD
+4878,4878,Portland,Oregon,"Portland, OR",6359361,angelvision,Advertising & Marketing,96,4905,2542,7,37.4808,10,5,OR,AngelVision
+4901,4901,Grand Rapids,Michigan,"Grand Rapids-Wyoming, MI",7125000,lambert-edwards-associates,Advertising & Marketing,42,4928,4041,5,36.7431,219,5,MI,"Lambert, Edwards & Associates"
+4918,4918,Los Angeles,California,Los Angeles,7258305,brighter-collective,Advertising & Marketing,31,4945,22415,6,36.2267,2,5,CA,Brighter Collective
+4927,4927,Pleasantville,New York,New York City,6775324,premium-productions,Advertising & Marketing,16,4954,4753,3,35.9061,9,5,NY,Premium Productions
+4931,4931,Aliso Viejo,California,Los Angeles,15202012,nett-solutions,Advertising & Marketing,45,4958,17723,4,35.7546,2,5,CA,Nett Solutions
+4933,4933,Chicago,Illinois,Chicago,22479626,ga-communication-group,Advertising & Marketing,101,4960,22698,2,35.7099,17,5,IL,GA Communication Group
+4945,4945,Southern Pines,North Carolina,"Southern Pines-Pinehurst, NC",61334413,trident-marketing,Advertising & Marketing,487,4972,2310,5,35.1518,152,5,NC,Trident Marketing

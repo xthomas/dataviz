@@ -1,0 +1,1767 @@
+2009	2008	AGENCY-PARENT	HEADQUARTERS	2009-REVENUE	% CHG
+1 	1 	Acxiom Corp.
+	Little Rock, Ark. 	$631,500 	-15.2
+2 	4 	DraftFCB*
+[Interpublic (Draft)] 	Chicago/New York 	495,000 	-1.2
+3 	5 	Epsilon/Purple@Epsilon
+[Alliance Data Systems Corp.] 	Irving, Texas 	487,800 	5.9
+4 	3 	McCann Erickson Worldwide*
+[Interpublic (McCann)] 	New York 	450,000 	-12.1
+5 	2 	BBDO Worldwide*
+[Omnicom (BBDO)] 	New York 	436,200 	-16.6
+6 	6 	Rapp*
+[Omnicom (DDB {Rapp})] 	New York 	340,000 	-6.7
+7 	8 	Euro RSCG Worldwide*
+[Havas (Euro)] 	New York 	325,800 	-5.8
+8 	7 	JWT*
+[WPP (JWT)] 	New York 	325,000 	-7.3
+9 	10 	Razorfish*
+[Publicis] 	Seattle 	317,000 	0.0
+10 	11 	OgilvyOne Worldwide*
+[WPP (Ogilvy)] 	New York 	300,000 	-3.2
+11 	9 	Digitas*
+[Publicis (Digitas)] 	Boston 	294,900 	-7.6
+12 	NA 	Fleishman-Hillard*
+[Omnicom] 	St. Louis 	290,000 	NA
+13 	14 	Edelman
+	Chicago 	288,505 	0.4
+14 	12 	Y&R*
+[WPP (Y&R)] 	New York 	286,000 	-5.6
+15 	15 	Weber Shandwick*
+[Interpublic (McCann)] 	New York 	270,000 	-1.3
+16 	13 	Leo Burnett Worldwide*
+[Publicis (Burnett)] 	Chicago 	266,980 	-9.6
+17 	16 	Wunderman*
+[WPP (Y&R {Wunderman})] 	New York 	262,000 	-2.2
+18 	17 	Carlson Marketing*
+[Groupe Aeroplan] 	Minneapolis 	256,011 	-3.4
+19 	18 	DDB Worldwide*
+[Omnicom (DDB)] 	New York 	250,000 	-5.7
+20 	22 	Aspen Marketing Services
+	West Chicago, Ill. 	225,400 	6.0
+21 	20 	Merkle
+	Columbia, Md. 	223,000 	-3.9
+22 	28 	IBM Interactive*
+[IBM Corp.] 	Chicago 	210,700 	8.6
+23 	19 	Saatchi & Saatchi*
+[Publicis (Saatchi)] 	New York 	210,000 	-11.0
+24 	21 	SapientNitro*
+[Sapient Corp.] 	Boston 	206,755 	-9.5
+25 	23 	Ketchum*
+[Omnicom] 	New York 	190,000 	-8.1
+26 	24 	Hill & Knowlton*
+[WPP] 	New York 	185,000 	-7.5
+27 	29 	Grey*
+[WPP (Grey)] 	New York 	180,000 	-5.9
+27 	26 	OMD Worldwide*
+[Omnicom (OMG)] 	New York 	180,000 	-8.5
+29 	42 	Meredith Integrated Marketing
+[Meredith Corp.] 	Des Moines, Iowa 	176,000 	12.8
+30 	25 	Ogilvy & Mather Advertising*
+[WPP (Ogilvy)] 	New York 	175,000 	-11.2
+31 	36 	Richards Group
+	Dallas 	169,500 	1.5
+32 	30 	TBWA Worldwide*
+[Omnicom (TBWA)] 	New York 	168,097 	-9.1
+33 	31 	Deutsch*
+[Interpublic (Lowe {Deutsch})] 	New York 	165,000 	-9.6
+33 	33 	Publicis*
+[Publicis (Publicis)] 	New York/Paris 	165,000 	-2.5
+35 	27 	Campbell-Ewald*
+[Interpublic] 	Warren, Mich. 	161,000 	-17.4
+36 	43 	Arc Worldwide*
+[Publicis (Burnett)] 	Chicago 	160,139 	5.5
+37 	37 	Hill Holliday*
+[Interpublic] 	Boston 	160,000 	0.0
+38 	46 	Rosetta
+	Hamilton, N.J. 	152,466 	6.8
+39 	41 	MEC*
+[WPP (Group M)] 	New York 	151,500 	-3.1
+40 	35 	Starcom USA*
+[Publicis (Starcom)] 	Chicago 	148,800 	-11.8
+41 	45 	Cramer-Krasselt
+	Chicago 	148,575 	2.6
+42 	34 	Doner
+	Southfield, Mich. 	142,000 	-16.0
+43 	32 	The Agency Inside Harte-Hanks
+[Harte-Hanks] 	Yardley, Pa. 	141,193 	-20.5
+44 	50 	Crispin Porter & Bogusky*
+[MDC Partners] 	Miami/Boulder, Colo. 	138,200 	0.7
+45 	47 	Burson-Marsteller*
+[WPP (Y&R {Burson})] 	New York 	136,000 	-4.2
+46 	57 	Organic*
+[Omnicom (BBDO)] 	San Francisco 	135,512 	5.0
+47 	39 	Mindshare Worldwide*
+[WPP (Group M)] 	New York 	135,100 	-14.0
+48 	56 	Cline Davis & Mann*
+[Omnicom] 	New York 	135,000 	4.2
+49 	48 	Zimmerman Advertising*
+[Omnicom (TBWA)] 	Fort Lauderdale, Fla. 	134,478 	-3.9
+50 	59 	Mosaic Sales Solutions
+	Irving, Texas 	133,000 	3.9
+51 	54 	Zenith Media USA*
+[Publicis (Zenith)] 	New York 	129,000 	-0.5
+52 	44 	Porter Novelli*
+[Omnicom] 	New York 	127,442 	-14.8
+53 	51 	Integer Group*
+[Omnicom (TBWA)] 	Lakewood, Colo. 	127,000 	-6.8
+54 	38 	George P. Johnson
+	Auburn Hills, Mich. 	123,466 	-22.6
+55 	63 	R/GA*
+[Interpublic (Draft)] 	New York 	122,000 	3.0
+56 	62 	iCrossing
+	Scottsdale, Ariz. 	121,500 	1.3
+57 	52 	G2*
+[WPP (Grey)] 	New York 	120,000 	-8.4
+57 	40 	MRM Worldwide*
+[Interpublic (McCann)] 	New York 	120,000 	-23.6
+57 	58 	MediaVest USA*
+[Publicis (Starcom)] 	New York 	120,000 	-7.0
+60 	49 	MS&L*
+[Publicis (MS&L)] 	Paris 	118,544 	-14.7
+61 	72 	Wieden & Kennedy*
+	Portland, Ore. 	114,800 	6.0
+62 	53 	Momentum Worldwide*
+[Interpublic (McCann)] 	New York 	114,000 	-12.3
+63 	85 	Martin Agency*
+[Interpublic (McCann)] 	Richmond, Va. 	112,000 	24.4
+64 	71 	Euro RSCG Life*
+[Havas (Euro)] 	New York 	111,000 	2.3
+65 	106 	GSI Interactive Marketing
+[GSI Commerce] 	King of Prussia, Pa. 	109,445 	51.0
+66 	66 	GolinHarris*
+[Interpublic] 	Chicago 	109,300 	-5.0
+67 	73 	CommonHealth*
+[WPP] 	Parsippany, N.J. 	107,700 	0.0
+68 	98 	Digitas Health*
+[Publicis (Digitas)] 	Philadelphia 	105,100 	38.3
+69 	55 	Accent Marketing Services*
+[MDC Partners] 	Jeffersonville, Ind. 	105,018 	-19.0
+70 	77 	Goodby, Silverstein & Partners*
+[Omnicom] 	San Francisco 	105,000 	5.0
+71 	67 	TracyLocke*
+[Omnicom (DDB)] 	Dallas 	104,000 	-9.4
+72 	61 	Interbrand*
+[Omnicom (DDB)] 	New York 	100,000 	-16.9
+72 	76 	Ketchum Directory Advertising*
+[LB2 Group] 	Overland Park, Kan. 	100,000 	-1.2
+72 	80 	Marketing Arm*
+[Omnicom] 	Dallas 	100,000 	1.5
+75 	64 	RPA
+	Santa Monica, Calif. 	98,600 	-15.7
+76 	69 	MediaCom*
+[WPP (Group M)] 	New York 	95,600 	-12.0
+77 	78 	UM*
+[Interpublic (Mediabrands)] 	New York 	95,000 	-5.0
+78 	96 	AKQA*
+	San Francisco 	94,700 	22.7
+79 	70 	Waggener Edstrom Worldwide
+	Bellevue, Wash. 	94,599 	-12.9
+80 	60 	Arnold Worldwide*
+[Havas] 	Boston 	93,900 	-22.6
+81 	81 	McCann Healthcare Worldwide*
+[Interpublic (McCann)] 	Parsippany, N.J. 	91,000 	-4.2
+82 	103 	DraftFCB Healthcare*
+[Interpublic (Draft)] 	New York 	87,000 	17.6
+83 	87 	GSW Worldwide*
+[inVentiv Health] 	Westerville, Ohio 	86,818 	-1.1
+84 	104 	GyroHSR
+	New York 	85,212 	16.1
+85 	84 	Tribal DDB*
+[Omnicom (DDB)] 	New York 	84,000 	-6.7
+85 	NA 	Horizon Media*
+	New York 	84,000 	NA
+87 	68 	Mullen*
+[Interpublic] 	Boston 	83,000 	-27.2
+88 	94 	Sudler & Hennessey*
+[WPP (Y&R)] 	New York 	82,000 	0.0
+89 	65 	Jack Morton Worldwide*
+[Interpublic] 	Boston 	80,000 	-31.5
+89 	91 	VML*
+[WPP (Y&R)] 	Kansas City, Mo. 	80,000 	-4.8
+91 	82 	Targetbase*
+[Omnicom] 	Irving, Texas 	78,919 	-12.9
+92 	90 	SolutionSet
+	Mill Valley, Calif. 	78,375 	-7.3
+93 	113 	Goodness Mfg./Trailer Park
+	Los Angeles 	78,000 	12.1
+93 	74 	GMR Marketing*
+[Omnicom (Radiate)] 	New Berlin, Wis. 	78,000 	-26.7
+95 	75 	Lowe Healthcare Worldwide*
+[Interpublic (Lowe {Deutsch})] 	Parsippany, N.J. 	77,400 	-24.9
+96 	89 	MPG*
+[Havas (Havas Media)] 	New York 	76,800 	-11.0
+97 	83 	Octagon*
+[Interpublic] 	Norwalk, Conn. 	76,500 	-15.4
+98 	79 	Carat*
+[Aegis (Media)] 	New York 	75,000 	-25.0
+98 	102 	Kirshenbaum Bond Senecal & Partners*
+[MDC Partners] 	New York 	75,000 	0.4
+98 	93 	Critical Mass*
+[Omnicom] 	Chicago 	75,000 	-9.6
+101 	108 	Proximity Worldwide*
+[Omnicom (BBDO)] 	New York 	74,600 	5.1
+102 	86 	FD*
+[FTI Consulting] 	New York 	72,000 	-19.8
+102 	101 	GHG*
+[WPP (Grey)] 	New York 	72,000 	-4.0
+104 	111 	Abelson-Taylor*
+	Chicago 	71,222 	2.0
+105 	95 	Ruder Finn
+[Ruder Finn Group] 	New York 	71,071 	-8.0
+106 	105 	SourceLink
+	Itasca, Ill. 	70,236 	-3.2
+107 	127 	McGarryBowen*
+[Dentsu] 	New York 	70,000 	25.0
+107 	110 	TBWA/WorldHealth*
+[Omnicom (TBWA)] 	New York 	70,000 	-1.4
+109 	97 	Cohn & Wolfe*
+[WPP (Y&R)] 	New York 	69,500 	-9.7
+110 	114 	Hawkeye
+	Dallas 	67,838 	4.4
+111 	100 	Initiative*
+[Interpublic (Mediabrands)] 	New York 	67,000 	-10.7
+112 	112 	Ryan Partnership
+[D.L. Ryan Cos.] 	Wilton, Conn. 	66,660 	-4.2
+113 	92 	Ascentium
+	Bellevue, Wash. 	66,000 	-21.4
+114 	88 	Landor Associates*
+[WPP (Y&R)] 	San Francisco 	65,500 	-24.7
+115 	107 	GSD&M Idea City*
+[Omnicom] 	Austin, Texas 	65,000 	-9.7
+115 	120 	Kaplan Thaler Group*
+[Publicis] 	New York 	65,000 	7.1
+117 	122 	Corbett Accel Healthcare Group*
+[Omnicom] 	Chicago 	61,300 	1.1
+118 	121 	Medicus Life Brands*
+[Publicis Healthcare Comms. Grp.] 	New York 	61,000 	0.6
+119 	99 	TMP Worldwide Advertising & Communications
+	New York 	60,030 	-20.0
+120 	117 	Apco Worldwide
+	Washington 	60,000 	-3.2
+120 	141 	360i*
+[Dentsu] 	New York 	60,000 	20.0
+120 	136 	Moxie Interactive*
+[Publicis (Zenith)] 	Atlanta 	60,000 	14.3
+123 	123 	22squared
+	Atlanta 	57,385 	-3.1
+124 	125 	GlobalHue*
+	Southfield, Mich. 	56,700 	0.6
+125 	132 	Chandler Chicco Agency*
+[inVentiv Health] 	New York 	56,489 	4.3
+126 	131 	Harrison & Star*
+[Omnicom] 	New York 	55,300 	1.3
+127 	129 	Team Enterprises*
+[MDC Partners] 	Fort Lauderdale, Fla. 	55,000 	0.0
+128 	130 	TBA Global
+	New York 	54,100 	-0.9
+129 	109 	Campbell Mithun*
+[Interpublic (McCann)] 	Minneapolis 	53,000 	-25.4
+130 	126 	Huntsworth Health
+[Huntsworth] 	Yardley, Pa. 	52,131 	-7.0
+131 	NA 	Global Experience Specialists*
+[Viad Corp.] 	Las Vegas 	52,000 	NA
+132 	118 	Acquity Group
+	Chicago 	51,255 	-16.3
+133 	134 	R2C Group
+	Portland, Ore. 	51,139 	-5.3
+134 	137 	Ogilvy Healthworld*
+[WPP (Ogilvy)] 	New York 	51,000 	-1.9
+135 	119 	IMC2
+	Dallas 	50,000 	-18.0
+135 	133 	Publicis Modem & Dialog*
+[Publicis (Publicis)] 	New York 	50,000 	-7.4
+135 	128 	Team One*
+[Publicis (Saatchi)] 	El Segundo, Calif. 	50,000 	-9.1
+138 	151 	Fry*
+	Ann Arbor, Mich. 	49,400 	9.8
+139 	173 	Bridge Worldwide*
+[WPP (WPP Digital)] 	Cincinnati 	49,250 	32.5
+140 	NA 	Derse*
+	Milwaukee 	49,000 	NA
+140 	139 	McMurry
+	Phoenix 	49,000 	-3.9
+142 	124 	TMP Directional Marketing
+	New York 	48,692 	-15.9
+143 	138 	WhittmanHart
+	Chicago 	47,615 	-8.3
+144 	144 	LBi
+[LBi International] 	New York 	47,000 	0.0
+145 	146 	Saatchi & Saatchi Healthcare Advertising*
+[Publicis Healthcare Comms. Grp.] 	New York 	46,500 	0.5
+146 	170 	Roundarch
+	Chicago 	46,425 	19.9
+147 	147 	Periscope
+	Minneapolis 	46,220 	0.4
+148 	135 	Javelin*
+[Omnicom] 	Irving, Texas 	46,175 	-12.9
+149 	115 	Isobar (excluding U.S. iProspect rev.)*
+[Aegis (Media {Isobar})] 	London 	45,500 	-27.9
+150 	140 	Brodeur Partners*
+[Omnicom] 	Boston 	44,000 	-13.2
+151 	145 	Barkley
+	Kansas City, Mo. 	43,800 	-5.6
+152 	153 	Ad Venture Interactive
+	Lenexa, Kan. 	43,705 	-2.9
+153 	156 	Engauge
+	Columbus, Ohio 	43,285 	1.2
+154 	150 	Bernstein-Rein Advertising
+	Kansas City, Mo. 	43,276 	-4.1
+155 	149 	Merkley & Partners*
+[Omnicom] 	New York 	43,225 	-6.0
+156 	193 	Moroch Partners
+	Dallas 	42,452 	28.3
+157 	188 	iProspect (including Range Online Media)*
+[Aegis (Media {Isobar})] 	Boston 	42,000 	23.5
+157 	165 	Group360
+	St. Louis 	42,000 	3.6
+157 	158 	Marketing Store
+	Lombard, Ill. 	42,000 	-0.4
+157 	152 	Blast Radius*
+[WPP (Y&R {Wunderman})] 	Vancouver, British Columbia 	42,000 	-6.7
+161 	162 	Marketing Drive*
+[RiverNorth Group (KB Holdings)] 	Norwalk, Conn. 	41,930 	1.6
+162 	NA 	Grayling*
+[Huntsworth] 	London 	41,824 	NA
+163 	180 	Resource Interactive
+	Columbus, Ohio 	41,000 	13.9
+163 	160 	Ogilvy Public Relations Worldwide*
+[WPP (Ogilvy)] 	New York 	41,000 	-1.4
+165 	148 	Carmichael Lynch*
+[Interpublic] 	Minneapolis 	40,500 	-12.0
+166 	161 	Fallon Worldwide*
+[Publicis] 	Minneapolis 	40,000 	-3.8
+166 	155 	Schematic*
+[WPP (WPP Digital)] 	New York 	40,000 	-8.7
+168 	164 	Berry Network*
+	Dayton, Ohio 	39,800 	-3.0
+169 	163 	Kekst & Co.*
+[Publicis (MS&L)] 	New York 	39,000 	-5.3
+169 	154 	Dieste*
+[Omnicom] 	Dallas 	39,000 	-13.1
+171 	179 	Rauxa Direct
+	Costa Mesa, Calif. 	38,272 	6.2
+172 	194 	Alloy Marketing & Promotion (Amp Agency)
+[Alloy] 	Boston 	37,815 	14.8
+173 	143 	PHD*
+[Omnicom (OMG)] 	London 	37,000 	-21.4
+174 	169 	Martin Williams Advertising*
+[Omnicom] 	Minneapolis 	36,635 	-6.1
+175 	167 	ePrize
+	Pleasant Ridge, Mich. 	36,102 	-8.6
+176 	142 	JWT Specialized Communications*
+[WPP (JWT)] 	New York 	36,000 	-25.0
+176 	184 	Neo@Ogilvy*
+[WPP (Ogilvy)] 	New York 	36,000 	2.9
+178 	166 	MWW Group*
+[Interpublic (McCann)] 	East Rutherford, N.J. 	35,600 	-9.9
+179 	212 	Pacific Communications
+	Costa Mesa, Calif. 	35,083 	17.9
+180 	185 	Vidal Partnership
+	New York 	35,000 	0.0
+181 	196 	Mktg
+	New York 	34,958 	10.5
+182 	230 	Risdall Advertising
+	New Brighton, Minn. 	34,528 	31.9
+183 	190 	Mars Advertising
+	Southfield, Mich. 	34,266 	2.7
+184 	157 	TM Advertising*
+[Interpublic (McCann)] 	Dallas 	34,000 	-19.6
+184 	187 	Optimedia International U.S.*
+[Publicis (Zenith)] 	New York 	34,000 	-1.1
+186 	220 	Catapult Integrated Services
+[D.L. Ryan Cos.] 	Westport, Conn. 	33,716 	18.3
+187 	232 	Group M Search*
+[WPP (Group M)] 	St. Louis 	33,700 	29.9
+188 	208 	Idea
+	Jacksonville, Fla. 	33,000 	10.0
+189 	191 	Eric Mower & Associates
+	Syracuse, N.Y. 	32,985 	-0.9
+190 	225 	Macquarium Intelligent Communications
+	Atlanta 	32,500 	19.0
+190 	227 	Siegel & Gale*
+[Omnicom] 	New York 	32,500 	22.6
+192 	159 	Bartle Bogle Hegarty*
+	New York 	32,000 	-23.8
+192 	182 	Hacker Group*
+[Interpublic (Draft)] 	Seattle 	32,000 	-8.6
+192 	172 	Doremus*
+[Omnicom] 	New York 	32,000 	-15.8
+195 	177 	Grizzard Communications Group*
+[Omnicom] 	Atlanta 	31,598 	-12.9
+196 	214 	BFG Communications
+	Bluffton, S.C. 	31,525 	6.5
+197 	226 	Olson
+	Minneapolis 	31,151 	16.2
+198 	219 	Star Group
+	Voorhees, N.J. 	31,143 	9.1
+199 	270 	Huge*
+[Interpublic (Lowe)] 	Brooklyn, N.Y. 	31,000 	47.6
+199 	116 	Bernard Hodes Group*
+[Omnicom] 	New York 	31,000 	-50.0
+201 	218 	Zeta Interactive
+	New York 	30,895 	6.7
+202 	248 	Butler, Shine, Stern & Partners
+	Sausalito, Calif. 	30,629 	32.7
+203 	201 	Paradysz Matera*
+	New York 	30,500 	0.0
+204 	209 	Efficient Frontier*
+	Sunnyvale, Calif. 	30,000 	0.0
+204 	171 	GMMB*
+[Omnicom] 	Washington 	30,000 	-22.5
+204 	207 	LyonHeart*
+[Omnicom] 	New York 	30,000 	0.0
+204 	183 	Saatchi & Saatchi X*
+[Publicis (Saatchi)] 	Springdale, Ark. 	30,000 	-14.3
+204 	210 	Tequila*
+[Omnicom (TBWA)] 	New York 	30,000 	0.0
+209 	176 	Mercury Media
+	Santa Monica, Calif. 	29,642 	-19.0
+210 	200 	BVK
+	Milwaukee 	29,396 	-3.6
+211 	204 	Velocity Sports & Entertainment*
+[Aegis (Media)] 	Norwalk, Conn. 	29,000 	-3.3
+211 	186 	Alcone Marketing Group*
+[Omnicom] 	Irvine, Calif. 	29,000 	-15.9
+213 	247 	Venables, Bell & Partners
+	San Francisco 	28,955 	24.8
+214 	197 	Bravo Group*
+[WPP (Y&R)] 	Miami 	28,500 	-9.5
+215 	211 	Maxus*
+[WPP (Group M)] 	New York 	28,400 	-4.9
+215 	174 	Allied Integrated Marketing
+	Boston 	28,400 	-23.5
+217 	245 	McKinney
+	Durham, N.C. 	28,300 	20.4
+218 	192 	Switch
+	St. Louis 	28,000 	-15.7
+219 	175 	Ackerman McQueen
+	Oklahoma City 	27,531 	-25.3
+220 	224 	Saatchi & Saatchi Wellness*
+[Publicis Healthcare Comms. Grp.] 	New York 	27,400 	0.2
+221 	178 	CementBloc
+	New York 	27,040 	-25.3
+222 	198 	Cheil USA
+[Cheil Worldwide] 	Ridgefield Park, N.J. 	27,006 	-14.2
+223 	235 	Acronym Media
+	New York 	27,000 	8.0
+223 	252 	SMG Performance Marketing*
+[Publicis (Starcom)] 	New York 	27,000 	20.0
+223 	189 	Performics*
+[Publicis (Zenith)] 	Chicago 	27,000 	-19.6
+226 	327 	WCG
+	San Francisco 	26,939 	72.4
+227 	168 	Dentsu America*
+[Dentsu] 	New York 	26,532 	-32.2
+228 	222 	Marc USA
+	Pittsburgh 	26,410 	-6.2
+229 	216 	Russ Reid Co.*
+[Omnicom] 	Pasadena, Calif. 	25,500 	-12.6
+230 	250 	Lopez Negrete Communications
+	Houston 	25,100 	9.0
+231 	195 	Cramer
+	Norwood, Mass. 	25,000 	-21.9
+231 	NA 	Level Studios
+	San Luis Obispo, Calif. 	25,000 	NA
+231 	206 	Haworth Marketing & Media
+	Minneapolis 	25,000 	-16.7
+231 	203 	Agency.com*
+[Omnicom (TBWA)] 	New York 	25,000 	-16.7
+231 	237 	Zaaz*
+[WPP (Y&R {Wunderman})] 	Seattle 	25,000 	3.9
+236 	228 	RTC Relationship Marketing*
+[WPP (Y&R {Wunderman})] 	Washington 	24,700 	-6.2
+237 	199 	Element 79*
+[Omnicom] 	Chicago 	24,300 	-22.4
+238 	223 	Wirestone
+	Sacramento, Calif. 	24,161 	-11.9
+239 	202 	Dailey*
+[Interpublic] 	West Hollywood, Calif. 	24,000 	-20.0
+239 	238 	Brierley & Partners*
+[WPP] 	Dallas 	24,000 	0.0
+241 	244 	WongDoody
+	Seattle 	23,700 	0.0
+242 	251 	CMD
+	Portland, Ore. 	23,600 	3.1
+243 	273 	Allen & Gerritsen
+	Watertown, Mass. 	23,316 	12.0
+244 	255 	CCG Marketing Solutions
+	West Caldwell, N.J. 	23,218 	5.1
+245 	263 	MMG Worldwide
+	Kansas City, Mo. 	23,191 	8.0
+246 	231 	FKM
+	Houston 	23,093 	-11.1
+247 	215 	Schwartz Communications
+	Waltham, Mass. 	23,086 	-21.3
+248 	266 	Magnani Caruso Dutton
+	New York 	23,050 	9.0
+249 	205 	FutureBrand*
+[Interpublic (McCann)] 	London 	23,000 	-23.3
+249 	217 	OgilvyAction*
+[WPP (Ogilvy)] 	New York 	23,000 	-20.7
+251 	264 	Creative Alliance
+	Louisville, Ky. 	22,711 	6.3
+252 	267 	Razor
+	Dallas 	22,678 	7.3
+253 	274 	BKV
+	Overland Park, Kan. 	22,617 	9.3
+254 	256 	Bader Rutter & Associates
+	Brookfield, Wis. 	22,504 	1.9
+255 	236 	Modernista*
+	Boston 	22,500 	-9.5
+256 	297 	Ignited
+	El Segundo, Calif. 	22,256 	20.8
+257 	309 	Quigley-Simpson
+	Los Angeles 	22,156 	28.0
+258 	253 	DKC
+	New York 	22,050 	-1.6
+259 	229 	ICR*
+	Norwalk, Conn. 	22,000 	-16.0
+259 	265 	Unit 7*
+[Omnicom] 	New York 	22,000 	3.6
+261 	258 	Burrell Communications Group*
+[Publicis] 	Chicago 	21,900 	-0.5
+262 	305 	BGT Partners*
+	Miami 	21,800 	24.6
+262 	261 	Colle & McVoy*
+[MDC Partners] 	Minneapolis 	21,800 	0.9
+264 	372 	Eveo
+	San Francisco 	21,765 	67.0
+265 	246 	CSE
+	Atlanta 	21,750 	-6.7
+266 	233 	UniWorld Group*
+[WPP] 	Brooklyn, N.Y. 	21,600 	-15.8
+267 	296 	Agency 212
+	New York 	21,500 	16.2
+268 	234 	Cadient Group*
+	King of Prussia, Pa. 	21,400 	-14.6
+269 	284 	Factory Design Labs
+	Denver 	21,306 	7.3
+270 	242 	Davis Elen Advertising
+	Los Angeles 	21,146 	-11.3
+271 	272 	Flying Point Media
+	New York 	21,026 	0.5
+272 	243 	Carol H. Williams Advertising
+	Emeryville, Calif. 	21,020 	-11.7
+273 	276 	Ted Barkus Co.
+	Philadelphia 	20,911 	3.1
+274 	213 	Atrinsic Interactive*
+	New York 	20,880 	-29.5
+275 	294 	Heartbeat Digital
+	New York 	20,700 	8.9
+276 	181 	T3
+	Austin, Texas 	20,620 	-41.7
+277 	269 	Equity Marketing/Logistix*
+[Emak Worldwide] 	Los Angeles 	20,400 	-2.9
+277 	281 	The Search Agency*
+	Santa Monica, Calif. 	20,400 	2.5
+279 	241 	M.J. Brunner
+	Pittsburgh 	20,136 	-15.7
+280 	271 	GSP Marketing Services
+	Chicago 	20,000 	-4.8
+280 	239 	Wahlstrom Group (Geomentum)*
+[Interpublic (Mediabrands)] 	Norwalk, Conn. 	20,000 	-16.7
+282 	260 	Regan Communications
+[Regan Communications Group] 	Boston 	19,859 	-9.0
+283 	307 	LatinWorks*
+[Omnicom] 	Austin, Texas 	19,707 	13.0
+284 	292 	David & Goliath*
+	El Segundo, Calif. 	19,500 	2.1
+285 	280 	Laughlin/Constable
+	Milwaukee 	19,400 	-2.8
+286 	329 	Images USA*
+	Atlanta 	19,200 	24.4
+287 	277 	Taylor Global
+	New York 	19,100 	-5.5
+288 	301 	Enlighten
+	Ann Arbor, Mich. 	19,000 	5.6
+288 	257 	Avrett Free Ginsberg*
+[Interpublic (McCann)] 	New York 	19,000 	-13.6
+290 	249 	Palio*
+[inVentiv Health] 	Saratoga Springs, N.Y. 	18,800 	-18.4
+291 	318 	Ignite Health*
+[inVentiv Health] 	Irvine, Calif. 	18,500 	12.1
+292 	291 	Fahlgren
+	Columbus, Ohio 	18,100 	-5.8
+293 	306 	Impaqt
+	Pittsburgh 	18,100 	3.4
+294 	262 	Zubi Advertising Services
+	Coral Gables, Fla. 	18,000 	-16.3
+294 	221 	Fitzgerald & Co.*
+[Interpublic (McCann)] 	Atlanta 	18,000 	-36.2
+294 	275 	DeVries Public Relations*
+[Interpublic] 	New York 	18,000 	-11.3
+294 	283 	Conill*
+[Publicis (Saatchi)] 	Miami 	18,000 	-9.4
+298 	308 	Kern Organization*
+[Omnicom (DDB {Rapp})] 	Woodland Hills, Calif. 	17,900 	2.7
+299 	324 	Sigma Group
+	Oradell, N.J. 	17,750 	11.8
+300 	288 	Osborn & Barr
+	St. Louis 	17,741 	-9.0
+301 	285 	Malone Advertising*
+[WPP (JWT)] 	Akron, Ohio 	17,700 	-10.8
+302 	330 	Partners & Napier
+	Rochester, N,Y. 	17,500 	15.9
+303 	278 	Upshot
+[Emak Worldwide] 	Chicago 	17,464 	-13.3
+304 	337 	Alma DDB*
+[Omnicom (DDB)] 	Coral Gables, Fla. 	17,400 	17.9
+305 	369 	Eleven
+	San Francisco 	17,231 	31.0
+306 	254 	Bodden Partners
+	New York 	17,200 	-23.2
+307 	298 	Intermark Group
+	Birmingham, Ala. 	17,048 	-7.0
+308 	240 	Text 100 Global Public Relations
+	New York 	17,000 	-28.9
+308 	290 	Direct Partners*
+[Omnicom] 	Marina del Rey, Calif. 	17,000 	-11.9
+308 	282 	Publicis & Hal Riney*
+[Publicis (Publicis)] 	San Francisco 	17,000 	-14.6
+311 	313 	Trahan, Burden & Charles*
+	Baltimore 	16,900 	0.0
+312 	316 	Legacy Marketing Partners
+	Chicago 	16,817 	1.2
+313 	259 	Marden-Kane
+	Garden City, N.Y. 	16,763 	-23.7
+314 	342 	Sanders/Wingo
+	El Paso, Texas 	16,686 	16.3
+315 	314 	Optiem
+	Cleveland 	16,664 	-0.7
+316 	320 	Sterling-Rice Group
+	Boulder, Colo. 	16,660 	1.6
+317 	323 	McCormick Co.
+	Amarillo, Texas 	16,539 	3.7
+318 	352 	Media Contacts*
+[Havas (Havas Media)] 	Boston 	16,500 	17.9
+318 	279 	Gotham*
+[Interpublic (McCann)] 	New York 	16,500 	-17.5
+320 	295 	Gibbs & Soell*
+	New York 	16,400 	-12.3
+321 	334 	Arnell Group*
+[Omnicom] 	New York 	16,329 	8.9
+322 	321 	Sawtooth
+	Woodbridge, N.J. 	16,175 	0.2
+323 	303 	Della Femina/Rothschild/Jeary & Partners*
+	New York 	16,100 	-10.1
+324 	302 	Mother New York
+[Mother Holdings] 	New York 	16,000 	-11.1
+324 	268 	Bromley Communications*
+[Publicis] 	San Antonio 	16,000 	-24.0
+324 	328 	Kang & Lee Advertising*
+[WPP (Y&R)] 	New York 	16,000 	3.2
+327 	322 	Northlich*
+	Cincinnati 	15,960 	0.0
+328 	NA 	Dudnyk
+	Horsham, Pa. 	15,937 	NA
+329 	391 	Peter A. Mayer Advertising
+	New Orleans 	15,833 	30.4
+330 	289 	Noble
+	Springfield, Mo. 	15,688 	-19.2
+331 	356 	De la Cruz Group
+	Guaynabo, P.R. 	15,625 	14.3
+332 	300 	Buntin Group
+	Nashville, Tenn. 	15,400 	-14.9
+333 	395 	Moosylvania
+	St. Louis 	15,165 	25.5
+334 	NA 	Centron*
+[HealthStar Comms.] 	New York 	15,000 	NA
+334 	336 	SS&K*
+	New York 	15,000 	0.0
+334 	317 	Berlin Cameron United*
+[WPP (United)] 	New York 	15,000 	-9.7
+337 	333 	Williams Labadie*
+[Publicis Healthcare Comms. Grp.] 	Chicago 	14,950 	-0.3
+338 	359 	Digitaria
+	San Diego 	14,900 	10.4
+339 	299 	Marquette Group
+	Peoria, Ill. 	14,807 	-18.3
+340 	371 	Allison & Partners
+	San Francisco 	14,662 	12.1
+341 	315 	Hoffman/Lewis
+	San Francisco 	14,588 	-13.0
+342 	310 	Rhea & Kaiser Marketing Communications*
+	Naperville, Ill. 	14,500 	-15.7
+343 	286 	Elias/Savion Advertising
+	Pittsburgh 	14,473 	-26.3
+344 	332 	Source Marketing*
+[MDC Partners] 	Norwalk, Conn. 	14,370 	-4.2
+345 	340 	Gage
+	Minneapolis 	14,300 	-2.1
+346 	376 	Space150
+	Minneapolis 	14,082 	9.8
+347 	312 	Rivet*
+[Interpublic (Draft)] 	Chicago 	14,000 	-17.6
+347 	348 	Jager Design*
+	Burlington, Vt. 	14,000 	0.0
+347 	347 	Vitro*
+[MDC Partners] 	San Diego 	14,000 	0.0
+347 	NA 	Publicis Consultants*
+[Publicis (MS&L)] 	Paris 	14,000 	NA
+351 	319 	Power Creative
+	Louisville, Ky. 	13,929 	-15.1
+352 	355 	Resolution Media*
+[Omnicom (OMG)] 	Chicago 	13,800 	0.4
+353 	354 	Shaker Recruitment Advertising & Comms.*
+	Oak Park, Ill. 	13,787 	0.0
+354 	380 	Chamberlain Healthcare Public Relations*
+[inVentiv Health] 	New York 	13,543 	8.3
+355 	536 	AdAsia Communications
+	New York 	13,527 	91.6
+356 	362 	SK&G*
+	Las Vegas 	13,500 	0.0
+356 	360 	Reprise Media*
+[Interpublic (Mediabrands)] 	New York 	13,500 	0.0
+358 	341 	Riester
+	Phoenix 	13,408 	-7.8
+359 	331 	Titan Agency
+	Atlanta 	13,350 	-11.0
+360 	377 	SBC Advertising
+	Columbus, Ohio 	13,349 	5.0
+361 	353 	LehmanMillet*
+[HealthStar Comms.] 	Boston 	13,200 	-4.3
+361 	293 	EastWest Marketing Group*
+	New York 	13,200 	-30.5
+363 	338 	Brandthread
+	Weston, Fla. 	13,170 	-10.7
+364 	448 	Natrel Communications
+	Parsippany, N.J. 	13,082 	31.0
+365 	351 	Serino Coyne*
+[Omnicom] 	New York 	13,076 	-6.6
+366 	287 	Brandforce
+	San Francisco 	13,075 	-33.1
+367 	358 	Rodgers Townsend*
+[Omnicom (DDB)] 	St. Louis 	13,000 	-3.7
+367 	389 	Greater Than One
+	New York 	13,000 	6.6
+367 	366 	Goble & Associates
+	Chicago 	13,000 	-2.3
+370 	396 	GlobalWorks Group
+	New York 	12,900 	7.5
+371 	398 	Spark Communications*
+[Publicis (Starcom)] 	Chicago 	12,800 	7.1
+372 	433 	MMB*
+	Boston 	12,700 	22.7
+372 	379 	One to One Interactive
+	Charlestown, Mass. 	12,700 	1.6
+374 	357 	Peppercom
+	New York 	12,618 	-7.5
+375 	343 	Luckie & Co.
+	Birmingham, Ala. 	12,526 	-11.6
+376 	452 	Lockard & Wechsler
+	Irvington, N.Y. 	12,509 	27.1
+377 	384 	Cranford Johnson Robinson Woods
+	Little Rock, Ark. 	12,500 	2.0
+377 	350 	Didit
+	Rockville Centre, N.Y. 	12,500 	-10.7
+377 	345 	Brand Union*
+[WPP] 	New York 	12,500 	-10.7
+380 	364 	180 Amsterdam/180LA*
+[Omnicom] 	Santa Monica, Calif. 	12,479 	-6.6
+381 	365 	PainePR
+[Cossette] 	Irvine, Calif. 	12,430 	-6.8
+382 	361 	Swanson Russell
+	Lincoln, Neb. 	12,400 	-8.1
+383 	429 	Cooney/Waters Group
+	New York 	12,344 	18.0
+384 	363 	French/West/Vaughan
+	Raleigh, N.C. 	12,234 	-8.9
+385 	367 	Ron Foth Advertising
+	Columbus, Ohio 	12,189 	-8.1
+386 	405 	Coyne Public Relations
+	Parsippany, N.J. 	12,176 	4.5
+387 	383 	Nicholson Kovac
+	Kansas City, Mo. 	12,155 	-1.9
+388 	381 	Kovel/Fuller
+	Culver City, Calif. 	12,150 	-2.0
+389 	311 	GlynnDevins Advertising & Marketing
+	Overland Park, Kan. 	12,080 	-29.5
+390 	421 	Global Advertising Strategies
+	New York 	12,000 	9.1
+390 	420 	Euro RSCG Worldwide PR*
+[Havas (Euro)] 	New York 	12,000 	9.1
+390 	403 	RJ Palmer*
+	New York 	12,000 	2.6
+390 	370 	SelectNY*
+	New York 	12,000 	-8.4
+394 	669 	Pereira & O'Dell
+[Grupo ABC] 	San Francisco 	11,970 	182.8
+395 	386 	St. John & Partners Advertising & PR
+	Jacksonville, Fla. 	11,939 	-2.4
+396 	400 	Marketing Support
+	Chicago 	11,910 	0.5
+397 	373 	Oneupweb
+	Traverse City, Mich. 	11,880 	-8.6
+398 	388 	Gray, Kirk VanSant Advertising
+	Baltimore 	11,850 	-2.9
+399 	325 	C2 Creative*
+[Omnicom (Radiate)] 	New York 	11,817 	-25.0
+400 	401 	Tinsley Advertising & Marketing
+	Miami 	11,760 	0.0
+401 	344 	Anthology Marketing Group
+	Honolulu 	11,670 	-16.8
+402 	425 	Hitchcock Fleming & Associates
+	Akron, Ohio 	11,637 	7.8
+403 	375 	O2 Ideas
+	Birmingham, Ala. 	11,609 	-9.9
+404 	387 	RF Binder Partners*
+[Ruder Finn Group] 	New York 	11,600 	-4.9
+405 	511 	HL Group Partners*
+[MDC Partners] 	New York 	11,550 	50.0
+406 	368 	J.L. Media*
+	Union, N.J. 	11,500 	-12.9
+406 	408 	Concept Farm*
+	New York 	11,500 	0.0
+406 	444 	Bozell
+	Omaha, Neb. 	11,500 	15.0
+406 	407 	Concentric Pharma Advertising
+	New York 	11,500 	0.0
+410 	474 	IW Group*
+[Interpublic] 	West Hollywood, Calif. 	11,455 	26.1
+411 	397 	Designkitchen*
+[WPP (Y&R {Wunderman})] 	Chicago 	11,400 	-5.0
+412 	378 	Roberts Communications
+	Rochester, N.Y. 	11,325 	-10.7
+413 	409 	Mastermind Marketing
+	Atlanta 	11,150 	-2.6
+414 	435 	Marcus Thomas
+	Cleveland 	11,141 	8.2
+415 	393 	Relay*
+[Publicis (MS&L)] 	Chicago 	11,000 	-9.1
+415 	335 	Tierney Communications*
+[Interpublic] 	Philadelphia 	11,000 	-26.7
+415 	412 	Saatchi & Saatchi Healthcare Innovations*
+[Publicis Healthcare Comms. Grp.] 	Newtown, Pa. 	11,000 	-3.2
+415 	392 	Cole & Weber United*
+[WPP (United)] 	Seattle 	11,000 	-9.3
+419 	436 	Admerasia
+	New York 	10,750 	4.9
+420 	426 	Fullhouse
+	Milwaukee 	10,600 	-0.9
+420 	428 	Tapestry*
+[Publicis (Starcom)] 	Chicago 	10,600 	0.0
+422 	434 	Callahan Creek
+	Lawrence, Kan. 	10,577 	2.7
+423 	497 	Red Door Interactive
+	San Diego 	10,519 	29.1
+424 	468 	Grafica
+	Chester, N.J. 	10,500 	12.9
+424 	406 	Navicor Group*
+[inVentiv Health] 	Westerville, Ohio 	10,500 	-9.3
+424 	424 	Accentmarketing*
+[Interpublic] 	Coral Gables, Fla. 	10,500 	-2.8
+427 	390 	Cone*
+[Omnicom] 	Boston 	10,373 	-14.8
+428 	432 	DAC Group*
+	Toronto 	10,370 	0.0
+429 	431 	CRT/Tanaka
+	Richmond, Va. 	10,350 	-0.5
+430 	399 	Mendelsohn Zien Advertising*
+[Hakuhodo DY Holdings] 	Los Angeles 	10,300 	-13.4
+430 	459 	Clarity Coverdale Fury
+	Minneapolis 	10,300 	7.3
+430 	304 	Boathouse Group
+	Waltham, Mass. 	10,300 	-41.8
+433 	410 	Proof*
+[WPP (Y&R {Burson})] 	New York 	10,262 	-10.4
+434 	450 	Stephenz Group
+	San Jose, Calif. 	10,246 	3.7
+435 	NA 	LSF Interactive
+	San Francisco 	10,218 	NA
+436 	402 	Sigma Marketing Group
+	Rochester, N.Y. 	10,200 	-12.9
+437 	430 	Hoffman York
+	Milwaukee 	10,171 	-2.5
+438 	394 	Sullivan Higdon & Sink
+	Wichita, Kan. 	10,158 	-16.0
+439 	438 	Biggs Gilmore
+	Kalamazoo, Mich. 	10,146 	0.3
+440 	439 	Slingshot*
+	Dallas 	10,110 	0.0
+441 	465 	Machado Garcia Serra
+	Coral Gables, Fla. 	10,051 	6.5
+442 	462 	Hunter Public Relations
+	New York 	10,028 	5.9
+443 	447 	Duncan Channon*
+	San Francisco 	10,000 	0.0
+443 	418 	Kane & Finkel Healthcare Communications*
+	San Francisco 	10,000 	-9.1
+443 	503 	Cannonball Advertising*
+	St. Louis 	10,000 	25.0
+443 	502 	Sarkissian Mason
+	New York 	10,000 	25.0
+443 	374 	MicroMass Communications
+	Cary, N.C. 	10,000 	-23.1
+443 	446 	Ground Zero*
+	Los Angeles 	10,000 	0.0
+443 	349 	Casanova Pendrill*
+[Interpublic (McCann)] 	Costa Mesa, Calif. 	10,000 	-28.6
+443 	411 	The Gate Worldwide
+[Media Square] 	New York 	10,000 	-12.3
+451 	454 	Hirons & Co.
+	Indianapolis 	9,969 	2.1
+452 	545 	LeapFrog Interactive
+	Louisville, Ky. 	9,949 	44.0
+453 	457 	FKQ Advertising & Marketing
+	Clearwater, Fla. 	9,929 	2.3
+454 	414 	DMW Worldwide
+	Wayne, Pa. 	9,829 	-12.0
+455 	385 	Liggett-Stashower*
+	Cleveland 	9,800 	-20.0
+456 	437 	InterTrend Communications
+	Long Beach, Calif. 	9,750 	-4.8
+457 	473 	Bailey Lauerman
+	Lincoln, Neb. 	9,710 	6.3
+458 	460 	Amalgamated
+	New York 	9,600 	0.0
+459 	456 	CDR Fundraising Group
+	Bowie, Md. 	9,546 	-1.9
+460 	464 	IQ Interactive
+	Atlanta 	9,519 	0.8
+461 	478 	White Horse*
+	Portland, Ore. 	9,500 	5.6
+461 	451 	Catalyst Direct
+	Rochester, N.Y. 	9,500 	-3.7
+463 	419 	Via Group
+	Portland, Maine 	9,460 	-14.0
+464 	463 	Tombras Group*
+	Knoxville, Tenn. 	9,455 	0.0
+465 	404 	Archer Malmo
+	Memphis, Tenn. 	9,385 	-19.6
+466 	382 	Beanstalk Group*
+[Omnicom] 	New York 	9,294 	-25.0
+467 	486 	Fly Communications
+	New York 	9,280 	7.7
+468 	480 	Seiden Group*
+	New York 	9,270 	3.0
+469 	416 	LM&O Advertising
+	Arlington, Va. 	9,243 	-17.1
+470 	485 	Howard, Merrell & Partners*
+	Raleigh, N.C. 	9,200 	6.6
+471 	492 	Lambesis
+	Carlsbad, Calif. 	9,025 	7.6
+472 	584 	Prime Access*
+	New York 	9,000 	50.0
+473 	556 	Grupo Gallegos
+	Long Beach, Calif. 	8,950 	32.6
+474 	522 	Doe-Anderson
+	Louisville, Ky. 	8,879 	18.5
+475 	506 	Trozzolo Communications Group
+	Kansas City, Mo. 	8,832 	11.5
+476 	427 	Y Partnership
+	Orlando, Fla. 	8,818 	-17.1
+477 	532 	Covario
+	San Diego 	8,809 	22.6
+478 	472 	Simons Michelson Zieve
+	Troy, Mich. 	8,808 	-4.0
+479 	479 	Cronin & Co.*
+	Glastonbury, Conn. 	8,800 	-2.2
+480 	574 	Acento
+	Los Angeles 	8,762 	39.5
+481 	476 	Addison Whitney*
+[inVentiv Health] 	Charlotte, N.C. 	8,746 	-3.0
+482 	415 	Media Logic
+	Albany, N.Y. 	8,700 	-22.0
+483 	493 	Crosby Marketing Communications
+	Annapolis, Md. 	8,641 	3.8
+484 	458 	Hiebing Group*
+	Madison, Wis. 	8,600 	-10.7
+485 	449 	McGarrah/Jessee
+	Austin, Texas 	8,569 	-13.5
+486 	510 	Gardner Nelson & Partners
+	New York 	8,500 	10.4
+486 	501 	Firstborn
+	New York 	8,500 	6.3
+486 	561 	Creative Direct Marketing Group
+	Torrance, Calif. 	8,500 	30.8
+486 	512 	Intermark Media
+	Woodbury, NY 	8,500 	10.4
+486 	417 	Nurun
+[Quebecor Media (Nurun)] 	Montreal 	8,500 	-22.7
+491 	466 	Fuse
+	St. Louis 	8,491 	-9.2
+492 	467 	Strategic America
+	West Des Moines, Iowa 	8,490 	-8.8
+493 	596 	Empathy Lab
+	Conshohocken, Pa. 	8,456 	49.6
+494 	508 	Threshold Interactive
+	Culver City, Calif. 	8,407 	6.5
+495 	455 	DGWB Advertising & Communications
+	Santa Ana, Calif. 	8,400 	-13.8
+496 	470 	Lewis Communications
+	Mobile, Ala. 	8,343 	-10.1
+497 	339 	Hanley Wood Marketing
+	Minneapolis 	8,340 	-43.5
+498 	531 	Connelly Partners
+	Boston 	8,300 	15.3
+499 	504 	Ames Scullin O'Haire
+	Atlanta 	8,250 	3.1
+500 	440 	ISM
+	Boston 	8,248 	-18.3
+501 	475 	GS&F
+	Nashville, Tenn. 	8,245 	-9.2
+502 	488 	Deep Focus
+	New York 	8,240 	-4.0
+503 	598 	Fathom SEO
+	Valley View, Ohio 	8,225 	46.1
+504 	477 	Wing*
+[WPP (Grey)] 	New York 	8,200 	-8.9
+504 	483 	Fry Hammond Barr*
+	Orlando, Fla. 	8,200 	-6.8
+504 	530 	La Comunidad
+	Miami Beach, Fla. 	8,200 	13.9
+507 	495 	Adams & Knight Communications*
+	Avon, Conn. 	8,193 	0.0
+508 	555 	Redscout*
+[MDC Partners] 	New York 	8,100 	20.0
+509 	516 	Aloysius, Butler & Clark
+	Wilmington, Del. 	8,055 	6.2
+510 	471 	TPG Direct*
+[Omnicom] 	Philadelphia 	8,042 	-12.9
+511 	498 	Phelps Group
+	Santa Monica, Calif. 	8,025 	-1.0
+512 	586 	Big Spaceship
+	Brooklyn, N.Y. 	8,000 	33.3
+513 	441 	Carton Donofrio Partners
+	Baltimore 	7,973 	-20.7
+514 	490 	RPM Connect
+[D.L. Ryan Cos.] 	Minneapolis 	7,971 	-6.4
+515 	491 	Neiman Group
+	Harrisburg, Pa. 	7,956 	-5.4
+516 	602 	R2integrated
+	Baltimore 	7,944 	43.8
+517 	494 	Roberts & Langer DDB*
+[Omnicom (DDB)] 	New York 	7,900 	-4.8
+517 	526 	Springbox*
+	Austin, Texas 	7,900 	7.6
+519 	592 	Attention*
+[MDC Partners] 	New York 	7,875 	36.4
+520 	NA 	Denali*
+	Minneapolis 	7,800 	NA
+520 	541 	Footsteps*
+[Omnicom] 	New York 	7,800 	11.4
+522 	627 	Rockfish Interactive
+	Rogers, Ark. 	7,687 	53.9
+523 	481 	Weston/Mason
+	Santa Monica, Calif. 	7,675 	-14.3
+524 	514 	Peterson Milla Hooks*
+	Minneapolis 	7,650 	0.0
+525 	496 	RDA International
+	New York 	7,591 	-7.3
+526 	535 	San Jose Group
+	Chicago 	7,572 	7.0
+527 	487 	Vladimir Jones
+	Colorado Springs, Colo. 	7,536 	-12.4
+528 	NA 	Acquirgy*
+	St. Petersburg, Fla. 	7,500 	NA
+528 	519 	Moses Anshell
+	Phoenix 	7,500 	0.0
+528 	558 	Beber Silverstein & Partners*
+	Miami 	7,500 	11.9
+528 	442 	Hal Lewis Group*
+	Philadelphia 	7,500 	-25.0
+528 	520 	Iris USA
+[Iris Worldwide] 	New York 	7,500 	0.0
+528 	413 	Godfrey
+	Lancaster, Pa. 	7,500 	-33.0
+534 	524 	Magna Group*
+	Fair Lawn, N.J. 	7,400 	0.0
+535 	569 	Agency Q
+	Washington 	7,392 	15.3
+536 	562 	Siltanen & Partners Advertising*
+	El Segundo, Calif. 	7,350 	13.1
+536 	525 	Gold*
+	Ponte Vedra Beach, Fla. 	7,350 	0.0
+538 	547 	Radarworks
+	Seattle 	7,300 	5.8
+538 	507 	Push*
+	Orlando, Fla. 	7,300 	-7.6
+540 	567 	Allied Media Corp.
+	Alexandria, Va. 	7,295 	12.4
+541 	482 	Babcock & Jenkins
+	Portland, Ore. 	7,256 	-18.9
+542 	527 	M&C Saatchi
+	Santa Monica, Calif. 	7,237 	-0.9
+543 	469 	Pedone & Partners
+	New York 	7,200 	-22.6
+544 	499 	SicolaMartin*
+[WPP (Y&R)] 	Austin, Texas 	7,192 	-10.4
+545 	533 	Threespot Media*
+	Washington 	7,169 	0.0
+546 	461 	Kolar Advertising & Marketing
+	Austin, Texas 	7,146 	-24.9
+547 	650 	FullSix
+	Levallois Perret, France 	7,077 	56.9
+548 	549 	M/C/C
+	Dallas 	7,037 	2.9
+549 	554 	Link Agency
+	La Jolla, Calif. 	7,036 	4.0
+550 	423 	Davies Public Affairs
+	Santa Barbara, Calif. 	7,025 	-35.0
+551 	346 	Agent 16
+	New York 	7,000 	-50.0
+551 	539 	Yaffe Group
+	Southfield, Mich. 	7,000 	0.0
+551 	540 	Cutwater*
+[Omnicom] 	San Francisco 	7,000 	0.0
+554 	588 	Source Communications
+	Hackensack, N.J. 	6,985 	17.0
+555 	542 	WonderGroup
+	Cincinnati 	6,980 	0.0
+556 	552 	Black Twig Communications
+	St. Louis 	6,900 	1.5
+556 	565 	Garrigan Lyman Group*
+	Seattle 	6,900 	6.2
+556 	515 	O'Leary & Partners
+	Newport Beach, Calif. 	6,900 	-9.2
+559 	560 	Castells & Asociados
+	Los Angeles 	6,891 	4.2
+560 	517 	Blitz Agency
+	Santa Monica, Calif. 	6,821 	-9.5
+561 	422 	Nitrogen
+	Philadelphia 	6,801 	-37.7
+562 	484 	AlPunto Advertising*
+	Tustin, Calif. 	6,800 	-21.8
+563 	593 	SG&W*
+	Montville, N.J. 	6,748 	18.4
+564 	548 	Orci
+	Los Angeles 	6,700 	-2.6
+565 	557 	Two West
+	Kansas City, Mo. 	6,695 	-0.5
+566 	571 	Media Horizons
+	Norwalk, Conn. 	6,680 	5.3
+567 	630 	NYCA
+	Encinitas, Calif. 	6,677 	35.0
+568 	553 	Cossette*
+	New York 	6,613 	-2.6
+569 	613 	Tocquigny
+	Austin, Texas 	6,600 	26.4
+570 	513 	Milici Valenti Ng Pack
+	Honolulu 	6,532 	-14.8
+571 	616 	Response Mine Interactive
+	Atlanta 	6,502 	26.0
+572 	579 	Dig Communications
+	Chicago 	6,500 	6.6
+572 	546 	E.B. Lane
+	Phoenix 	6,500 	-5.8
+574 	568 	Adlucent*
+	Austin, Texas 	6,487 	0.0
+575 	500 	Latinsphere
+	Long Beach, Calif. 	6,400 	-20.0
+576 	544 	KraftWorks NYC
+	New York 	6,300 	-9.4
+577 	766 	Hyper Factory
+[Meredith Corp.] 	New York 	6,250 	150.5
+578 	518 	Lapiz Hispanic Marketing*
+[Publicis (Burnett)] 	Chicago 	6,200 	-17.3
+579 	573 	PriceWeber Marketing Communications
+	Louisville, Ky. 	6,128 	-2.6
+580 	453 	Vox Collective
+	New York 	6,100 	-37.6
+580 	551 	Bayshore Solutions
+	Tampa, Fla. 	6,100 	-10.3
+580 	550 	Nelson Schmidt
+	Milwaukee 	6,100 	-10.5
+583 	489 	NFusion Group
+	Austin, Texas 	6,083 	-28.8
+584 	566 	Simantel Group*
+	Peoria, Ill. 	6,063 	-6.7
+585 	534 	Spring O'Brien
+	New York 	6,035 	-15.0
+586 	612 	Alinean
+	Orlando, Fla. 	6,025 	15.0
+587 	564 	Red Bricks Media
+	San Francisco 	6,025 	-7.3
+588 	NA 	Square One
+	Dallas 	6,000 	NA
+588 	445 	Translation Consulting & Brand Imaging*
+[Interpublic] 	New York 	6,000 	-40.0
+588 	599 	MV42*
+[Publicis (Starcom)] 	New York 	6,000 	7.5
+588 	538 	Fame*
+[Omnicom (TBWA)] 	Minneapolis 	6,000 	-14.3
+592 	624 	GreenRubino
+	Seattle 	5,922 	18.2
+593 	628 	Gotham Direct
+	New York 	5,915 	19.0
+594 	601 	Topin & Associates
+	Chicago 	5,850 	5.4
+595 	581 	Charleston/Orwig
+	Hartland, Wis. 	5,814 	-4.2
+596 	654 	Bell Pottinger/Corporate Citizenship
+[Chime Communications] 	Washington 	5,789 	30.1
+597 	543 	JA Integrated Thinking
+	Brentwood, Tenn. 	5,737 	-17.7
+598 	575 	Korey Kay & Partners*
+	New York 	5,700 	-8.9
+599 	595 	Stone Ward*
+	Little Rock, Ark. 	5,675 	0.0
+600 	589 	Digital Pulp
+	New York 	5,600 	-3.4
+600 	563 	Digiknow
+	Cleveland 	5,600 	-13.8
+600 	580 	Creative Civilization
+	San Antonio 	5,600 	-8.2
+603 	NA 	RJ Dale Advertising & PR
+	Chicago 	5,531 	NA
+604 	572 	Red Urban*
+[Omnicom] 	London 	5,519 	-12.9
+605 	587 	Fuse Interactive*
+	Laguna Beach, Calif. 	5,500 	-8.3
+605 	576 	Adamson Advertising
+	St. Louis 	5,500 	-11.3
+605 	606 	Geppetto Group
+[WPP] 	New York 	5,500 	1.9
+608 	618 	White & Partners
+	Herndon, Va. 	5,488 	7.1
+609 	636 	Red F
+	Charlotte, N.C. 	5,465 	12.9
+610 	537 	HMH
+	Portland, Ore. 	5,459 	-22.2
+611 	608 	Revolucion
+	New York 	5,450 	2.8
+612 	523 	Lopito Ileana & Howie
+	Guaynabo, P.R. 	5,436 	-26.6
+613 	604 	Preston Kelly
+	Minneapolis 	5,415 	-1.6
+614 	748 	Adrenalina*
+[MDC Partners] 	New York 	5,400 	98.9
+615 	529 	GodwinGroup
+	Jackson, Miss. 	5,376 	-26.0
+616 	603 	Hart Associates
+	Maumee, Ohio 	5,358 	-2.9
+617 	509 	Gelia
+	Williamsville, N.Y. 	5,356 	-31.4
+618 	600 	TaCito Direct Marketing
+	Dallas 	5,308 	-4.8
+619 	638 	Meyocks Group*
+	West Des Moines, Iowa 	5,250 	9.6
+619 	621 	EGC Group
+	Melville, N.Y. 	5,250 	2.9
+621 	614 	Omelet*
+	Los Angeles 	5,220 	1.0
+622 	691 	Genuine Interactive
+	Boston 	5,200 	33.3
+622 	632 	Seiter & Miller
+	New York 	5,200 	6.1
+624 	582 	Sundog*
+	Fargo, N.D. 	5,150 	-15.0
+625 	626 	Weintraub Advertising
+	St. Louis 	5,100 	2.0
+626 	617 	Keiler & Co.
+	Farmington, Conn. 	5,072 	-1.1
+627 	643 	ESW Partners
+	Chicago 	5,069 	7.5
+628 	683 	Traction
+	San Francisco 	5,000 	25.0
+628 	570 	Kelliher Samets Volk
+	Burlington, Vt. 	5,000 	-21.9
+628 	591 	Yamamoto Moss Mackenzie*
+[MDC Partners] 	Minneapolis 	5,000 	-13.8
+628 	505 	Evolution Bureau*
+[Omnicom] 	San Francisco 	5,000 	-37.3
+632 	634 	Magnani Continuum Marketing
+	Chicago 	4,950 	2.1
+633 	631 	Baker Street Advertising*
+	San Francisco 	4,900 	0.0
+634 	737 	Aaaza
+	Los Angeles 	4,860 	62.4
+635 	633 	Sullivan Perkins*
+	Dallas 	4,850 	-0.0
+636 	635 	Davis & Co.*
+	Washington 	4,840 	0.0
+637 	663 	AdFarm
+	Kansas City, Mo. 	4,831 	12.3
+638 	717 	Republica
+	Miami 	4,800 	45.5
+638 	577 	TG Madison
+	Atlanta 	4,800 	-22.3
+638 	NA 	Brogan Tennyson Group*
+	Atlanta 	4,800 	NA
+641 	623 	Mortar
+	San Francisco 	4,790 	-4.6
+642 	639 	Martino & Binzer*
+	Farmington, Conn. 	4,775 	0.0
+643 	640 	Blaine Warren Advertising*
+	Las Vegas 	4,760 	0.0
+644 	NA 	HealthStar Public Relations*
+[HealthStar Comms.] 	New York 	4,750 	NA
+645 	528 	S&R Medical Communications
+	Durham, N.C. 	4,700 	-35.6
+645 	673 	Siboney USA*
+[Interpublic] 	Coral Gables, Fla. 	4,700 	11.9
+647 	714 	iMarketing
+	Princeton, N.J. 	4,638 	38.5
+648 	578 	Keller-Crescent Co.
+	Evansville, Ind. 	4,634 	-24.3
+649 	620 	PanCom International*
+	Los Angeles 	4,630 	-9.3
+650 	705 	InfoMat
+	Torrance, Calif. 	4,600 	27.8
+651 	670 	Bandy Carroll Hellige Advertising
+	Louisville, Ky. 	4,590 	8.5
+652 	702 	MarCom Group
+	Fairfax, Va. 	4,539 	23.8
+653 	583 	Marca Hispanic
+[Marc USA] 	Coconut Grove, Fla. 	4,537 	-25.1
+654 	649 	Bandujo Advertising & Design*
+	New York 	4,532 	0.0
+655 	787 	WDFA Marketing
+	San Francisco 	4,521 	108.4
+656 	611 	HeadQuarters Advertising*
+	San Francisco 	4,500 	-14.3
+656 	443 	Al Paul Lefton Co.
+	Philadelphia 	4,500 	-55.0
+656 	735 	Fuseideas
+	Somerville, Mass. 	4,500 	50.0
+659 	695 	Mirrorball
+	New York 	4,491 	16.6
+660 	660 	Stephan & Brady
+	Madison, Wis. 	4,462 	3.3
+661 	655 	ADK America
+[Asatsu-DK] 	New York 	4,411 	-0.9
+662 	657 	Latin3
+	Hollywood, Fla. 	4,400 	0.0
+663 	712 	Hello Design*
+[MDC Partners] 	Culver City, Calif. 	4,375 	25.0
+664 	677 	Solomon Friedman Advertising
+	Bloomfield Hills, Mich. 	4,320 	5.0
+665 	666 	Heil-Brice Retail Advertising*
+	Irvine, Calif. 	4,300 	0.0
+665 	594 	Vigilante*
+[Publicis (Burnett)] 	New York 	4,300 	-24.6
+665 	665 	Mono*
+[MDC Partners] 	Minneapolis 	4,300 	0.0
+665 	625 	Amazon Advertising*
+[Publicis] 	San Francisco 	4,300 	-14.0
+669 	642 	Tiziani & Whitmyre
+	Sharon, Mass. 	4,253 	-9.9
+670 	674 	Barker/DZP
+	New York 	4,230 	1.7
+671 	647 	Brighton Agency
+	St. Louis 	4,208 	-7.6
+672 	607 	GCG Marketing
+	Fort Worth, Texas 	4,205 	-21.0
+673 	765 	Flightpath
+	New York 	4,200 	68.0
+673 	585 	Glenn Group
+	Reno, Nev. 	4,200 	-30.0
+673 	658 	CreativeOnDemand*
+	Coconut Grove, Fla. 	4,200 	-4.5
+676 	693 	Firehouse
+	Dallas 	4,160 	8.1
+677 	656 	Masterminds
+	Egg Harbor Township, N.J. 	4,148 	-6.7
+678 	675 	CCFC Advertising
+	Chicago 	4,144 	0.0
+679 	676 	Matthews/Evans/Albertazzi*
+	San Diego 	4,139 	0.0
+680 	597 	Kilgannon
+	Atlanta 	4,133 	-26.6
+681 	619 	Matlock Advertising & Public Relations
+	Atlanta 	4,118 	-19.4
+682 	590 	Time Advertising
+	Millbrae, Calif. 	4,114 	-29.1
+683 	646 	Gabriel deGrood Bendt
+	Minneapolis 	4,100 	-10.9
+683 	775 	Porcaro Communications
+	Anchorage, Alaska 	4,100 	76.0
+683 	697 	Brooklyn Brothers
+	New York 	4,100 	7.9
+683 	679 	Bulldog Drummond*
+	San Diego 	4,100 	0.0
+683 	615 	Bruce Clay
+	Moorpark, Calif. 	4,100 	-20.7
+688 	661 	Red Square Agency
+	Mobile, Ala. 	4,058 	-5.9
+689 	668 	Love Communications
+	Salt Lake City 	4,018 	-5.9
+690 	653 	Hunt Adkins
+	Minneapolis 	4,016 	-10.0
+691 	685 	Rotter Group*
+	Laguna Beach, Calif. 	4,000 	0.0
+691 	687 	Blue Sky Agency
+	Atlanta 	4,000 	0.0
+691 	686 	Stonefly Communications Group*
+[inVentiv Health] 	Westerville, Ohio 	4,000 	0.0
+694 	682 	Travers Collins & Co.
+	Buffalo, N.Y. 	3,987 	-0.4
+695 	703 	EMG
+	Valencia, Calif. 	3,983 	10.6
+696 	704 	Two by Four Communications
+	Chicago 	3,957 	9.9
+697 	659 	Rabinovici & Associates
+	North Miami Beach, Fla. 	3,957 	-9.3
+698 	711 	Most Brand Development & Advertising
+	Aliso Viejo, Calif. 	3,950 	12.9
+698 	694 	Shine Advertising Co.
+	Madison, Wis. 	3,950 	2.6
+700 	706 	352 Media Group
+	Newberry, Fla. 	3,893 	8.1
+701 	662 	R/P Marketing Public Relations
+	Holland, Ohio 	3,891 	-9.6
+702 	681 	KD&E
+	New York 	3,878 	-3.2
+703 	609 	Colman Brohan Davis
+	Chicago 	3,850 	-27.4
+704 	744 	Ignition Network*
+	Chicago 	3,840 	33.3
+704 	690 	Cashman & Katz Integrated Communications
+	Glastonbury, Conn. 	3,840 	-3.2
+706 	648 	Copacino & Fujikado
+	Seattle 	3,809 	-16.3
+707 	736 	TDA Advertising & Design
+	Boulder, Colo. 	3,800 	26.7
+707 	NA 	Impulso Advertising
+	Phoenix 	3,800 	NA
+709 	770 	Location3 Media
+	Denver 	3,781 	58.1
+710 	NA 	Sanna Mattson MacLeod
+	Smithtown, N.Y. 	3,685 	NA
+711 	688 	Mason*
+	Bethany, Conn. 	3,650 	-8.8
+712 	672 	E & M Advertising*
+	New York 	3,643 	-13.3
+713 	755 	Elevacion
+	Washington 	3,624 	37.9
+714 	696 	Mass Hispanic Marketing
+	Miami 	3,612 	-5.2
+715 	689 	Littlefield
+	Tulsa, Okla. 	3,611 	-9.4
+716 	521 	Renegade
+	New York 	3,600 	-52.0
+716 	743 	Beeby Clark & Meyler
+	Irvington, N.Y. 	3,600 	24.1
+718 	605 	Grafik Marketing Communications
+	Alexandria, Va. 	3,592 	-34.5
+719 	664 	Stephens & Associates*
+	Overland Park, Kan. 	3,575 	-16.9
+720 	645 	KYK Advertising & Promotions*
+	Louisville, Ky. 	3,526 	-24.0
+721 	713 	Bradshaw Advertising
+	Portland, Ore. 	3,525 	2.3
+722 	733 	Squeaky Wheel Media
+	New York 	3,500 	16.7
+722 	730 	PM Publicidad
+	Atlanta 	3,500 	15.7
+722 	811 	Traffik
+	Irvine, Calif. 	3,500 	94.4
+725 	732 	Interlex Communications
+	San Antonio 	3,496 	16.0
+726 	644 	CooperKatz & Co.
+	New York 	3,440 	-26.3
+727 	692 	Alexander Marketing
+	Grand Rapids, Mich. 	3,425 	-11.6
+728 	709 	ME&V
+	Cedar Falls, Iowa 	3,403 	-3.2
+729 	629 	Corder Philips
+	Charlotte, N.C. 	3,397 	-31.4
+730 	641 	Hoffman Agency
+	San Jose, Calif. 	3,350 	-29.5
+731 	708 	Zehnder Communications
+	New Orleans 	3,331 	-5.5
+732 	610 	Ad Store
+	New York 	3,309 	-37.3
+733 	726 	Tom, Dick & Harry Advertising
+	Chicago 	3,300 	6.5
+733 	719 	Inventiva*
+	San Antonio 	3,300 	0.0
+733 	707 	Stick & Move
+	Philadelphia 	3,300 	-8.3
+736 	680 	Richter7
+	Salt Lake City 	3,296 	-18.1
+737 	698 	Downtown Partners Chicago*
+[Omnicom] 	Chicago 	3,266 	-11.7
+738 	667 	TargetCom*
+[MDC Partners] 	Chicago 	3,225 	-24.6
+739 	652 	Thielen IdeaCorp*
+	Fresno, Calif. 	3,223 	-28.1
+740 	727 	K. Fernandez & Associates
+	San Antonio 	3,222 	4.3
+741 	790 	Cultivator Advertising & Design
+	Denver 	3,200 	52.4
+741 	739 	Perich & Partners
+	Ann Arbor, Mich. 	3,200 	7.7
+741 	559 	N-tara Interactive
+	Johnson City, Tenn. 	3,200 	-52.1
+744 	751 	Data Marketing
+	Santa Clara, Calif. 	3,196 	18.5
+745 	828 	Schermer Kuehl
+	Minneapolis 	3,194 	108.2
+746 	759 	Turbine Boost
+	Westport, Conn. 	3,175 	22.7
+747 	756 	Creative Department
+	Cincinnati 	3,173 	21.0
+748 	723 	Stratagem Healthcare Communications*
+	San Francisco 	3,161 	0.0
+749 	757 	SiteLab Interactive
+	La Jolla, Calif. 	3,146 	20.2
+750 	752 	Dae Advertising
+	San Francisco 	3,141 	18.0
+751 	651 	ES Advertising
+	Los Angeles 	3,140 	-30.0
+752 	622 	Submit Express
+	Burbank, Calif. 	3,100 	-39.2
+752 	817 	Jar Group
+	Brooklyn, N.Y. 	3,100 	82.4
+754 	728 	Remerinc Creative Marketing*
+	Seattle 	3,063 	0.0
+755 	740 	MediaMorphosis
+	Long Island City, N.Y. 	3,024 	2.8
+756 	715 	Turkel*
+	Miami 	3,000 	-10.0
+756 	NA 	RP3 Agency
+	Bethesda, Md. 	3,000 	NA
+756 	710 	Waylon Ad
+	St. Louis 	3,000 	-14.3
+756 	718 	WFofR*
+	Richmond, Va. 	3,000 	-9.1
+760 	701 	LatinMedios.com
+	Aventura, Fla. 	2,998 	-18.7
+761 	671 	Innis Maggiore
+	Canton, Ohio 	2,985 	-29.1
+762 	773 	Backe Digital Brand Marketing
+	Radnor, Pa. 	2,980 	27.5
+763 	800 	U.S. Media Consulting
+	Miami 	2,978 	57.5
+764 	803 	E-storm International
+	San Francisco 	2,959 	57.6
+765 	734 	Y Brand*
+[inVentiv Health] 	New York 	2,914 	-2.9
+766 	760 	Viva Partnership*
+	Miami 	2,900 	12.3
+767 	731 	MDB Communications
+	Washington 	2,864 	-5.0
+768 	762 	Sensis Agency
+	Los Angeles 	2,853 	11.3
+769 	725 	Truth
+	Santa Ana, Calif. 	2,832 	-9.5
+770 	754 	Launch Agency
+	Carrollton, Texas 	2,825 	6.6
+771 	700 	McKee Wallwork Cleveland
+	Albuquerque, N.M. 	2,816 	-23.7
+772 	746 	Holtzman Communications*
+	New York 	2,800 	0.0
+773 	699 	LKM
+	Charlotte, N.C. 	2,797 	-24.3
+774 	788 	Asher Media
+	Dallas 	2,794 	31.2
+775 	720 	SKM Group
+	Depew, N.Y. 	2,740 	-16.4
+776 	747 	Munn Rabot
+	New York 	2,714 	-0.2
+777 	721 	RLR Advertising & Marketing*
+	Pasadena, Calif. 	2,700 	-17.2
+778 	808 	Gertrude*
+	Chicago 	2,660 	46.4
+779 	729 	Ventura Associates
+	New York 	2,645 	-12.9
+780 	NA 	Spike DDB*
+[Omnicom (DDB)] 	Brooklyn, N.Y. 	2,600 	NA
+780 	798 	Viewstream
+	San Francisco 	2,600 	36.8
+780 	812 	Acropolis
+	Orlando, Fla. 	2,600 	48.6
+783 	750 	Nemer Fieger
+	Minneapolis 	2,594 	-4.1
+784 	741 	Rick Johnson & Co.
+	Albuquerque, N.M. 	2,566 	-12.5
+785 	789 	FaceTime Strategy
+	Washington 	2,558 	21.3
+786 	722 	Leopold Ketel & Partners
+	Portland, Ore. 	2,553 	-20.3
+787 	678 	Zugara
+	Culver City, Calif. 	2,500 	-39.0
+787 	637 	Anderson Communications
+	Atlanta 	2,500 	-47.9
+789 	821 	CHI & Partners*
+[WPP] 	London/New York 	2,480 	50.0
+790 	768 	Enquiro Search Solutions
+	Kelowna, British Columbia 	2,443 	-0.2
+791 	778 	Anderson Marketing Group
+	San Antonio 	2,410 	8.6
+792 	769 	Alstin Advertising*
+	Philadelphia 	2,400 	0.0
+792 	758 	KZS Advertising
+	Smithtown, N.Y. 	2,400 	-8.0
+794 	819 	LaGrant Communications
+	Los Angeles 	2,387 	42.5
+795 	724 	Latorra, Paul & McCann Advertising
+	Syracuse, N.Y. 	2,378 	-24.6
+796 	771 	J. Gonzalez & Associates
+	Coral Springs, Fla. 	2,377 	0.0
+797 	772 	Penny/Ohlmann/Neiman*
+	Dayton, Ohio 	2,349 	0.0
+798 	835 	SEO Logic
+	Oak Park, Ill. 	2,300 	76.9
+798 	781 	Richards/Carlberg
+[Richards Group] 	Houston 	2,300 	4.5
+800 	767 	Freebairn & Co.
+	Atlanta 	2,290 	-8.2
+801 	763 	Chemistry Communications
+	Pittsburgh 	2,280 	-10.4
+802 	753 	Walz Tetrick Advertising
+	Mission, Kan. 	2,259 	-15.1
+803 	738 	Red7e
+	Louisville, Ky. 	2,252 	-24.4
+804 	795 	Crossbow Group
+	Westport, Conn. 	2,250 	15.4
+805 	777 	Cruz/Kravetz:Ideas*
+	Burbank, Calif. 	2,229 	0.0
+806 	831 	AYDigital
+	New York 	2,200 	51.7
+806 	784 	Advanced Media Productions*
+	Natick, Mass. 	2,200 	0.0
+808 	804 	Mehigan, Bellone & Associates
+	Schenectady, N.Y. 	2,181 	16.3
+809 	783 	Borenstein Group
+	Reston, Va. 	2,100 	-4.5
+810 	839 	Underscore Marketing
+	New York 	2,056 	91.1
+811 	794 	Tipton & Maglione
+	Great Neck, N.Y. 	2,047 	5.0
+812 	805 	PriMedia
+	Warwick, R.I. 	2,036 	9.3
+813 	749 	Mindpower
+	Atlanta 	2,024 	-25.3
+814 	774 	Rare Method*
+	Calgary, Alberta 	2,015 	-13.5
+815 	764 	Euro RSCG Latino*
+[Havas (Euro)] 	New York 	2,000 	-20.0
+815 	NA 	10th Degree*
+	Lake Forest, Calif. 	2,000 	NA
+815 	779 	Portent Interactive
+	Tukwila, Wash. 	2,000 	-9.1
+815 	780 	Agency 51
+	Anaheim, Calif. 	2,000 	-9.1
+815 	785 	Walker Sands Communications
+	Chicago 	2,000 	-9.1
+820 	825 	Escape Pod
+	Chicago 	1,993 	23.5
+821 	820 	Blanchard Schaefer Advertising & Public Relations
+	Arlington, Texas 	1,991 	19.2
+822 	793 	Russell Herder*
+	Minneapolis 	1,980 	0.0
+823 	834 	Magner Sanborn
+	Spokane, Wash. 	1,966 	50.4
+824 	745 	Coates Kokes
+	Portland, Ore. 	1,934 	-32.7
+825 	809 	Bender Hammerling Group PR
+	Upper Montclair, N.J. 	1,931 	7.1
+826 	797 	Saeshe Advertising*
+	Los Angeles 	1,900 	0.0
+827 	818 	Fusion B2B
+	Naperville, Ill. 	1,892 	11.7
+828 	801 	Siddall
+	Richmond, Va. 	1,875 	-0.5
+829 	716 	Martz Agency
+	Scottsdale, Ariz. 	1,857 	-44.3
+830 	851 	Condon & Root
+	Barrington, Ill. 	1,800 	125.0
+830 	782 	Zig Marketing
+	Independence, Ohio 	1,800 	-18.2
+832 	830 	Villing & Co.
+	South Bend, Ind. 	1,787 	20.3
+833 	826 	Zig*
+[MDC Partners] 	Toronto, Ontario 	1,750 	11.1
+834 	814 	Henry Russell Bruce*
+	Cedar Rapids, Iowa 	1,735 	0.0
+835 	796 	Waldbillig & Besteman
+	Madison, Wis. 	1,712 	-11.6
+836 	792 	Ideal Marketing
+	Chicago 	1,700 	-15.0
+837 	799 	TotalCom*
+	Tuscaloosa, Ala. 	1,691 	-10.6
+838 	806 	Lortz Direct Marketing
+	Omaha, Neb. 	1,676 	-9.9
+839 	791 	Trumpet
+	New Orleans 	1,636 	-20.5
+840 	813 	Cinco*
+	Dallas 	1,575 	-10.0
+841 	824 	Cartel
+	San Antonio 	1,568 	-4.9
+842 	810 	Turnpost
+	Omaha, Neb. 	1,500 	-16.7
+843 	816 	Goodman Marketing Partners
+	San Rafael, Calif. 	1,426 	-16.7
+844 	NA 	Strategy Farm
+	New York 	1,400 	NA
+845 	NA 	Mercury Werks
+	Dallas 	1,368 	NA
+846 	822 	Winning Edge Communications
+	Princeton, N.J. 	1,362 	-17.5
+847 	838 	CGSM
+	Wilton, Conn. 	1,355 	14.7
+848 	823 	Nail Communications
+	Providence, R.I. 	1,350 	-18.2
+849 	NA 	MCI Group
+	Geneva, Switzerland 	1,339 	NA
+850 	856 	Good Apple
+	New York 	1,300 	188.9
+850 	829 	Touchdown Media
+	Metuchen, N.J. 	1,300 	-15.1
+852 	807 	BtB Marketing Communications
+	Raleigh, N.C. 	1,231 	-32.7
+853 	836 	J-U Carter*
+	San Clemente, Calif. 	1,226 	0.0
+854 	802 	Huntsinger & Jeffer
+	Richmond, Va. 	1,209 	-35.6
+855 	786 	Hydrogen Advertising
+	Seattle 	1,129 	-48.5
+856 	776 	McDonald Marketing
+	Dallas 	1,119 	-50.1
+857 	833 	Emerging Marketing
+	Columbus, Ohio 	1,116 	-18.1
+858 	827 	Kochan & Co. Marketing Communications*
+	St. Louis 	1,105 	-28.8
+859 	761 	Ten Communications
+	Los Angeles 	1,101 	-57.1
+860 	840 	WalkerTek Interactive Marketing
+	Fairfield, N.J. 	1,093 	4.2
+861 	845 	Vizion Interactive
+	Irving, Texas 	1,050 	16.7
+862 	832 	Mandala
+	Bend, Ore. 	1,036 	-24.0
+863 	742 	Core
+	St. Louis 	1,000 	-65.5
+863 	841 	Ibis Communications
+	Nashville, Tenn. 	1,000 	-2.0
+865 	837 	Kinzie & Green
+	Wausau, Wis. 	944 	-20.1
+866 	842 	Altman-Hall Associates
+	Erie, Pa. 	939 	-6.2
+867 	846 	Imulus
+	Boulder, Colo. 	825 	-2.9
+868 	850 	Spiker Communications*
+	Missoula, Mont. 	800 	0.0
+869 	843 	Beyond Total Branding
+	Fort Lauderdale, Fla. 	760 	-24.0
+870 	848 	ENA Marketing/Advertising
+	Eatontown, N.J. 	700 	-12.5
+871 	847 	Bluberries Advertising*
+	Garfield, N.J. 	677 	-20.0
+872 	NA 	Mobext*
+[Havas (Havas Media)] 	Boston 	660 	NA
+873 	853 	Steel Advertising & Interactive
+	Austin, Texas 	650 	0.0
+874 	815 	LP&G
+	Tucson, Ariz. 	589 	-65.7
+875 	854 	Tri-State Advertising Co.
+	Warsaw, Ind. 	513 	-16.9
+876 	849 	Griff/SMC Marketing Communications
+	Boulder, Colo. 	500 	-37.5
+877 	844 	.Com Marketing
+	Winter Park, Fla. 	490 	-46.4
+878 	858 	Clownfish*
+[Aegis (Media {Isobar})] 	New York 	300 	0.0
+879 	859 	T.D. Wang Advertising Group
+	Seattle 	290 	1.8
+880 	857 	Szen Marketing
+	Dana Point, Calif. 	260 	-16.1
+881 	855 	:30 Segundos
+	New York 	240 	-48.9
+882 	NA 	Hudson Media Services
+	New York 	160 	NA
+883 	852 	Dirigo Agency
+	Rockville, Md. 	100 	-86.7 
