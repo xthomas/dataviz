@@ -1,0 +1,756 @@
+COMPANY-TYPE,ITEM,TAX-STATUS,EMPLOYER,2015 Revenue,2014 Revenue,2013 Revenue,2012 Revenue,2011 Revenue,2010 Revenue,2009 Revenue,2008 Revenue,2007 Revenue
+Utilities1 ,Revenue ,All Establishments ,Employer Firms ,"576,560","605,238","561,593","531,891","562,752","550,965","524,701",NA,NA
+Utilities1 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"576,560","605,238","561,593","531,891","562,752","550,965","524,701",NA,NA
+"Electric Power Generation, Transmission, and Distribution ",Revenue ,All Establishments ,Employer Firms ,"464,561","471,846","446,299","430,080","443,859","428,463","406,379",NA,NA
+"Electric Power Generation, Transmission, and Distribution ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"464,561","471,846","446,299","430,080","443,859","428,463","406,379",NA,NA
+Natural Gas Distribution ,Revenue ,All Establishments ,Employer Firms ,"98,154","119,881","102,681","89,568","106,591","110,694","106,939",NA,NA
+Natural Gas Distribution ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"98,154","119,881","102,681","89,568","106,591","110,694","106,939",NA,NA
+"Water, Sewage and Other Systems ",Revenue ,All Establishments ,Employer Firms ,"13,845","13,511","12,613","12,243","12,302","11,808","11,383",NA,NA
+"Water, Sewage and Other Systems ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,845","13,511","12,613","12,243","12,302","11,808","11,383",NA,NA
+Transportation and Warehousing2 ,Revenue ,All Establishments ,Employer Firms ,"876,498","859,178","805,714","773,120","732,854","660,440","614,995",NA,NA
+Transportation and Warehousing2 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"876,498","859,178","805,714","773,120","732,854","660,440","614,995",NA,NA
+Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"200,161","199,009","189,150","181,271","173,791","148,419","136,441",NA,NA
+Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"200,161","199,009","189,150","181,271","173,791","148,419","136,441",NA,NA
+Scheduled Passenger Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"174,099","173,250","165,509","157,177","150,392","126,902","116,666",NA,NA
+Scheduled Passenger Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"174,099","173,250","165,509","157,177","150,392","126,902","116,666",NA,NA
+Scheduled Freight Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"6,042","6,146","6,233","6,671","7,078","6,441","5,795",NA,NA
+Scheduled Freight Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,042","6,146","6,233","6,671","7,078","6,441","5,795",NA,NA
+Nonscheduled Chartered Passenger Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"13,709","13,285","11,706","11,451","11,132","10,499","9,300",NA,NA
+Nonscheduled Chartered Passenger Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,709","13,285","11,706","11,451","11,132","10,499","9,300",NA,NA
+Nonscheduled Chartered Freight Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"4,474","4,269","3,736","4,173","3,581","3,317","3,353",NA,NA
+Nonscheduled Chartered Freight Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,474","4,269","3,736","4,173","3,581","3,317","3,353",NA,NA
+Other Nonscheduled Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"1,837","2,059","1,966","1,799","1,608","1,260","1,327",NA,NA
+Other Nonscheduled Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,837","2,059","1,966","1,799","1,608","1,260","1,327",NA,NA
+Water Transportation ,Revenue ,All Establishments ,Employer Firms ,"44,003","45,132","42,807","41,709","39,540","37,392","34,937",NA,NA
+Water Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"44,003","45,132","42,807","41,709","39,540","37,392","34,937",NA,NA
+Deep Sea Freight Transportation ,Revenue ,All Establishments ,Employer Firms ,"8,443","9,215","9,530","9,640","9,409","9,281","8,239",NA,NA
+Deep Sea Freight Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,443","9,215","9,530","9,640","9,409","9,281","8,239",NA,NA
+Deep Sea Passenger Transportation ,Revenue ,All Establishments ,Employer Firms ,"18,593","17,985","16,875","16,325","15,307","14,393","13,440",NA,NA
+Deep Sea Passenger Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,593","17,985","16,875","16,325","15,307","14,393","13,440",NA,NA
+Coastal and Great Lakes Freight Transportation ,Revenue ,All Establishments ,Employer Firms ,"7,509","7,909","7,657","7,006","6,486","6,254","5,356",NA,NA
+Coastal and Great Lakes Freight Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,509","7,909","7,657","7,006","6,486","6,254","5,356",NA,NA
+Coastal and Great Lakes Passenger Transportation ,Revenue ,All Establishments ,Employer Firms ,492,432,387,371,357,307,297,NA,NA
+Coastal and Great Lakes Passenger Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,492,432,387,371,357,307,297,NA,NA
+Inland Water Freight Transportation ,Revenue ,All Establishments ,Employer Firms ,"8,652","9,281","8,064","8,074","7,698","6,879","7,370",NA,NA
+Inland Water Freight Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,652","9,281","8,064","8,074","7,698","6,879","7,370",NA,NA
+Inland Water Passenger Transportation ,Revenue ,All Establishments ,Employer Firms ,314,310,294,293,283,278,235,NA,NA
+Inland Water Passenger Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,314,310,294,293,283,278,235,NA,NA
+Truck Transportation ,Revenue ,All Establishments ,Employer Firms ,"263,249","263,875","245,520","238,003","221,096","197,963","182,749","223,204","217,833"
+Truck Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"263,249","263,875","245,520","238,003","221,096","197,963","182,749","223,204","217,833"
+"General Freight Trucking, Local ",Revenue ,All Establishments ,Employer Firms ,"26,426","26,222","24,305","23,360","21,889","19,902","18,134","21,792","21,174"
+"General Freight Trucking, Local ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"26,426","26,222","24,305","23,360","21,889","19,902","18,134","21,792","21,174"
+"General Freight Trucking, Long-Distance, Truckload ",Revenue ,All Establishments ,Employer Firms ,"101,884","101,178","94,298","92,215","87,027","77,474","70,551","86,540","83,386"
+"General Freight Trucking, Long-Distance, Truckload ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"101,884","101,178","94,298","92,215","87,027","77,474","70,551","86,540","83,386"
+"General Freight Trucking, Long-Distance, Less Than Truckload ",Revenue ,All Establishments ,Employer Firms ,"41,221","41,378","38,805","37,453","35,472","31,698","29,260","37,817","37,948"
+"General Freight Trucking, Long-Distance, Less Than Truckload ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"41,221","41,378","38,805","37,453","35,472","31,698","29,260","37,817","37,948"
+Used Household and Office Goods Moving ,Revenue ,All Establishments ,Employer Firms ,"15,897","15,366","14,348","13,651","12,992","12,361","12,188","14,375","14,549"
+Used Household and Office Goods Moving ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"15,897","15,366","14,348","13,651","12,992","12,361","12,188","14,375","14,549"
+"Specialized Freight (except Used Goods) Trucking, Local ",Revenue ,All Establishments ,Employer Firms ,"38,828","40,873","37,631","36,171","32,168","28,465","26,612","32,021","31,549"
+"Specialized Freight (except Used Goods) Trucking, Local ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"38,828","40,873","37,631","36,171","32,168","28,465","26,612","32,021","31,549"
+"Specialized Freight (except Used Goods) Trucking, Long-Distance ",Revenue ,All Establishments ,Employer Firms ,"38,993","38,858","36,133","35,153","31,548","28,063","26,004","30,659","29,227"
+"Specialized Freight (except Used Goods) Trucking, Long-Distance ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"38,993","38,858","36,133","35,153","31,548","28,063","26,004","30,659","29,227"
+Transit and Ground Passenger Transportation ,Revenue ,All Establishments ,Employer Firms ,"34,031","32,969","31,307","29,955","28,394","26,900","27,526",NA,NA
+Transit and Ground Passenger Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"34,031","32,969","31,307","29,955","28,394","26,900","27,526",NA,NA
+Urban Transit Systems ,Revenue ,All Establishments ,Employer Firms ,"5,596","5,443","5,178","4,940","4,718","4,460","4,855",NA,NA
+Urban Transit Systems ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,596","5,443","5,178","4,940","4,718","4,460","4,855",NA,NA
+Interurban and Rural Bus Transportation ,Revenue ,All Establishments ,Employer Firms ,"1,146","1,188","1,175","1,151","1,106","1,037","1,205",NA,NA
+Interurban and Rural Bus Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,146","1,188","1,175","1,151","1,106","1,037","1,205",NA,NA
+Taxi Service ,Revenue ,All Establishments ,Employer Firms ,"2,678","2,640","2,558","2,477","2,359","2,225","2,090",NA,NA
+Taxi Service ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,678","2,640","2,558","2,477","2,359","2,225","2,090",NA,NA
+Limousine Service ,Revenue ,All Establishments ,Employer Firms ,"4,564","4,572","4,361","4,138","3,893","3,554","3,256",NA,NA
+Limousine Service ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,564","4,572","4,361","4,138","3,893","3,554","3,256",NA,NA
+School and Employee Bus Transportation ,Revenue ,All Establishments ,Employer Firms ,"10,939","10,355","9,851","9,444","8,974","8,628","9,155",NA,NA
+School and Employee Bus Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,939","10,355","9,851","9,444","8,974","8,628","9,155",NA,NA
+Charter Bus Industry ,Revenue ,All Establishments ,Employer Firms ,"3,439","3,273","3,166","3,078","2,941","2,888","2,707",NA,NA
+Charter Bus Industry ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,439","3,273","3,166","3,078","2,941","2,888","2,707",NA,NA
+Other Transit and Ground Passenger Transportation ,Revenue ,All Establishments ,Employer Firms ,"5,669","5,498","5,018","4,727","4,403","4,108","4,258",NA,NA
+Other Transit and Ground Passenger Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,669","5,498","5,018","4,727","4,403","4,108","4,258",NA,NA
+Pipeline Transportation ,Revenue ,All Establishments ,Employer Firms ,"43,764","41,852","38,813","36,484","34,973","33,069","30,376",NA,NA
+Pipeline Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"43,764","41,852","38,813","36,484","34,973","33,069","30,376",NA,NA
+Pipeline Transportation of Crude Oil ,Revenue ,All Establishments ,Employer Firms ,"10,004","9,029","7,863","6,801","5,471","5,004","4,069",NA,NA
+Pipeline Transportation of Crude Oil ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,004","9,029","7,863","6,801","5,471","5,004","4,069",NA,NA
+Pipeline Transportation of Natural Gas ,Revenue ,All Establishments ,Employer Firms ,"25,230","25,097","23,782","22,987","22,973","21,831","20,428",NA,NA
+Pipeline Transportation of Natural Gas ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"25,230","25,097","23,782","22,987","22,973","21,831","20,428",NA,NA
+Pipeline Transportation of Refined Petroleum Products ,Revenue ,All Establishments ,Employer Firms ,"8,227","7,451","6,869","6,417","6,263","5,993","5,635",NA,NA
+Pipeline Transportation of Refined Petroleum Products ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,227","7,451","6,869","6,417","6,263","5,993","5,635",NA,NA
+All Other Pipeline Transportation ,Revenue ,All Establishments ,Employer Firms ,303,275,299,279,266,241,244,NA,NA
+All Other Pipeline Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,303,275,299,279,266,241,244,NA,NA
+Scenic and Sightseeing Transportation ,Revenue ,All Establishments ,Employer Firms ,"3,666","3,368","3,271","3,093","2,765","2,545","2,401",NA,NA
+Scenic and Sightseeing Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,666","3,368","3,271","3,093","2,765","2,545","2,401",NA,NA
+"Scenic and Sightseeing Transportation, Land ",Revenue ,All Establishments ,Employer Firms ,"1,084","1,027","1,029","1,010",941,903,863,NA,NA
+"Scenic and Sightseeing Transportation, Land ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,084","1,027","1,029","1,010",941,903,863,NA,NA
+"Scenic and Sightseeing Transportation, Water ",Revenue ,All Establishments ,Employer Firms ,"1,906","1,727","1,669","1,580","1,356","1,236","1,151",NA,NA
+"Scenic and Sightseeing Transportation, Water ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,906","1,727","1,669","1,580","1,356","1,236","1,151",NA,NA
+"Scenic and Sightseeing Transportation, Other ",Revenue ,All Establishments ,Employer Firms ,676,614,573,503,468,406,387,NA,NA
+"Scenic and Sightseeing Transportation, Other ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,676,614,573,503,468,406,387,NA,NA
+Support Activities for Transportation ,Revenue ,All Establishments ,Employer Firms ,"177,816","167,478","153,744","144,749","137,706","125,423","113,262",NA,NA
+Support Activities for Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"177,816","167,478","153,744","144,749","137,706","125,423","113,262",NA,NA
+Airport Operations ,Revenue ,All Establishments ,Employer Firms ,"7,936","7,709","7,022","6,929","6,599","5,699","5,518",NA,NA
+Airport Operations ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,936","7,709","7,022","6,929","6,599","5,699","5,518",NA,NA
+Other Support Activities for Air Transportation ,Revenue ,All Establishments ,Employer Firms ,"16,826","16,723","16,217","15,546","15,270","15,072","14,238",NA,NA
+Other Support Activities for Air Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,826","16,723","16,217","15,546","15,270","15,072","14,238",NA,NA
+Support Activities for Rail Transportation ,Revenue ,All Establishments ,Employer Firms ,"5,781","5,238","5,213","4,836","4,495","3,945","3,692",NA,NA
+Support Activities for Rail Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,781","5,238","5,213","4,836","4,495","3,945","3,692",NA,NA
+Port and Harbor Operations ,Revenue ,All Establishments ,Employer Firms ,"2,809","2,625","2,565","2,359","2,010","1,856","1,798",NA,NA
+Port and Harbor Operations ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,809","2,625","2,565","2,359","2,010","1,856","1,798",NA,NA
+Marine Cargo Handling ,Revenue ,All Establishments ,Employer Firms ,"10,782","10,034","9,046","8,904","8,218","7,572","7,302",NA,NA
+Marine Cargo Handling ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,782","10,034","9,046","8,904","8,218","7,572","7,302",NA,NA
+Navigational Services to Shipping ,Revenue ,All Establishments ,Employer Firms ,"3,503","3,426","3,349","3,168","2,960","2,886","2,659",NA,NA
+Navigational Services to Shipping ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,503","3,426","3,349","3,168","2,960","2,886","2,659",NA,NA
+Other Support Activities for Water Transportation ,Revenue ,All Establishments ,Employer Firms ,"2,434","2,398","2,183","2,056","2,055","2,054","1,953",NA,NA
+Other Support Activities for Water Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,434","2,398","2,183","2,056","2,055","2,054","1,953",NA,NA
+Motor Vehicle Towing ,Revenue ,All Establishments ,Employer Firms ,"6,016","5,795","5,376","5,109","5,071","5,040","4,776",NA,NA
+Motor Vehicle Towing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,016","5,795","5,376","5,109","5,071","5,040","4,776",NA,NA
+Other Support Activities for Road Transportation ,Revenue ,All Establishments ,Employer Firms ,"3,396","2,962","2,577","2,402","2,203","2,115","2,030",NA,NA
+Other Support Activities for Road Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,396","2,962","2,577","2,402","2,203","2,115","2,030",NA,NA
+Freight Transportation Arrangement ,Revenue ,All Establishments ,Employer Firms ,"116,044","108,392","98,108","91,455","86,881","77,359","67,520",NA,NA
+Freight Transportation Arrangement ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"116,044","108,392","98,108","91,455","86,881","77,359","67,520",NA,NA
+Other Support Activities for Transportation ,Revenue ,All Establishments ,Employer Firms ,"2,289","2,176","2,088","1,985","1,944","1,825","1,776",NA,NA
+Other Support Activities for Transportation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,289","2,176","2,088","1,985","1,944","1,825","1,776",NA,NA
+Couriers and Messengers ,Revenue ,All Establishments ,Employer Firms ,"78,424","75,118","71,570","69,362","67,947","63,855","64,429","76,164","77,877"
+Couriers and Messengers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"78,424","75,118","71,570","69,362","67,947","63,855","64,429","76,164","77,877"
+Couriers and Express Delivery Services ,Revenue ,All Establishments ,Employer Firms ,"74,117","71,280","67,849","65,801","64,723","60,917","61,644","72,879","74,392"
+Couriers and Express Delivery Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"74,117","71,280","67,849","65,801","64,723","60,917","61,644","72,879","74,392"
+Local Messengers and Local Delivery ,Revenue ,All Establishments ,Employer Firms ,"4,307","3,838","3,721","3,561","3,224","2,938","2,785","3,285","3,485"
+Local Messengers and Local Delivery ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,307","3,838","3,721","3,561","3,224","2,938","2,785","3,285","3,485"
+Warehousing and Storage ,Revenue ,All Establishments ,Employer Firms ,"31,384","30,377","29,532","28,494","26,642","24,874","22,874","23,319","21,921"
+Warehousing and Storage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"31,384","30,377","29,532","28,494","26,642","24,874","22,874","23,319","21,921"
+General Warehousing and Storage ,Revenue ,All Establishments ,Employer Firms ,"19,486","18,864","18,272","17,617","16,857","15,966","15,181","15,883","15,187"
+General Warehousing and Storage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"19,486","18,864","18,272","17,617","16,857","15,966","15,181","15,883","15,187"
+Refrigerated Warehousing and Storage ,Revenue ,All Establishments ,Employer Firms ,S,"4,310","4,071","4,098","3,973","4,083","3,498","3,502","3,391"
+Refrigerated Warehousing and Storage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,S,"4,310","4,071","4,098","3,973","4,083","3,498","3,502","3,391"
+Farm Product Warehousing and Storage ,Revenue ,All Establishments ,Employer Firms ,786,726,754,738,771,698,769,884,864
+Farm Product Warehousing and Storage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,786,726,754,738,771,698,769,884,864
+Other Warehousing and Storage ,Revenue ,All Establishments ,Employer Firms ,"6,698","6,477","6,435","6,041","5,041","4,127","3,426","3,050","2,479"
+Other Warehousing and Storage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,698","6,477","6,435","6,041","5,041","4,127","3,426","3,050","2,479"
+Information4 ,Revenue ,All Establishments ,Employer Firms ,"1,405,882","1,351,616","1,284,064","1,238,463","1,177,025","1,118,055","1,077,707","1,108,485","1,072,342"
+Information4 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,405,882","1,351,616","1,284,064","1,238,463","1,177,025","1,118,055","1,077,707","1,108,485","1,072,342"
+Publishing Industries (except Internet) ,Revenue ,All Establishments ,Employer Firms ,"293,771","291,575","279,253","272,152","270,879","260,795","260,168","282,369","282,223"
+Publishing Industries (except Internet) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"293,771","291,575","279,253","272,152","270,879","260,795","260,168","282,369","282,223"
+Newspaper Publishers ,Revenue ,All Establishments ,Employer Firms ,"26,550","28,112","28,512","29,790","31,527","33,360","35,366","43,383","47,563"
+Newspaper Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"26,550","28,112","28,512","29,790","31,527","33,360","35,366","43,383","47,563"
+Periodical Publishers ,Revenue ,All Establishments ,Employer Firms ,"28,314","29,378","29,185","29,338","30,641","31,876","34,340","42,520","46,003"
+Periodical Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"28,314","29,378","29,185","29,338","30,641","31,876","34,340","42,520","46,003"
+Book Publishers ,Revenue ,All Establishments ,Employer Firms ,"27,676","26,891","26,720","26,732","27,467","27,735","27,147","27,904","27,807"
+Book Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"27,676","26,891","26,720","26,732","27,467","27,735","27,147","27,904","27,807"
+Directory and Mailing List Publishers ,Revenue ,All Establishments ,Employer Firms ,"8,214","8,602","8,265","10,118","11,224","11,987","15,563","17,809","18,515"
+Directory and Mailing List Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,214","8,602","8,265","10,118","11,224","11,987","15,563","17,809","18,515"
+Greeting Card Publishers ,Revenue ,All Establishments ,Employer Firms ,"3,457","3,501","3,585","3,684","3,792","3,829","3,845","4,434","4,779"
+Greeting Card Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,457","3,501","3,585","3,684","3,792","3,829","3,845","4,434","4,779"
+All Other Publishers ,Revenue ,All Establishments ,Employer Firms ,"1,219","1,269","1,252","1,415","1,438","1,549","1,670","2,071","2,155"
+All Other Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,219","1,269","1,252","1,415","1,438","1,549","1,670","2,071","2,155"
+Software Publishers ,Revenue ,All Establishments ,Employer Firms ,"198,341","193,822","181,734","171,075","164,790","150,459","142,237","144,248","135,401"
+Software Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"198,341","193,822","181,734","171,075","164,790","150,459","142,237","144,248","135,401"
+Motion Picture and Sound Recording Industries ,Revenue ,All Establishments ,Employer Firms ,"98,982","94,745","95,084","91,974","89,141","90,108","87,044","93,591","94,986"
+Motion Picture and Sound Recording Industries ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"98,982","94,745","95,084","91,974","89,141","90,108","87,044","93,591","94,986"
+Motion Picture and Video Production and Distribution3 ,Revenue ,All Establishments ,Employer Firms ,"64,434","62,831","64,504","61,886","59,628","59,411","55,825","61,138","61,911"
+Motion Picture and Video Production and Distribution3 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"64,434","62,831","64,504","61,886","59,628","59,411","55,825","61,138","61,911"
+Motion Picture and Video Exhibition ,Revenue ,All Establishments ,Employer Firms ,"15,787","14,563","14,144","13,544","12,459","12,869","12,908","12,589","12,705"
+Motion Picture and Video Exhibition ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"15,787","14,563","14,144","13,544","12,459","12,869","12,908","12,589","12,705"
+Teleproduction and Other Postproduction Services ,Revenue ,All Establishments ,Employer Firms ,"5,500","5,212","4,922","4,815","4,954","4,623","4,067","4,331","4,379"
+Teleproduction and Other Postproduction Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,500","5,212","4,922","4,815","4,954","4,623","4,067","4,331","4,379"
+Other Motion Picture and Video Industries ,Revenue ,All Establishments ,Employer Firms ,398,448,379,517,553,617,665,709,802
+Other Motion Picture and Video Industries ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,398,448,379,517,553,617,665,709,802
+Record Production ,Revenue ,All Establishments ,Employer Firms ,392,338,297,214,267,289,318,296,338
+Record Production ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,392,338,297,214,267,289,318,296,338
+Integrated Record Production and Distribution ,Revenue ,All Establishments ,Employer Firms ,"5,765","5,077","5,032","5,408","5,794","6,991","7,772","8,489","9,082"
+Integrated Record Production and Distribution ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,765","5,077","5,032","5,408","5,794","6,991","7,772","8,489","9,082"
+Music Publishers ,Revenue ,All Establishments ,Employer Firms ,"5,054","4,732","4,314","4,176","4,094","3,964","4,275","4,769","4,466"
+Music Publishers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,054","4,732","4,314","4,176","4,094","3,964","4,275","4,769","4,466"
+Sound Recording Studios ,Revenue ,All Establishments ,Employer Firms ,"1,086","1,002",951,913,885,848,755,813,854
+Sound Recording Studios ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,086","1,002",951,913,885,848,755,813,854
+Other Sound Recording Industries ,Revenue ,All Establishments ,Employer Firms ,566,542,541,501,507,496,459,S,449
+Other Sound Recording Industries ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,566,542,541,501,507,496,459,S,449
+Broadcasting (except Internet) ,Revenue ,All Establishments ,Employer Firms ,"148,462","140,792","131,413","126,722","117,278","110,734","101,052","105,604","99,919"
+Broadcasting (except Internet) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"148,462","140,792","131,413","126,722","117,278","110,734","101,052","105,604","99,919"
+Radio Networks ,Revenue ,All Establishments ,Employer Firms ,"6,509","6,011","5,703","5,158","4,773","4,626","4,144","4,263","4,124"
+Radio Networks ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,509","6,011","5,703","5,158","4,773","4,626","4,144","4,263","4,124"
+Radio Stations ,Revenue ,All Establishments ,Employer Firms ,"12,445","12,397","12,523","12,842","12,500","12,313","11,768","13,978","14,871"
+Radio Stations ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,445","12,397","12,523","12,842","12,500","12,313","11,768","13,978","14,871"
+Television Broadcasting ,Revenue ,All Establishments ,Employer Firms ,"50,577","49,911","44,782","45,126","40,125","38,926","33,895","37,878","35,998"
+Television Broadcasting ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"50,577","49,911","44,782","45,126","40,125","38,926","33,895","37,878","35,998"
+Cable and Other Subscription Programming ,Revenue ,All Establishments ,Employer Firms ,"78,931","72,473","68,405","63,596","59,880","54,869","51,245","49,485","44,926"
+Cable and Other Subscription Programming ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"78,931","72,473","68,405","63,596","59,880","54,869","51,245","49,485","44,926"
+Telecommunications4 ,Revenue ,All Establishments ,Employer Firms ,"601,970","588,172","558,935","545,594","530,490","510,499","500,691","506,282","491,124"
+Telecommunications4 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"601,970","588,172","558,935","545,594","530,490","510,499","500,691","506,282","491,124"
+Wired Telecommunications Carriers5 ,Revenue ,All Establishments ,Employer Firms ,"306,384","296,792","288,647","285,663","284,810","281,149","282,508","293,473","290,781"
+Wired Telecommunications Carriers5 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"306,384","296,792","288,647","285,663","284,810","281,149","282,508","293,473","290,781"
+Wireless Telecommunications Carriers (except Satellite)6 ,Revenue ,All Establishments ,Employer Firms ,"254,406","251,766","233,123","225,397","214,361","199,235","188,042","182,581","170,584"
+Wireless Telecommunications Carriers (except Satellite)6 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"254,406","251,766","233,123","225,397","214,361","199,235","188,042","182,581","170,584"
+Satellite Telecommunications ,Revenue ,All Establishments ,Employer Firms ,"6,926","6,729","6,920","6,802","6,284","5,897","5,575","4,938","4,450"
+Satellite Telecommunications ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,926","6,729","6,920","6,802","6,284","5,897","5,575","4,938","4,450"
+Telecommunications Resellers7 ,Revenue ,All Establishments ,Employer Firms ,"18,708","17,595","16,263","14,645","12,914","11,898","11,469","11,841","11,853"
+Telecommunications Resellers7 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,708","17,595","16,263","14,645","12,914","11,898","11,469","11,841","11,853"
+All Other Telecommunications8 ,Revenue ,All Establishments ,Employer Firms ,"15,546","15,290","13,982","13,087","12,121","12,320","13,097","13,449","13,456"
+All Other Telecommunications8 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"15,546","15,290","13,982","13,087","12,121","12,320","13,097","13,449","13,456"
+"Data Processing, Hosting, and Related Services4 ",Revenue ,All Establishments ,Employer Firms ,"129,957","120,450","116,040","107,994","95,168","85,201","77,278","74,284","66,652"
+"Data Processing, Hosting, and Related Services4 ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"129,957","120,450","116,040","107,994","95,168","85,201","77,278","74,284","66,652"
+Other Information Services4 ,Revenue ,All Establishments ,Employer Firms ,"132,740","115,882","103,339","94,027","74,069","60,718","51,474","46,355","37,438"
+Other Information Services4 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"132,740","115,882","103,339","94,027","74,069","60,718","51,474","46,355","37,438"
+News Syndicates ,Revenue ,All Establishments ,Employer Firms ,"2,042","1,898","1,935","1,959","1,894","1,754","1,809","2,017","2,140"
+News Syndicates ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,042","1,898","1,935","1,959","1,894","1,754","1,809","2,017","2,140"
+Libraries and Archives ,Revenue ,All Establishments ,Employer Firms ,"2,514","2,496","2,435","2,180","2,351","2,044","2,112","2,077","1,854"
+Libraries and Archives ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,514","2,496","2,435","2,180","2,351","2,044","2,112","2,077","1,854"
+Internet Publishing and Broadcasting and Web Search Portals9 ,Revenue ,All Establishments ,Employer Firms ,"125,868","109,414","96,951","87,946","68,049","54,976","45,438","39,959","31,094"
+Internet Publishing and Broadcasting and Web Search Portals9 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"125,868","109,414","96,951","87,946","68,049","54,976","45,438","39,959","31,094"
+All Other Information Services ,Revenue ,All Establishments ,Employer Firms ,"2,316","2,074","2,018","1,942","1,775","1,944","2,115","2,302","2,350"
+All Other Information Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,316","2,074","2,018","1,942","1,775","1,944","2,115","2,302","2,350"
+Finance and Insurance10 ,Revenue ,All Establishments ,Employer Firms ,"4,101,306","3,948,185","3,727,937","3,636,116","3,517,253","3,495,664","3,524,271",NA,NA
+Finance and Insurance10 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,101,306","3,948,185","3,727,937","3,636,116","3,517,253","3,495,664","3,524,271",NA,NA
+Monetary Authorities-Central Bank ,Revenue ,All Establishments ,Employer Firms ,"113,067","113,895","90,220","100,171","87,716","88,189","62,344",NA,NA
+Monetary Authorities-Central Bank ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"113,067","113,895","90,220","100,171","87,716","88,189","62,344",NA,NA
+Credit Intermediation and Related Activities ,Revenue ,All Establishments ,Employer Firms ,"1,104,812","1,074,966","1,085,112","1,095,193","1,111,349","1,161,282","1,255,002",NA,NA
+Credit Intermediation and Related Activities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,104,812","1,074,966","1,085,112","1,095,193","1,111,349","1,161,282","1,255,002",NA,NA
+Commercial Banking ,Revenue ,All Establishments ,Employer Firms ,"391,465","384,653","383,281","390,155","393,342","407,929","422,638",NA,NA
+Commercial Banking ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"391,465","384,653","383,281","390,155","393,342","407,929","422,638",NA,NA
+Savings Institutions ,Revenue ,All Establishments ,Employer Firms ,D,D,"35,753",D,"44,030","48,243","50,983",NA,NA
+Savings Institutions ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,D,D,"35,753",D,"44,030","48,243","50,983",NA,NA
+Credit Unions ,Revenue ,All Establishments ,Employer Firms ,"53,379","49,945","49,792","49,987","47,532","47,677","49,992",NA,NA
+Credit Unions ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"53,379","49,945","49,792","49,987","47,532","47,677","49,992",NA,NA
+Other Depository Credit Intermediation ,Revenue ,All Establishments ,Employer Firms ,D,D,917,D,888,912,889,NA,NA
+Other Depository Credit Intermediation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,D,D,917,D,888,912,889,NA,NA
+Credit Card Issuing ,Revenue ,All Establishments ,Employer Firms ,"85,065","83,598","87,378","81,763","82,174","81,454","82,294",NA,NA
+Credit Card Issuing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"85,065","83,598","87,378","81,763","82,174","81,454","82,294",NA,NA
+Sales Financing ,Revenue ,All Establishments ,Employer Firms ,"104,874","97,314","89,919","83,389","82,017","89,541","95,841",NA,NA
+Sales Financing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"104,874","97,314","89,919","83,389","82,017","89,541","95,841",NA,NA
+Other Nondepository Credit Intermediation ,Revenue ,All Establishments ,Employer Firms ,"341,980","338,280","353,996","370,809","391,032","416,642",S,NA,NA
+Other Nondepository Credit Intermediation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"341,980","338,280","353,996","370,809","391,032","416,642",S,NA,NA
+Mortgage and Nonmortgage Loan Brokers ,Revenue ,All Establishments ,Employer Firms ,"9,463","7,198","8,061","7,909","5,388","6,317","5,524",NA,NA
+Mortgage and Nonmortgage Loan Brokers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,463","7,198","8,061","7,909","5,388","6,317","5,524",NA,NA
+"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",Revenue ,All Establishments ,Employer Firms ,"65,047","62,428","61,706","56,748","53,147","52,718","48,480",NA,NA
+"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"65,047","62,428","61,706","56,748","53,147","52,718","48,480",NA,NA
+Other Activities Related to Credit Intermediation ,Revenue ,All Establishments ,Employer Firms ,"16,286","15,251","14,309","13,947","11,799","9,849","9,148",NA,NA
+Other Activities Related to Credit Intermediation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,286","15,251","14,309","13,947","11,799","9,849","9,148",NA,NA
+"Securities, Commodity Contracts, and Other Financial Investments and Related Activities ",Revenue ,All Establishments ,Employer Firms ,"586,523","582,474","547,055","515,454","508,560","497,636","494,000",NA,NA
+"Securities, Commodity Contracts, and Other Financial Investments and Related Activities ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"586,523","582,474","547,055","515,454","508,560","497,636","494,000",NA,NA
+Investment Banking and Securities Dealing ,Revenue ,All Establishments ,Employer Firms ,"107,305","105,933","104,060","104,079","108,455","119,631","136,504","98,695","203,139"
+Investment Banking and Securities Dealing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"107,305","105,933","104,060","104,079","108,455","119,631","136,504","98,695","203,139"
+Securities Brokerage ,Revenue ,All Establishments ,Employer Firms ,"135,640","136,522","126,858","120,383","118,307","114,760","115,819","68,220","155,797"
+Securities Brokerage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"135,640","136,522","126,858","120,383","118,307","114,760","115,819","68,220","155,797"
+Commodity Contracts Dealing ,Revenue ,All Establishments ,Employer Firms ,"7,937","7,840","7,202","6,673","6,972","6,884","5,837","5,419","6,981"
+Commodity Contracts Dealing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,937","7,840","7,202","6,673","6,972","6,884","5,837","5,419","6,981"
+Commodity Contracts Brokerage ,Revenue ,All Establishments ,Employer Firms ,"5,092","5,325","5,031","5,377","6,676","6,184","5,738","7,084","5,583"
+Commodity Contracts Brokerage ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,092","5,325","5,031","5,377","6,676","6,184","5,738","7,084","5,583"
+Securities and Commodity Exchanges ,Revenue ,All Establishments ,Employer Firms ,"10,548","9,989","9,791","9,694","11,081","10,053","10,208",NA,NA
+Securities and Commodity Exchanges ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,548","9,989","9,791","9,694","11,081","10,053","10,208",NA,NA
+Miscellaneous Intermediation ,Revenue ,All Establishments ,Employer Firms ,"22,477","22,203","20,130","18,895","18,518","17,243","14,861",NA,NA
+Miscellaneous Intermediation ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"22,477","22,203","20,130","18,895","18,518","17,243","14,861",NA,NA
+Portfolio Management ,Revenue ,All Establishments ,Employer Firms ,"227,241","227,242","213,056","193,246","183,807","172,288","158,196","175,371","177,941"
+Portfolio Management ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"227,241","227,242","213,056","193,246","183,807","172,288","158,196","175,371","177,941"
+Investment Advice ,Revenue ,All Establishments ,Employer Firms ,"44,261","40,849","36,201","32,227","28,628","25,693","24,337","23,083","22,917"
+Investment Advice ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"44,261","40,849","36,201","32,227","28,628","25,693","24,337","23,083","22,917"
+All Other Financial Investment Activities ,Revenue ,All Establishments ,Employer Firms ,"26,022","26,571","24,726","24,880","26,116","24,900","22,500",NA,NA
+All Other Financial Investment Activities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"26,022","26,571","24,726","24,880","26,116","24,900","22,500",NA,NA
+Insurance Carriers and Related Activities ,Revenue ,All Establishments ,Employer Firms ,"2,296,904","2,176,850","2,005,550","1,925,298","1,809,628","1,748,557","1,712,925",NA,NA
+Insurance Carriers and Related Activities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,296,904","2,176,850","2,005,550","1,925,298","1,809,628","1,748,557","1,712,925",NA,NA
+"Direct Life, Health, and Medical Insurance Carriers ",Revenue ,All Establishments ,Employer Firms ,"1,378,780","1,298,882","1,174,688","1,142,019","1,093,528","1,060,732","1,036,332",NA,NA
+"Direct Life, Health, and Medical Insurance Carriers ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,378,780","1,298,882","1,174,688","1,142,019","1,093,528","1,060,732","1,036,332",NA,NA
+"Direct Insurance (except Life, Health, and Medical) Carriers ",Revenue ,All Establishments ,Employer Firms ,"544,311","521,246","493,119","470,033","452,183","441,586","435,920",NA,NA
+"Direct Insurance (except Life, Health, and Medical) Carriers ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"544,311","521,246","493,119","470,033","452,183","441,586","435,920",NA,NA
+Reinsurance Carriers ,Revenue ,All Establishments ,Employer Firms ,"55,812","54,995","52,184","49,417","45,517","45,707","44,042",NA,NA
+Reinsurance Carriers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"55,812","54,995","52,184","49,417","45,517","45,707","44,042",NA,NA
+Insurance Agencies and Brokerages ,Revenue ,All Establishments ,Employer Firms ,"130,025","120,110","115,019","106,844","102,607","98,424","99,161",NA,NA
+Insurance Agencies and Brokerages ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"130,025","120,110","115,019","106,844","102,607","98,424","99,161",NA,NA
+Other Insurance Related Activities ,Revenue ,All Establishments ,Employer Firms ,"187,976","181,617","170,540","156,985","115,793","102,108","97,470",NA,NA
+Other Insurance Related Activities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"187,976","181,617","170,540","156,985","115,793","102,108","97,470",NA,NA
+Real Estate and Rental and Leasing11 ,Revenue ,All Establishments ,Employer Firms ,"602,846","564,613","523,255","487,656","454,896","431,216",NA,NA,NA
+Real Estate and Rental and Leasing11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"602,846","564,613","523,255","487,656","454,896","431,216",NA,NA,NA
+Real Estate11 ,Revenue ,All Establishments ,Employer Firms ,"410,457","380,860","351,972","325,339","303,318","289,294",NA,NA,NA
+Real Estate11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"410,457","380,860","351,972","325,339","303,318","289,294",NA,NA,NA
+Lessors of Residential Buildings and Dwellings11 ,Revenue ,All Establishments ,Employer Firms ,"105,318","98,130","91,448","85,980","79,917","73,899",NA,NA,NA
+Lessors of Residential Buildings and Dwellings11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"105,318","98,130","91,448","85,980","79,917","73,899",NA,NA,NA
+Lessors of Nonresidential Buildings (except Miniwarehouses)11 ,Revenue ,All Establishments ,Employer Firms ,"114,499","107,747","100,759","96,132","91,764","86,933",NA,NA,NA
+Lessors of Nonresidential Buildings (except Miniwarehouses)11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"114,499","107,747","100,759","96,132","91,764","86,933",NA,NA,NA
+Lessors of Miniwarehouses and Self-Storage Units11 ,Revenue ,All Establishments ,Employer Firms ,"10,426","9,287","8,455","7,802","7,404","7,025",NA,NA,NA
+Lessors of Miniwarehouses and Self-Storage Units11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,426","9,287","8,455","7,802","7,404","7,025",NA,NA,NA
+Lessors of Other Real Estate Property11 ,Revenue ,All Establishments ,Employer Firms ,"8,136","7,643","7,132","6,645","6,371","6,374",NA,NA,NA
+Lessors of Other Real Estate Property11 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,136","7,643","7,132","6,645","6,371","6,374",NA,NA,NA
+Offices of Real Estate Agents and Brokers ,Revenue ,All Establishments ,Employer Firms ,"92,869","84,199","75,928","65,094","57,020","55,966","54,671",NA,NA
+Offices of Real Estate Agents and Brokers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"92,869","84,199","75,928","65,094","57,020","55,966","54,671",NA,NA
+Real Estate Property Managers ,Revenue ,All Establishments ,Employer Firms ,"59,429","55,574","50,670","47,179","45,598","43,659","42,950",NA,NA
+Real Estate Property Managers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"59,429","55,574","50,670","47,179","45,598","43,659","42,950",NA,NA
+Offices of Real Estate Appraisers ,Revenue ,All Establishments ,Employer Firms ,"5,881","5,464","5,734","5,824","5,248","5,225","5,010",NA,NA
+Offices of Real Estate Appraisers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,881","5,464","5,734","5,824","5,248","5,225","5,010",NA,NA
+Other Activities Related to Real Estate ,Revenue ,All Establishments ,Employer Firms ,"13,899","12,816","11,846","10,683","9,996","10,213","10,791",NA,NA
+Other Activities Related to Real Estate ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,899","12,816","11,846","10,683","9,996","10,213","10,791",NA,NA
+Rental and Leasing Services ,Revenue ,All Establishments ,Employer Firms ,"152,544","145,799","135,753","129,336","119,310","112,020","110,601","123,674","121,685"
+Rental and Leasing Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"152,544","145,799","135,753","129,336","119,310","112,020","110,601","123,674","121,685"
+Passenger Car Rental ,Revenue ,All Establishments ,Employer Firms ,"28,194","27,295","25,957","25,033","24,320","22,534","22,587","24,274","23,789"
+Passenger Car Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"28,194","27,295","25,957","25,033","24,320","22,534","22,587","24,274","23,789"
+Passenger Car Leasing ,Revenue ,All Establishments ,Employer Firms ,"9,050","8,610","8,136","7,714","6,545","6,063","5,718","5,905","5,433"
+Passenger Car Leasing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,050","8,610","8,136","7,714","6,545","6,063","5,718","5,905","5,433"
+"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing ",Revenue ,All Establishments ,Employer Firms ,"18,082","16,933","15,941","15,667","14,923","13,941","13,784","15,959","15,760"
+"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,082","16,933","15,941","15,667","14,923","13,941","13,784","15,959","15,760"
+Consumer Electronics and Appliances Rental ,Revenue ,All Establishments ,Employer Firms ,"7,991","7,462","6,809","6,667","5,880","5,253","4,601","4,471","4,206"
+Consumer Electronics and Appliances Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,991","7,462","6,809","6,667","5,880","5,253","4,601","4,471","4,206"
+Formal Wear and Costume Rental ,Revenue ,All Establishments ,Employer Firms ,463,472,454,456,528,591,677,874,976
+Formal Wear and Costume Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,463,472,454,456,528,591,677,874,976
+Video Tape and Disc Rental ,Revenue ,All Establishments ,Employer Firms ,"3,106","3,417","3,991","4,486","4,910","6,056","6,989","8,256","9,262"
+Video Tape and Disc Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,106","3,417","3,991","4,486","4,910","6,056","6,989","8,256","9,262"
+Home Health Equipment Rental ,Revenue ,All Establishments ,Employer Firms ,"5,396","5,176","5,271","5,417","5,586","5,570","5,465","5,887","5,877"
+Home Health Equipment Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,396","5,176","5,271","5,417","5,586","5,570","5,465","5,887","5,877"
+Recreational Goods Rental ,Revenue ,All Establishments ,Employer Firms ,"1,153",998,897,816,788,735,686,694,683
+Recreational Goods Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,153",998,897,816,788,735,686,694,683
+All Other Consumer Goods Rental ,Revenue ,All Establishments ,Employer Firms ,"4,683","4,507","4,067","3,873","3,616","3,594","3,512","3,846","3,746"
+All Other Consumer Goods Rental ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,683","4,507","4,067","3,873","3,616","3,594","3,512","3,846","3,746"
+General Rental Centers ,Revenue ,All Establishments ,Employer Firms ,"2,619","2,451","2,304","2,327","2,499","2,740","2,889","3,748","4,249"
+General Rental Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,619","2,451","2,304","2,327","2,499","2,740","2,889","3,748","4,249"
+"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing ",Revenue ,All Establishments ,Employer Firms ,"36,201","36,285","32,837","30,480","25,991","23,012","23,012","26,725","26,130"
+"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"36,201","36,285","32,837","30,480","25,991","23,012","23,012","26,725","26,130"
+Office Machinery and Equipment Rental and Leasing ,Revenue ,All Establishments ,Employer Firms ,"2,446","2,297","2,091","2,091","2,034","1,916","1,907","2,134","2,138"
+Office Machinery and Equipment Rental and Leasing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,446","2,297","2,091","2,091","2,034","1,916","1,907","2,134","2,138"
+Other Commercial and Industrial Machinery and Equipment Rental and Leasing ,Revenue ,All Establishments ,Employer Firms ,"33,160","29,896","26,998","24,309","21,690","20,015","18,774","20,901","19,436"
+Other Commercial and Industrial Machinery and Equipment Rental and Leasing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"33,160","29,896","26,998","24,309","21,690","20,015","18,774","20,901","19,436"
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) ,Revenue ,All Establishments ,Employer Firms ,"39,845","37,954","35,530","32,981","32,268","29,902","26,295",NA,NA
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"39,845","37,954","35,530","32,981","32,268","29,902","26,295",NA,NA
+"Professional, Scientific, and Technical Services4,12 ",Revenue ,All Establishments ,Employer Firms ,"1,647,677","1,591,295","1,512,776","1,480,277","1,416,590","1,330,172","1,272,833","1,326,646","1,251,005"
+"Professional, Scientific, and Technical Services4,12 ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"41,829","41,962","41,521","40,217","39,339","36,377","32,449","30,682","30,569"
+"Professional, Scientific, and Technical Services4,12 ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,605,848","1,549,333","1,471,255","1,440,060","1,377,251","1,293,795","1,240,384","1,295,964","1,220,436"
+Offices of Lawyers ,Revenue ,All Establishments ,Employer Firms ,"264,204","254,801","247,961","248,884","244,494","234,389","229,553","234,488","227,768"
+Offices of Lawyers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"3,248","3,056","2,930","2,743","2,798","2,781","2,787","2,801","2,708"
+Offices of Lawyers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"260,956","251,745","245,031","246,141","241,696","231,608","226,766","231,687","225,060"
+Other Legal Services ,Revenue ,All Establishments ,Employer Firms ,"14,092","13,193","14,121","12,810","10,907","11,228","11,177","11,760","11,629"
+Other Legal Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"14,092","13,193","14,121","12,810","10,907","11,228","11,177","11,760","11,629"
+Offices of Certified Public Accountants ,Revenue ,All Establishments ,Employer Firms ,"91,321","84,586","79,715","76,911","70,834","68,702","70,368","69,928","66,588"
+Offices of Certified Public Accountants ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"91,321","84,586","79,715","76,911","70,834","68,702","70,368","69,928","66,588"
+Tax Preparation Services ,Revenue ,All Establishments ,Employer Firms ,"7,099","6,657","6,276","5,848","5,848","5,740","5,714","5,549","5,251"
+Tax Preparation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,099","6,657","6,276","5,848","5,848","5,740","5,714","5,549","5,251"
+Payroll Services ,Revenue ,All Establishments ,Employer Firms ,"35,097","32,803","31,020","29,306","27,095","25,748","26,669","29,995","28,916"
+Payroll Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"35,097","32,803","31,020","29,306","27,095","25,748","26,669","29,995","28,916"
+Other Accounting Services ,Revenue ,All Establishments ,Employer Firms ,"22,498","20,733","19,126","18,196","16,912","15,742","15,058","14,502","13,355"
+Other Accounting Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"22,498","20,733","19,126","18,196","16,912","15,742","15,058","14,502","13,355"
+Architectural Services ,Revenue ,All Establishments ,Employer Firms ,"34,864","31,967","28,865","28,129","28,058","26,849","30,404","38,045","37,150"
+Architectural Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"34,864","31,967","28,865","28,129","28,058","26,849","30,404","38,045","37,150"
+Landscape Architectural Services ,Revenue ,All Establishments ,Employer Firms ,"3,357","3,211","3,018","2,796","2,954","3,021","3,357","4,352","4,365"
+Landscape Architectural Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,357","3,211","3,018","2,796","2,954","3,021","3,357","4,352","4,365"
+Engineering Services ,Revenue ,All Establishments ,Employer Firms ,"225,517","217,178","205,874","208,124","209,570","191,660","191,424","205,904","187,532"
+Engineering Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"225,517","217,178","205,874","208,124","209,570","191,660","191,424","205,904","187,532"
+Drafting Services ,Revenue ,All Establishments ,Employer Firms ,"1,134","1,046",931,833,739,602,NA,NA,NA
+Drafting Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,134","1,046",931,833,739,602,NA,NA,NA
+Building Inspection Services ,Revenue ,All Establishments ,Employer Firms ,"2,590","2,416","2,114","2,005","1,931","1,856","1,622","1,533","1,830"
+Building Inspection Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,590","2,416","2,114","2,005","1,931","1,856","1,622","1,533","1,830"
+Surveying and Mapping Services13 ,Revenue ,All Establishments ,Employer Firms ,"9,130","9,871","9,083","8,735","7,979","7,534",NA,NA,NA
+Surveying and Mapping Services13 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,130","9,871","9,083","8,735","7,979","7,534",NA,NA,NA
+Testing Laboratories ,Revenue ,All Establishments ,Employer Firms ,"17,190","16,257","16,146","15,324","15,431","14,057","12,975","13,593","12,387"
+Testing Laboratories ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"17,190","16,257","16,146","15,324","15,431","14,057","12,975","13,593","12,387"
+"Drafting, Building Inspection, and Mapping Services14 ",Revenue ,All Establishments ,Employer Firms ,"12,854","13,333","12,128","11,573","10,649","9,992","10,029","12,055","12,767"
+"Drafting, Building Inspection, and Mapping Services14 ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,854","13,333","12,128","11,573","10,649","9,992","10,029","12,055","12,767"
+Interior Design Services ,Revenue ,All Establishments ,Employer Firms ,"10,351","9,479","8,172","7,671","7,144","6,594","6,968","9,368","9,799"
+Interior Design Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,351","9,479","8,172","7,671","7,144","6,594","6,968","9,368","9,799"
+Industrial Design Services ,Revenue ,All Establishments ,Employer Firms ,"1,941","1,827","1,690","1,629","1,579","1,308","1,322","1,475","1,542"
+Industrial Design Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,941","1,827","1,690","1,629","1,579","1,308","1,322","1,475","1,542"
+Graphic Design Services ,Revenue ,All Establishments ,Employer Firms ,"8,761","8,157","7,497","7,552","7,544","7,378","7,064","8,252","8,281"
+Graphic Design Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,761","8,157","7,497","7,552","7,544","7,378","7,064","8,252","8,281"
+Other Specialized Design Services ,Revenue ,All Establishments ,Employer Firms ,"1,562","1,506","1,301","1,355","1,148",945,923,921,932
+Other Specialized Design Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,562","1,506","1,301","1,355","1,148",945,923,921,932
+All Other Design Services15 ,Revenue ,All Establishments ,Employer Firms ,"3,503","3,333","2,991","2,984","2,727","2,253","2,245","2,396","2,474"
+All Other Design Services15 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,503","3,333","2,991","2,984","2,727","2,253","2,245","2,396","2,474"
+Computer Systems Design and Related Services ,Revenue ,All Establishments ,Employer Firms ,"348,245","347,637","331,025","326,032","306,119","283,362","260,368","265,770","244,389"
+Computer Systems Design and Related Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"348,245","347,637","331,025","326,032","306,119","283,362","260,368","265,770","244,389"
+Management Consulting Services16 ,Revenue ,All Establishments ,Employer Firms ,"199,868","193,290","180,646","170,213","154,155","138,955","123,060","127,184","115,371"
+Management Consulting Services16 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"199,868","193,290","180,646","170,213","154,155","138,955","123,060","127,184","115,371"
+Environmental Consulting Services ,Revenue ,All Establishments ,Employer Firms ,"12,789","13,018","13,409","13,477","13,266","12,554","11,791","11,555","10,423"
+Environmental Consulting Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,789","13,018","13,409","13,477","13,266","12,554","11,791","11,555","10,423"
+Other Scientific and Technical Consulting Services ,Revenue ,All Establishments ,Employer Firms ,"29,409","27,821","25,714","23,599","20,936","18,779","16,214","15,333","14,011"
+Other Scientific and Technical Consulting Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"29,409","27,821","25,714","23,599","20,936","18,779","16,214","15,333","14,011"
+"Research and Development in the Physical, Engineering, and Life Sciences ",Revenue ,All Establishments ,Employer Firms ,"126,820","120,554","115,125","110,721","109,176","102,860","94,825","94,046","89,413"
+"Research and Development in the Physical, Engineering, and Life Sciences ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"34,017","34,541","34,561","33,662","32,587","29,793","26,139","24,242","24,366"
+"Research and Development in the Physical, Engineering, and Life Sciences ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"92,803","86,013","80,564","77,059","76,589","73,067","68,686","69,804","65,047"
+Research and Development in the Social Sciences and Humanities ,Revenue ,All Establishments ,Employer Firms ,"6,732","6,658","6,172","5,719","5,856","5,651","5,260","5,339","5,105"
+Research and Development in the Social Sciences and Humanities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"4,564","4,365","4,030","3,812","3,954","3,803","3,523","3,639","3,495"
+Research and Development in the Social Sciences and Humanities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,168","2,293","2,142","1,907","1,902","1,848","1,737","1,700","1,610"
+Advertising Agencies ,Revenue ,All Establishments ,Employer Firms ,"39,815","37,563","35,473","34,832","31,301","30,870","29,180","31,236","30,666"
+Advertising Agencies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"39,815","37,563","35,473","34,832","31,301","30,870","29,180","31,236","30,666"
+Public Relations Agencies ,Revenue ,All Establishments ,Employer Firms ,"11,863","11,405","10,633","10,135","9,569","9,515","8,537","9,087","9,279"
+Public relations agencies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,863","11,405","10,633","10,135","9,569","9,515","8,537","9,087","9,279"
+Media Buying Agencies ,Revenue ,All Establishments ,Employer Firms ,"7,503","7,165","6,939","6,725","5,865","5,107","4,806","5,172","4,606"
+Media Buying Agencies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,503","7,165","6,939","6,725","5,865","5,107","4,806","5,172","4,606"
+Media Representatives ,Revenue ,All Establishments ,Employer Firms ,"3,296","3,311","3,153","2,936","3,016","2,992","3,018","3,500","3,577"
+Media Representatives ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,296","3,311","3,153","2,936","3,016","2,992","3,018","3,500","3,577"
+Display Advertising ,Revenue ,All Establishments ,Employer Firms ,"7,248","7,159","7,104","7,157","7,001","7,089","7,089","8,893","9,111"
+Display Advertising ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,248","7,159","7,104","7,157","7,001","7,089","7,089","8,893","9,111"
+Direct Mail Advertising ,Revenue ,All Establishments ,Employer Firms ,"10,126","10,226","10,033","10,200","10,236","10,140","9,627","11,258","12,360"
+Direct Mail Advertising ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,126","10,226","10,033","10,200","10,236","10,140","9,627","11,258","12,360"
+Advertising Material Distribution Services ,Revenue ,All Establishments ,Employer Firms ,"3,976","3,475","3,102","2,703","3,052","3,616","3,701","4,685","4,171"
+Advertising Material Distribution Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,976","3,475","3,102","2,703","3,052","3,616","3,701","4,685","4,171"
+Other Services Related to Advertising ,Revenue ,All Establishments ,Employer Firms ,"13,630","13,369","12,820","12,656","12,443","11,964","11,526","13,019","13,664"
+Other Services Related to Advertising ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,630","13,369","12,820","12,656","12,443","11,964","11,526","13,019","13,664"
+All Other Advertising17 ,Revenue ,All Establishments ,Employer Firms ,"17,606","16,844","15,922","15,359","15,495","15,580","15,227","17,704","17,835"
+All Other Advertising17 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"17,606","16,844","15,922","15,359","15,495","15,580","15,227","17,704","17,835"
+Marketing Research and Public Opinion Polling ,Revenue ,All Establishments ,Employer Firms ,"17,769","17,695","16,450","16,378","17,107","16,531","15,366","16,258","15,493"
+Marketing Research and Public Opinion Polling ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"17,769","17,695","16,450","16,378","17,107","16,531","15,366","16,258","15,493"
+"Photography Studios, Portrait ",Revenue ,All Establishments ,Employer Firms ,"4,109","3,952","3,676","3,682","3,875","4,180","4,521","4,922","5,055"
+"Photography Studios, Portrait ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,109","3,952","3,676","3,682","3,875","4,180","4,521","4,922","5,055"
+Commercial Photography ,Revenue ,All Establishments ,Employer Firms ,"1,757","1,908","1,934","1,786","1,597","1,590","1,595","1,893","1,712"
+Commercial Photography ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,757","1,908","1,934","1,786","1,597","1,590","1,595","1,893","1,712"
+Translation and Interpretation Services ,Revenue ,All Establishments ,Employer Firms ,"3,627","3,654","3,797","4,187","3,883","3,740","3,322","2,229","1,895"
+Translation and Interpretation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,627","3,654","3,797","4,187","3,883","3,740","3,322","2,229","1,895"
+Veterinary Services ,Revenue ,All Establishments ,Employer Firms ,"35,421","33,390","30,825","29,533","27,713","27,033","25,916","25,917","24,568"
+Veterinary Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"35,421","33,390","30,825","29,533","27,713","27,033","25,916","25,917","24,568"
+"All Other Professional, Scientific, and Technical Services ",Revenue ,All Establishments ,Employer Firms ,"12,966","12,357","11,836","11,498","10,257","10,291","10,106","9,163","7,874"
+"All Other Professional, Scientific, and Technical Services ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,966","12,357","11,836","11,498","10,257","10,291","10,106","9,163","7,874"
+Administrative and Support and Waste Management and Remediation Services4 ,Revenue ,All Establishments ,Employer Firms ,"816,393","769,796","701,050","673,033","644,136","614,178","581,917","635,345","625,550"
+Administrative and Support and Waste Management and Remediation Services4 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"816,393","769,796","701,050","673,033","644,136","614,178","581,917","635,345","625,550"
+Administrative and Support Services4 ,Revenue ,All Establishments ,Employer Firms ,"728,883","683,527","619,716","593,835","564,521","535,359","511,072","557,447","550,363"
+Administrative and Support Services4 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"728,883","683,527","619,716","593,835","564,521","535,359","511,072","557,447","550,363"
+Office Administrative Services ,Revenue ,All Establishments ,Employer Firms ,"50,806","49,552","45,580","43,421","41,487","39,193","38,446","38,952","39,295"
+Office Administrative Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"50,806","49,552","45,580","43,421","41,487","39,193","38,446","38,952","39,295"
+Facilities Support Services ,Revenue ,All Establishments ,Employer Firms ,"27,218","25,773","24,895","25,442","27,517","25,592","26,449","27,723","25,735"
+Facilities Support Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"27,218","25,773","24,895","25,442","27,517","25,592","26,449","27,723","25,735"
+Employment Placement Agencies and Executive Search Services18 ,Revenue ,All Establishments ,Employer Firms ,"19,186","18,236","16,825","16,232","16,220","14,336","14,754","18,645","18,795"
+Employment Placement Agencies and Executive Search Services18 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"19,186","18,236","16,825","16,232","16,220","14,336","14,754","18,645","18,795"
+Temporary Help Services ,Revenue ,All Establishments ,Employer Firms ,"153,477","136,727","125,193","120,089","111,746","99,329","85,211","103,340","105,691"
+Temporary Help Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"153,477","136,727","125,193","120,089","111,746","99,329","85,211","103,340","105,691"
+Professional Employer Organizations ,Revenue ,All Establishments ,Employer Firms ,"146,510","135,918","110,241","102,617","93,351","90,081","84,362","87,088","85,205"
+Professional Employer Organizations ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"146,510","135,918","110,241","102,617","93,351","90,081","84,362","87,088","85,205"
+Document Preparation Services ,Revenue ,All Establishments ,Employer Firms ,"3,400","3,320","3,361","3,399","3,085","3,130","3,103","3,394","3,404"
+Document Preparation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,400","3,320","3,361","3,399","3,085","3,130","3,103","3,394","3,404"
+Telephone Answering Services ,Revenue ,All Establishments ,Employer Firms ,"2,086","1,982","1,911","1,946","2,169","2,167","2,179","2,287","2,289"
+Telephone Answering Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,086","1,982","1,911","1,946","2,169","2,167","2,179","2,287","2,289"
+Telemarketing Bureaus and Other Contact Centers ,Revenue ,All Establishments ,Employer Firms ,"18,626","18,269","17,252","16,919","15,459","14,729","15,435","15,284","14,666"
+Telemarketing Bureaus and Other Contact Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,626","18,269","17,252","16,919","15,459","14,729","15,435","15,284","14,666"
+Private Mail Centers ,Revenue ,All Establishments ,Employer Firms ,"2,626","2,491","2,327","2,329","2,179","2,107","2,051","2,197","2,149"
+Private Mail Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,626","2,491","2,327","2,329","2,179","2,107","2,051","2,197","2,149"
+Other Business Service Centers (including Copy Shops) ,Revenue ,All Establishments ,Employer Firms ,"5,896","5,920","5,907","5,774","5,922","6,619","6,900","8,016","8,219"
+Other Business Service Centers (including Copy Shops) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,896","5,920","5,907","5,774","5,922","6,619","6,900","8,016","8,219"
+Collection Agencies ,Revenue ,All Establishments ,Employer Firms ,"11,537","11,945","12,362","12,379","11,862","11,660","11,065","11,958","12,245"
+Collection Agencies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,537","11,945","12,362","12,379","11,862","11,660","11,065","11,958","12,245"
+Credit Bureaus ,Revenue ,All Establishments ,Employer Firms ,"9,330","8,084","7,443","7,062","6,433","6,604","6,932","7,416","8,191"
+Credit Bureaus ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,330","8,084","7,443","7,062","6,433","6,604","6,932","7,416","8,191"
+Repossession Services ,Revenue ,All Establishments ,Employer Firms ,769,760,674,633,775,844,913,832,717
+Repossession Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,769,760,674,633,775,844,913,832,717
+Court Reporting and Stenotype Services ,Revenue ,All Establishments ,Employer Firms ,"2,240","2,175","2,097","2,116","2,246","2,252","2,218","2,214","2,248"
+Court Reporting and Stenotype Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,240","2,175","2,097","2,116","2,246","2,252","2,218","2,214","2,248"
+All Other Business Support Services ,Revenue ,All Establishments ,Employer Firms ,"7,018","6,997","6,804","7,137","7,886","8,199","8,186","8,868","8,169"
+All Other Business Support Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,018","6,997","6,804","7,137","7,886","8,199","8,186","8,868","8,169"
+Travel Agencies ,Revenue ,All Establishments ,Employer Firms ,"15,052","14,313","13,405","13,732","13,267","12,203","10,803","12,169","12,069"
+Travel Agencies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"15,052","14,313","13,405","13,732","13,267","12,203","10,803","12,169","12,069"
+Tour Operators ,Revenue ,All Establishments ,Employer Firms ,"6,084","5,826","5,649","5,373","5,108","5,125","4,786","5,238","4,397"
+Tour Operators ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,084","5,826","5,649","5,373","5,108","5,125","4,786","5,238","4,397"
+Convention and Visitors Bureaus ,Revenue ,All Establishments ,Employer Firms ,"2,010","1,876","1,710","1,589","1,453","1,387","1,418","1,550","1,503"
+Convention and Visitors Bureaus ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,010","1,876","1,710","1,589","1,453","1,387","1,418","1,550","1,503"
+All Other Travel Arrangement and Reservation Services ,Revenue ,All Establishments ,Employer Firms ,"17,640","16,393","15,397","13,652","13,205","12,846","12,071","13,740","13,923"
+All Other Travel Arrangement and Reservation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"17,640","16,393","15,397","13,652","13,205","12,846","12,071","13,740","13,923"
+Investigation Services ,Revenue ,All Establishments ,Employer Firms ,"5,323","5,133","5,170","4,904","4,641","4,404","4,096","3,924","3,887"
+Investigation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,323","5,133","5,170","4,904","4,641","4,404","4,096","3,924","3,887"
+Security Guards and Patrol Services ,Revenue ,All Establishments ,Employer Firms ,"24,012","23,604","23,589","23,040","21,582","20,820","20,938","20,468","18,799"
+Security Guards and Patrol Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"24,012","23,604","23,589","23,040","21,582","20,820","20,938","20,468","18,799"
+Armored Car Services ,Revenue ,All Establishments ,Employer Firms ,"2,247","2,191","2,326","2,334","2,372","2,291","2,317","2,333","2,225"
+Armored Car Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,247","2,191","2,326","2,334","2,372","2,291","2,317","2,333","2,225"
+Security Systems Services (except Locksmiths) ,Revenue ,All Establishments ,Employer Firms ,"19,045","17,861","15,888","15,030","14,725","13,833","13,998","15,014","14,360"
+Security Systems Services (except Locksmiths) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"19,045","17,861","15,888","15,030","14,725","13,833","13,998","15,014","14,360"
+Locksmiths ,Revenue ,All Establishments ,Employer Firms ,"1,803","1,767","1,659","1,637","1,579","1,542","1,501","1,655","1,633"
+Locksmiths ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,803","1,767","1,659","1,637","1,579","1,542","1,501","1,655","1,633"
+Exterminating and Pest Control Services ,Revenue ,All Establishments ,Employer Firms ,"11,929","11,525","10,972","10,307","9,608","9,444","9,071","8,905","8,693"
+Exterminating and Pest Control Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,929","11,525","10,972","10,307","9,608","9,444","9,071","8,905","8,693"
+Janitorial Services ,Revenue ,All Establishments ,Employer Firms ,"41,676","40,015","37,885","36,681","35,917","34,559","33,249","35,195","33,021"
+Janitorial Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"41,676","40,015","37,885","36,681","35,917","34,559","33,249","35,195","33,021"
+Landscaping Services ,Revenue ,All Establishments ,Employer Firms ,"67,549","63,570","55,609","51,908","49,640","47,674","46,804","52,631","53,910"
+Landscaping Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"67,549","63,570","55,609","51,908","49,640","47,674","46,804","52,631","53,910"
+Carpet and Upholstery Cleaning Services ,Revenue ,All Establishments ,Employer Firms ,"3,537","3,446","3,193","3,083","2,958","2,746","2,950","3,135","2,962"
+Carpet and Upholstery Cleaning Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,537","3,446","3,193","3,083","2,958","2,746","2,950","3,135","2,962"
+Other Services to Buildings and Dwellings ,Revenue ,All Establishments ,Employer Firms ,"7,141","6,609","6,040","5,477","4,901","4,758","5,013","5,197","4,778"
+Other Services to Buildings and Dwellings ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,141","6,609","6,040","5,477","4,901","4,758","5,013","5,197","4,778"
+Packaging and Labeling Services ,Revenue ,All Establishments ,Employer Firms ,"7,474","6,875","6,490","5,939","5,648","5,397","4,931","5,216","5,050"
+Packaging and Labeling Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,474","6,875","6,490","5,939","5,648","5,397","4,931","5,216","5,050"
+Convention and Trade Show Organizers ,Revenue ,All Establishments ,Employer Firms ,"13,050","12,920","12,127","12,023","11,086","10,016","9,540","11,963","11,238"
+Convention and Trade Show Organizers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,050","12,920","12,127","12,023","11,086","10,016","9,540","11,963","11,238"
+All Other Support Services ,Revenue ,All Establishments ,Employer Firms ,"22,586","21,454","19,735","19,631","18,494","19,472","19,382","20,900","20,897"
+All Other Support Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"22,586","21,454","19,735","19,631","18,494","19,472","19,382","20,900","20,897"
+Waste Management and Remediation Services ,Revenue ,All Establishments ,Employer Firms ,"87,510","86,269","81,334","79,198","79,615","78,819","70,845","77,898","75,187"
+Waste Management and Remediation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"87,510","86,269","81,334","79,198","79,615","78,819","70,845","77,898","75,187"
+Solid Waste Collection ,Revenue ,All Establishments ,Employer Firms ,"39,503","39,409","37,435","36,560","37,097","36,431","35,777","39,020","36,999"
+Solid Waste Collection ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"39,503","39,409","37,435","36,560","37,097","36,431","35,777","39,020","36,999"
+Hazardous Waste Collection ,Revenue ,All Establishments ,Employer Firms ,"3,225","2,899","2,618","2,249","2,040","2,096","1,890","2,016","1,857"
+Hazardous Waste Collection ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,225","2,899","2,618","2,249","2,040","2,096","1,890","2,016","1,857"
+Other Waste Collection ,Revenue ,All Establishments ,Employer Firms ,"1,703","1,508","1,377","1,488","1,344","1,271","1,323","1,751","1,606"
+Other Waste Collection ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,703","1,508","1,377","1,488","1,344","1,271","1,323","1,751","1,606"
+Hazardous Waste Treatment and Disposal ,Revenue ,All Establishments ,Employer Firms ,"7,915","8,019","6,491","6,698","6,569","6,221","5,697","5,849","5,864"
+Hazardous Waste Treatment and Disposal ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,915","8,019","6,491","6,698","6,569","6,221","5,697","5,849","5,864"
+Solid Waste Landfill ,Revenue ,All Establishments ,Employer Firms ,"5,778","5,782","5,667","5,136","4,919","4,798","4,779","5,594","5,648"
+Solid Waste Landfill ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,778","5,782","5,667","5,136","4,919","4,798","4,779","5,594","5,648"
+Solid Waste Combustors and Incinerators ,Revenue ,All Establishments ,Employer Firms ,S,"2,517","2,520","2,489",S,S,"1,939","2,222","2,081"
+Solid Waste Combustors and Incinerators ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,S,"2,517","2,520","2,489",S,S,"1,939","2,222","2,081"
+Other Nonhazardous Waste Treatment and Disposal ,Revenue ,All Establishments ,Employer Firms ,509,480,528,506,469,481,537,698,671
+Other Nonhazardous Waste Treatment and Disposal ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,509,480,528,506,469,481,537,698,671
+Remediation Services ,Revenue ,All Establishments ,Employer Firms ,"15,532","14,940","14,500","14,193","14,680","16,422","11,444","12,136","12,424"
+Remediation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"15,532","14,940","14,500","14,193","14,680","16,422","11,444","12,136","12,424"
+Materials Recovery Facilities ,Revenue ,All Establishments ,Employer Firms ,"5,285","5,722","5,570","5,639","6,104","5,092","3,823","4,695","4,072"
+Materials Recovery Facilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,285","5,722","5,570","5,639","6,104","5,092","3,823","4,695","4,072"
+Septic Tank and Related Services ,Revenue ,All Establishments ,Employer Firms ,"3,563","3,101","2,847","2,627","2,412","2,351","2,300","2,521","2,553"
+Septic Tank and Related Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,563","3,101","2,847","2,627","2,412","2,351","2,300","2,521","2,553"
+All Other Miscellaneous Waste Management Services ,Revenue ,All Establishments ,Employer Firms ,"1,947","1,892","1,781","1,613","1,615","1,442","1,336","1,396","1,412"
+All Other Miscellaneous Waste Management Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,947","1,892","1,781","1,613","1,615","1,442","1,336","1,396","1,412"
+Educational Services19 ,Revenue ,All Establishments ,Employer Firms ,"61,934","58,591","55,188","53,359","51,971","48,679","45,035",NA,NA
+Educational Services19 ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"16,537","15,281","14,390","13,879","13,243","12,520","12,273",NA,NA
+Educational Services19 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"45,397","43,310","40,798","39,480","38,728","36,159","32,762",NA,NA
+Business Schools and Computer and Management Training ,Revenue ,All Establishments ,Employer Firms ,"11,365","10,754","10,196","9,891","9,934","9,434","9,090",NA,NA
+Business Schools and Computer and Management Training ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"2,348","2,119","2,046","2,015","1,971","1,836","1,827",NA,NA
+Business Schools and Computer and Management Training ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,017","8,635","8,150","7,876","7,963","7,598","7,263",NA,NA
+Technical and Trade Schools ,Revenue ,All Establishments ,Employer Firms ,"14,090","13,616","13,016","13,103","13,363","12,645","11,179",NA,NA
+Technical and Trade Schools ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"2,340","2,090","1,869","1,830","1,705","1,673","1,669",NA,NA
+Technical and Trade Schools ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,750","11,526","11,147","11,273","11,658","10,972","9,510",NA,NA
+Other Schools and Instruction ,Revenue ,All Establishments ,Employer Firms ,"22,584","21,112","19,774","18,742","17,199","16,157","14,893",NA,NA
+Other Schools and Instruction ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"4,447","4,259","3,955","3,965","3,802","3,501","3,469",NA,NA
+Other Schools and Instruction ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,137","16,853","15,819","14,777","13,397","12,656","11,424",NA,NA
+Educational Support Services ,Revenue ,All Establishments ,Employer Firms ,"13,895","13,109","12,202","11,623","11,475","10,443","9,873",NA,NA
+Educational Support Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"7,402","6,813","6,520","6,069","5,765","5,510","5,308",NA,NA
+Educational Support Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,493","6,296","5,682","5,554","5,710","4,933","4,565",NA,NA
+Health Care and Social Assistance ,Revenue ,All Establishments ,Employer Firms ,"2,304,000","2,181,843","2,090,220","2,040,442","1,966,011","1,890,085","1,825,509","1,750,217","1,668,554"
+Health Care and Social Assistance ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"1,165,064","1,107,253","1,063,197","1,031,698","996,985","961,927","924,838","880,825","850,224"
+Health Care and Social Assistance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,138,936","1,074,590","1,027,023","1,008,744","969,026","928,158","900,671","869,392","818,330"
+Ambulatory Health Care Services ,Revenue ,All Establishments ,Employer Firms ,"912,343","863,818","828,282","814,095","784,661","753,036","730,045","707,205","669,136"
+Ambulatory Health Care Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"87,508","82,889","80,218","77,596","74,989","72,290","69,763","66,493","64,053"
+Ambulatory Health Care Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"824,835","780,929","748,064","736,499","709,672","680,746","660,282","640,712","605,083"
+Offices of Physicians (except Mental Health Specialists) ,Revenue ,All Establishments ,Employer Firms ,"442,965","418,853","400,426","397,450","383,415","367,040","356,593","347,945","332,019"
+Offices of Physicians (except Mental Health Specialists) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"442,965","418,853","400,426","397,450","383,415","367,040","356,593","347,945","332,019"
+"Offices of Physicians, Mental Health Specialists ",Revenue ,All Establishments ,Employer Firms ,"5,295","5,266","5,136","4,765","4,411","4,554","4,669","4,586","4,263"
+"Offices of Physicians, Mental Health Specialists ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,295","5,266","5,136","4,765","4,411","4,554","4,669","4,586","4,263"
+Offices of Dentists ,Revenue ,All Establishments ,Employer Firms ,"113,855","109,278","106,496","104,870","103,236","101,313","98,976","98,823","93,930"
+Offices of Dentists ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"113,855","109,278","106,496","104,870","103,236","101,313","98,976","98,823","93,930"
+Offices of Chiropractors ,Revenue ,All Establishments ,Employer Firms ,"12,334","11,933","11,732","11,436","10,921","10,594","10,351","10,136","9,980"
+Offices of Chiropractors ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,334","11,933","11,732","11,436","10,921","10,594","10,351","10,136","9,980"
+Offices of Optometrists ,Revenue ,All Establishments ,Employer Firms ,"13,912","13,359","12,661","12,194","11,708","11,440","11,257","11,024","10,316"
+Offices of Optometrists ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,912","13,359","12,661","12,194","11,708","11,440","11,257","11,024","10,316"
+"Offices of Mental Health Practitioners, (except Physicians) ",Revenue ,All Establishments ,Employer Firms ,"9,092","8,341","7,539","7,082","6,600","6,285","5,965","5,456","5,132"
+"Offices of Mental Health Practitioners, (except Physicians) ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,092","8,341","7,539","7,082","6,600","6,285","5,965","5,456","5,132"
+"Offices of Physical, Occupational and Speech Therapists and Audiologists ",Revenue ,All Establishments ,Employer Firms ,"28,365","26,170","24,365","24,498","23,216","22,239","21,186","19,939","17,785"
+"Offices of Physical, Occupational and Speech Therapists and Audiologists ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"28,365","26,170","24,365","24,498","23,216","22,239","21,186","19,939","17,785"
+Offices of Podiatrists ,Revenue ,All Establishments ,Employer Firms ,"4,410","4,400","4,401","4,421","4,225","4,087","3,975","3,857","3,793"
+Offices of Podiatrists ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,410","4,400","4,401","4,421","4,225","4,087","3,975","3,857","3,793"
+Offices of All Other Miscellaneous Health Practitioners ,Revenue ,All Establishments ,Employer Firms ,"7,963","7,283","6,887","6,151","5,792","5,446","4,966","4,891","4,146"
+Offices of All Other Miscellaneous Health Practitioners ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,963","7,283","6,887","6,151","5,792","5,446","4,966","4,891","4,146"
+Family Planning Centers ,Revenue ,All Establishments ,Employer Firms ,"2,417","2,291","2,267","2,138","2,025","1,933","1,905","1,855","1,796"
+Family Planning Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"1,352","1,297","1,290","1,242","1,214","1,198","1,186","1,143","1,128"
+Family Planning Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,065",994,977,896,811,735,719,712,668
+Outpatient Mental Health and Substance Abuse Centers ,Revenue ,All Establishments ,Employer Firms ,"18,089","16,547","15,441","14,450","13,916","13,110","12,647","12,085","12,067"
+Outpatient Mental Health and Substance Abuse Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"12,384","11,624","10,976","10,560","10,344","9,716","9,454","9,074","9,272"
+Outpatient Mental Health and Substance Abuse Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,705","4,923","4,465","3,890","3,572","3,394","3,193","3,011","2,795"
+HMO Medical Centers ,Revenue ,All Establishments ,Employer Firms ,"8,080","7,496","6,791","6,564","6,288","6,007","5,917","5,391","5,212"
+HMO Medical Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"7,331","6,814","6,414","6,226","5,990","5,759","5,690","5,191","5,029"
+HMO Medical Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,749,682,S,338,298,S,S,S,183
+Kidney Dialysis Centers ,Revenue ,All Establishments ,Employer Firms ,"20,947","19,198","17,707","17,382","16,176","15,739","14,504","13,946","12,360"
+Kidney Dialysis Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"1,495","1,373","1,283","1,316","1,339","1,376","1,221","1,174","1,149"
+Kidney Dialysis Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"19,452","17,825","16,424","16,066","14,837","14,363","13,283","12,772","11,211"
+Freestanding Ambulatory Surgical and Emergency Centers ,Revenue ,All Establishments ,Employer Firms ,"23,843","22,067","22,311","21,217","19,492","18,417","18,078","17,149","15,420"
+Freestanding Ambulatory Surgical and Emergency Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"2,751",S,"2,564","2,476","2,665","2,778",S,"3,163","2,280"
+Freestanding Ambulatory Surgical and Emergency Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"21,092","19,480","19,747","18,741","16,827","15,639","15,082","13,986","13,140"
+All Other Outpatient Care Centers ,Revenue ,All Establishments ,Employer Firms ,"44,666","41,394","38,416","36,621","34,275","32,467","30,469","28,421","27,087"
+All Other Outpatient Care Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"30,886","28,403","26,623","25,494","24,006","22,849","21,545","19,982","19,743"
+All Other Outpatient Care Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"13,780","12,991","11,793","11,127","10,269","9,618","8,924","8,439","7,344"
+Medical Laboratories ,Revenue ,All Establishments ,Employer Firms ,"31,695","30,745","29,916","29,467","29,671","27,597","26,835","24,630","22,856"
+Medical Laboratories ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"31,695","30,745","29,916","29,467","29,671","27,597","26,835","24,630","22,856"
+Diagnostic Imaging Centers ,Revenue ,All Establishments ,Employer Firms ,"16,280","16,054","16,315","16,671","16,653","16,992","17,636","17,678","17,221"
+Diagnostic Imaging Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,280","16,054","16,315","16,671","16,653","16,992","17,636","17,678","17,221"
+Home Health Care Services ,Revenue ,All Establishments ,Employer Firms ,"74,447","70,776","67,869","65,447","61,840","58,809","55,780","51,381","47,617"
+Home Health Care Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"18,717","18,503","18,471","18,023","17,262","16,931","16,250","15,682","15,003"
+Home Health Care Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"55,730","52,273","49,398","47,424","44,578","41,878","39,530","35,699","32,614"
+Ambulance Services ,Revenue ,All Establishments ,Employer Firms ,"14,932","14,237","13,460","13,229","12,808","11,855","11,224","10,648","9,951"
+Ambulance Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"3,153","3,019","2,956","2,847","2,820","2,691","2,560","2,442","2,228"
+Ambulance Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,779","11,218","10,504","10,382","9,988","9,164","8,664","8,206","7,723"
+Blood and Organ Banks ,Revenue ,All Establishments ,Employer Firms ,"9,994","9,986","10,044","10,205","10,535","10,263","10,282","10,029","8,914"
+Blood and Organ Banks ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"7,883","7,837","7,988","7,913","8,069","7,932","7,801","7,571","7,034"
+Blood and Organ Banks ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,S,S,S,"2,292",S,"2,331","2,481","2,458","1,880"
+All Other Miscellaneous Ambulatory Health Care Services ,Revenue ,All Establishments ,Employer Firms ,"8,762","8,144","8,102","7,837","7,458","6,849","6,830","7,335","7,271"
+All Other Miscellaneous Ambulatory Health Care Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"1,556","1,432","1,653","1,499","1,280","1,060","1,060","1,071","1,187"
+All Other Miscellaneous Ambulatory Health Care Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,206","6,712","6,449","6,338","6,178","5,789","5,770","6,264","6,084"
+Hospitals ,Revenue ,All Establishments ,Employer Firms ,"1,003,499","946,303","904,652","876,851","837,368","802,760","774,582","732,310","702,960"
+Hospitals ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"879,583","832,530","796,043","768,732","736,225","706,936","679,603","644,425","622,129"
+Hospitals ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"123,916","113,773","108,609","108,119","101,143","95,824","94,979","87,885","80,831"
+General Medical and Surgical Hospitals - Government ,Revenue ,All Establishments ,Employer Firms ,"174,697","167,795","158,918","154,807","149,763","146,945","144,520","139,576","133,755"
+General Medical and Surgical Hospitals - Government ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"174,697","167,795","158,918","154,807","149,763","146,945","144,520","139,576","133,755"
+General Medical and Surgical Hospitals - Private ,Revenue ,All Establishments ,Employer Firms ,"760,060","713,829","684,370","661,808","629,467","601,076","578,086","543,842","523,564"
+General Medical and Surgical Hospitals - Private ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"658,870","621,449","595,822","573,211","547,123","523,293","500,268","471,667","456,440"
+General Medical and Surgical Hospitals - Private ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"101,190","92,380","88,548","88,597","82,344","77,783","77,818","72,175","67,124"
+Psychiatric and Substance Abuse Hospitals -Government ,Revenue ,All Establishments ,Employer Firms ,"13,077","12,754","11,935","11,443","10,590","10,526","10,436","10,428","10,171"
+Psychiatric and Substance Abuse Hospitals -Government ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"13,077","12,754","11,935","11,443","10,590","10,526","10,436","10,428","10,171"
+Psychiatric and Substance Abuse Hospitals - Private ,Revenue ,All Establishments ,Employer Firms ,"10,724","9,962","9,278","8,896","8,481","8,913","8,185","7,644","7,018"
+Psychiatric and Substance Abuse Hospitals - Private ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"4,509","4,306","4,115","3,937","3,905","3,850","3,590","3,545","3,550"
+Psychiatric and Substance Abuse Hospitals - Private ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,215","5,656","5,163","4,959","4,576","5,063","4,595","4,099","3,468"
+Specialty Hospitals - Government ,Revenue ,All Establishments ,Employer Firms ,"7,309","6,952","6,538","6,076","6,169","5,974","5,530","5,529","5,430"
+Specialty Hospitals - Government ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"7,309","6,952","6,538","6,076","6,169","5,974","5,530","5,529","5,430"
+Specialty Hospitals - Private ,Revenue ,All Establishments ,Employer Firms ,"37,632","35,011","33,613","33,821","32,898","29,326","27,825","25,291","23,022"
+Specialty Hospitals - Private ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"21,121","19,274","18,715","19,258","18,675","16,348","15,259","13,680","12,783"
+Specialty Hospitals - Private ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,511","15,737","14,898","14,563","14,223","12,978","12,566","11,611","10,239"
+Nursing and Residential Care Facilities ,Revenue ,All Establishments ,Employer Firms ,"223,345","214,810","207,789","203,171","198,369","190,850","182,908","176,802","168,655"
+Nursing and Residential Care Facilities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"80,182","78,718","77,302","76,398","75,512","73,666","71,556","69,041","67,657"
+Nursing and Residential Care Facilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"143,163","136,092","130,487","126,773","122,857","117,184","111,352","107,761","100,998"
+Nursing Care Facilities (Skilled Nursing Facilities)20 ,Revenue ,All Establishments ,Employer Firms ,"117,714","114,329","111,496","110,351","109,113","104,959","100,621","97,262","92,517"
+Nursing Care Facilities (Skilled Nursing Facilities)20 ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"23,308","23,857","23,813","23,815","24,132","23,879","23,483","22,586","22,378"
+Nursing Care Facilities (Skilled Nursing Facilities)20 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"94,406","90,472","87,683","86,536","84,981","81,080","77,138","74,676","70,139"
+Residential Intellectual and Developmental Disability Facilities20 ,Revenue ,All Establishments ,Employer Firms ,"24,142","23,393","22,586","22,129","21,608","21,232","20,570","19,619","18,275"
+Residential Intellectual and Developmental Disability Facilities20 ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"17,190","16,627","16,214","15,819","15,532","15,186","14,758","14,079","13,086"
+Residential Intellectual and Developmental Disability Facilities20 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,952","6,766","6,372","6,310","6,076","6,046","5,812","5,540","5,189"
+Residential Mental Health and Substance Abuse Facilities ,Revenue ,All Establishments ,Employer Firms ,"14,297","12,915","12,201","11,627","11,144","10,724","9,921","9,449","8,692"
+Residential Mental Health and Substance Abuse Facilities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"8,198","7,715","7,512","7,210","6,988","6,750","6,308","6,107","5,934"
+Residential Mental Health and Substance Abuse Facilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,099","5,200","4,689","4,417","4,156","3,974","3,613","3,342","2,758"
+Continuing Care Retirement Communities ,Revenue ,All Establishments ,Employer Firms ,"30,373","29,382","28,195","27,612","26,868","26,303","25,956","24,992","24,661"
+Continuing Care Retirement Communities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"19,896","19,306","18,933","18,940","18,221","17,497","16,886","15,852","15,783"
+Continuing Care Retirement Communities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"10,477","10,076","9,262","8,672","8,647","8,806","9,070","9,140","8,878"
+Homes for the Elderly ,Revenue ,All Establishments ,Employer Firms ,"28,115","26,375","25,115","23,490","21,615","19,683","17,914","17,122","16,171"
+Homes for the Elderly ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"4,307","4,098","3,906","3,878","3,762","3,529","3,402","3,357","3,390"
+Homes for the Elderly ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"23,808","22,277","21,209","19,612","17,853","16,154","14,512","13,765","12,781"
+Other Residential Care Facilities ,Revenue ,All Establishments ,Employer Firms ,"8,704","8,416","8,196","7,962","8,021","7,949","7,926","8,358","8,339"
+Other Residential Care Facilities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"7,283","7,115","6,924","6,736","6,877","6,825","6,719","7,060","7,086"
+Other Residential Care Facilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,421","1,301","1,272","1,226","1,144","1,124","1,207","1,298","1,253"
+Social Assistance ,Revenue ,All Establishments ,Employer Firms ,"164,813","156,912","149,497","146,325","145,613","143,439","137,974","133,900","127,803"
+Social Assistance ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"117,791","113,116","109,634","108,972","110,259","109,035","103,916","100,866","96,385"
+Social Assistance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"47,022","43,796","39,863","37,353","35,354","34,404","34,058","33,034","31,418"
+Child and Youth Services ,Revenue ,All Establishments ,Employer Firms ,"13,457","12,838","12,252","12,211","12,156","11,923","11,282","11,600","11,400"
+Child and Youth Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"12,314","11,763","11,246","11,238","11,182","10,858","10,200","10,550","10,422"
+Child and Youth Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,143","1,075","1,006",973,974,"1,065","1,082","1,050",978
+Services for the Elderly and Persons with Disabilities ,Revenue ,All Establishments ,Employer Firms ,"40,735","38,620","35,406","34,087","32,348","30,737","29,093","27,349","25,263"
+Services for the Elderly and Persons with Disabilities ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"24,234","23,330","22,094","22,073","21,722","21,240","20,417","19,527","18,260"
+Services for the Elderly and Persons with Disabilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,501","15,290","13,312","12,014","10,626","9,497","8,676","7,822","7,003"
+Other Individual and Family Services ,Revenue ,All Establishments ,Employer Firms ,"30,628","29,259","28,280","27,810","28,925","29,013","28,056","27,112","26,400"
+Other Individual and Family Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"26,625","25,658","25,211","24,988","25,786","25,731","24,537","23,557","22,778"
+Other Individual and Family Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,003","3,601","3,069","2,822","3,139","3,282","3,519","3,555","3,622"
+Community Food Services ,Revenue ,All Establishments ,Employer Firms ,"10,172","9,759","9,299","8,217","7,542","6,917","6,142","5,569","5,222"
+Community Food Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"10,118","9,706","9,246","8,162","7,484","6,837","6,055","5,480","5,136"
+Community Food Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,54,53,53,55,58,80,87,89,86
+Community Housing Services ,Revenue ,All Establishments ,Employer Firms ,"11,970","11,618","11,001","10,776","11,374","11,126","10,453","10,288","9,870"
+Community Housing Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"11,875","11,532","10,924","10,701","11,274","11,003","10,268","9,991","9,632"
+Community Housing Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,95,86,77,75,100,123,185,297,238
+Emergency and Other Relief Services ,Revenue ,All Establishments ,Employer Firms ,"9,240","8,573","8,276","8,702","9,057","9,795","9,634","9,753","8,427"
+Emergency and Other Relief Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"9,130","8,472","8,210","8,661","8,999","9,757","9,591","9,693","8,369"
+Emergency and Other Relief Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,110,101,66,41,58,38,43,60,58
+Vocational Rehabilitation Services ,Revenue ,All Establishments ,Employer Firms ,"13,222","12,682","12,503","12,430","12,778","12,847","12,366","11,864","11,536"
+Vocational Rehabilitation Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"10,958","10,442","10,378","10,344","10,778","10,651","10,359","10,001","9,836"
+Vocational Rehabilitation Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,264","2,240","2,125","2,086","2,000","2,196","2,007","1,863","1,700"
+Child Day Care Services ,Revenue ,All Establishments ,Employer Firms ,"35,389","33,563","32,480","32,092","31,433","31,081","30,948","30,365","29,685"
+Child Day Care Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"12,537","12,213","12,325","12,805","13,034","12,958","12,489","12,067","11,952"
+Child Day Care Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"22,852","21,350","20,155","19,287","18,399","18,123","18,459","18,298","17,733"
+"Arts, Entertainment, and Recreation ",Revenue ,All Establishments ,Employer Firms ,"237,482","223,154","211,292","201,192","193,592","188,117","185,641","191,450","189,418"
+"Arts, Entertainment, and Recreation ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"43,851","43,998","41,641","39,503","36,548","38,348","37,005","37,637","37,458"
+"Arts, Entertainment, and Recreation ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"193,631","179,156","169,651","161,689","157,044","149,769","148,636","153,813","151,960"
+"Performing Arts, Spectator Sports, and Related Industries ",Revenue ,All Establishments ,Employer Firms ,"104,698","96,483","90,200","86,421","83,260","80,461","79,264","79,756","77,772"
+"Performing Arts, Spectator Sports, and Related Industries ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"11,631","11,318","10,628","10,084","9,371","9,216","9,034","9,435","9,480"
+"Performing Arts, Spectator Sports, and Related Industries ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"93,067","85,165","79,572","76,337","73,889","71,245","70,230","70,321","68,292"
+Performing Arts Companies ,Revenue ,All Establishments ,Employer Firms ,"15,263","14,332","13,769","13,857","14,426","13,814","13,744","13,506","13,573"
+Performing Arts Companies ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"6,315","6,154","5,872","5,570","5,281","5,004","4,873","5,240","5,571"
+Performing Arts Companies ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,948","8,178","7,897","8,287","9,145","8,810","8,871","8,266","8,002"
+Sports Teams and Clubs ,Revenue ,All Establishments ,Employer Firms ,"28,979","26,668","24,145","22,672","22,333","21,442","20,651","20,375","18,794"
+Sports Teams and Clubs ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"28,979","26,668","24,145","22,672","22,333","21,442","20,651","20,375","18,794"
+Racetracks ,Revenue ,All Establishments ,Employer Firms ,"7,596","7,238","7,421","7,434","7,163","6,951","6,884","7,444","8,197"
+Racetracks ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,596","7,238","7,421","7,434","7,163","6,951","6,884","7,444","8,197"
+Other Spectator Sports ,Revenue ,All Establishments ,Employer Firms ,"3,520","3,358","3,411","3,192","3,444","3,344","3,623","3,736","3,412"
+Other Spectator Sports ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,520","3,358","3,411","3,192","3,444","3,344","3,623","3,736","3,412"
+"Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,All Establishments ,Employer Firms ,"24,538","22,020","19,916","18,474","16,643","16,312","16,141","16,270","16,122"
+"Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"5,316","5,164","4,756","4,514","4,090","4,212","4,161","4,195","3,909"
+"Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"19,222","16,856","15,160","13,960","12,553","12,100","11,980","12,075","12,213"
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,All Establishments ,Employer Firms ,"7,322","6,674","6,208","5,832","5,690","5,358","5,282","5,343","4,919"
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,322","6,674","6,208","5,832","5,690","5,358","5,282","5,343","4,919"
+"Independent Artists, Writers, and Performers ",Revenue ,All Establishments ,Employer Firms ,"17,480","16,193","15,330","14,960","13,561","13,240","12,939","13,082","12,755"
+"Independent Artists, Writers, and Performers ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"17,480","16,193","15,330","14,960","13,561","13,240","12,939","13,082","12,755"
+"Museums, Historical Sites, and Similar Institutions ",Revenue ,All Establishments ,Employer Firms ,"15,168","15,900","15,080","13,725","12,279","14,241","13,278","13,302","13,286"
+"Museums, Historical Sites, and Similar Institutions ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"13,641","14,559","13,841","12,503","11,143","13,125","12,193","12,180","12,279"
+"Museums, Historical Sites, and Similar Institutions ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,527","1,341","1,239","1,222","1,136","1,116","1,085","1,122","1,007"
+"Amusement, Gambling, and Recreation Industries ",Revenue ,All Establishments ,Employer Firms ,"117,616","110,771","106,012","101,046","98,053","93,415","93,099","98,392","98,360"
+"Amusement, Gambling, and Recreation Industries ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"18,579","18,121","17,172","16,916","16,034","16,007","15,778","16,022","15,699"
+"Amusement, Gambling, and Recreation Industries ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"99,037","92,650","88,840","84,130","82,019","77,408","77,321","82,370","82,661"
+Amusement and Theme Parks ,Revenue ,All Establishments ,Employer Firms ,"16,252","14,694","13,524","12,597","12,400","10,205","10,234","11,599","11,890"
+Amusement and Theme Parks ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"16,252","14,694","13,524","12,597","12,400","10,205","10,234","11,599","11,890"
+Amusement Arcades ,Revenue ,All Establishments ,Employer Firms ,"1,823","1,680","1,644","1,705","1,658","1,627","1,631","1,752","1,654"
+Amusement Arcades ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,823","1,680","1,644","1,705","1,658","1,627","1,631","1,752","1,654"
+Casinos (except Casino Hotels) ,Revenue ,All Establishments ,Employer Firms ,"18,323","17,094","16,617","15,688","15,722","15,367","15,566","16,456","16,557"
+Casinos (except Casino Hotels) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"18,323","17,094","16,617","15,688","15,722","15,367","15,566","16,456","16,557"
+Other Gambling Industries ,Revenue ,All Establishments ,Employer Firms ,"9,600","9,513","9,081","8,697","8,480","8,065","7,995","8,403","8,578"
+Other Gambling Industries ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,600","9,513","9,081","8,697","8,480","8,065","7,995","8,403","8,578"
+Golf Courses and Country Clubs ,Revenue ,All Establishments ,Employer Firms ,"21,821","21,224","20,918","20,812","19,832","19,788","20,211","21,011","21,195"
+Golf Courses and Country Clubs ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"9,327","9,207","8,745","8,769","8,304","8,362","8,510","8,733","8,642"
+Golf Courses and Country Clubs ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"12,494","12,017","12,173","12,043","11,528","11,426","11,701","12,278","12,553"
+Skiing Facilities ,Revenue ,All Establishments ,Employer Firms ,"2,571","2,530","2,433","2,215","2,259","2,265","2,277","2,401","2,257"
+Skiing Facilities ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,571","2,530","2,433","2,215","2,259","2,265","2,277","2,401","2,257"
+Marinas ,Revenue ,All Establishments ,Employer Firms ,"4,291","4,203","3,999","3,891","3,742","3,604","3,402","3,826","4,042"
+Marinas ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,291","4,203","3,999","3,891","3,742","3,604","3,402","3,826","4,042"
+Fitness and Recreational Sports Centers ,Revenue ,All Establishments ,Employer Firms ,"28,319","26,673","25,649","24,051","23,191","22,311","21,842","22,339","21,416"
+Fitness and Recreational Sports Centers ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"6,402","6,312","6,021","5,955","5,638","5,649","5,503","5,493","5,378"
+Fitness and Recreational Sports Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"21,917","20,361","19,628","18,096","17,553","16,662","16,339","16,846","16,038"
+Bowling Centers ,Revenue ,All Establishments ,Employer Firms ,"3,629","3,403","3,224","3,083","3,072","3,007","3,056","3,304","3,403"
+Bowling Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,629","3,403","3,224","3,083","3,072","3,007","3,056","3,304","3,403"
+All Other Amusement and Recreation Industries ,Revenue ,All Establishments ,Employer Firms ,"10,987","9,757","8,923","8,307","7,697","7,176","6,885","7,301","7,368"
+All Other Amusement and Recreation Industries ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"2,850","2,602","2,406","2,192","2,092","1,996","1,765","1,796","1,679"
+All Other Amusement and Recreation Industries ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,137","7,155","6,517","6,115","5,605","5,180","5,120","5,505","5,689"
+Other Services (except Public Administration)21 ,Revenue ,All Establishments ,Employer Firms ,"498,951","482,548","450,492","426,694","404,997","386,395","364,324","383,968","402,153"
+Other Services (except Public Administration)21 ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"234,590","228,491","211,125","195,719","183,694","176,399","158,027","165,881","183,863"
+Other Services (except Public Administration)21 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"264,361","254,057","239,367","230,975","221,303","209,996","206,297","218,087","218,290"
+Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"162,955","157,449","148,202","143,945","137,612","129,006","126,103","135,254","136,185"
+Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"162,955","157,449","148,202","143,945","137,612","129,006","126,103","135,254","136,185"
+General Automotive Repair ,Revenue ,All Establishments ,Employer Firms ,"47,718","46,655","42,602","40,515","38,720","36,328","34,709","36,683","37,722"
+General Automotive Repair ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"47,718","46,655","42,602","40,515","38,720","36,328","34,709","36,683","37,722"
+Automotive Exhaust System Repair ,Revenue ,All Establishments ,Employer Firms ,774,727,710,682,669,698,710,776,858
+Automotive Exhaust System Repair ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,774,727,710,682,669,698,710,776,858
+Automotive Transmission Repair ,Revenue ,All Establishments ,Employer Firms ,"2,313","2,369","2,262","2,290","2,310","2,173","2,403","2,436","2,647"
+Automotive Transmission Repair ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,313","2,369","2,262","2,290","2,310","2,173","2,403","2,436","2,647"
+Other Automotive Mechanical and Electrical Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"2,054","2,053","1,932","1,890","1,983","1,983","1,981","2,126","2,328"
+Other Automotive Mechanical and Electrical Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,054","2,053","1,932","1,890","1,983","1,983","1,981","2,126","2,328"
+"Automotive Body, Paint, and Interior Repair and Maintenance ",Revenue ,All Establishments ,Employer Firms ,"32,009","30,244","29,345","28,570","27,288","25,101","24,122","25,846","26,413"
+"Automotive Body, Paint, and Interior Repair and Maintenance ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,"32,009","30,244","29,345","28,570","27,288","25,101","24,122","25,846","26,413"
+Automotive Glass Replacement Shops ,Revenue ,All Establishments ,Employer Firms ,"4,196","3,729","3,415","3,275","3,320","3,184","3,372","3,731","3,593"
+Automotive Glass Replacement Shops ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,196","3,729","3,415","3,275","3,320","3,184","3,372","3,731","3,593"
+Automotive Oil Change and Lubrication Shops ,Revenue ,All Establishments ,Employer Firms ,"5,336","5,122","4,979","5,022","4,995","5,046","4,953","4,679","4,680"
+Automotive Oil Change and Lubrication Shops ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"5,336","5,122","4,979","5,022","4,995","5,046","4,953","4,679","4,680"
+Car Washes ,Revenue ,All Establishments ,Employer Firms ,"8,031","7,609","7,264","7,024","6,374","6,151","5,896","6,237","6,157"
+Car Washes ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"8,031","7,609","7,264","7,024","6,374","6,151","5,896","6,237","6,157"
+All Other Automotive Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"1,964","1,916","1,727","1,538","1,419","1,314","1,190","1,349","1,489"
+All Other Automotive Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,964","1,916","1,727","1,538","1,419","1,314","1,190","1,349","1,489"
+Consumer Electronics Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"1,653","1,640","1,704","1,724","1,656","2,070","2,087","1,925","1,772"
+Consumer Electronics Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,653","1,640","1,704","1,724","1,656","2,070","2,087","1,925","1,772"
+Computer and Office Machine Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"4,962","5,014","4,960","4,802","5,006","5,095","5,174","5,506","6,057"
+Computer and Office Machine Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,962","5,014","4,960","4,802","5,006","5,095","5,174","5,506","6,057"
+Communication Equipment Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"3,145","3,015","2,670","2,627","2,648","2,703","2,773","2,929","3,066"
+Communication Equipment Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,145","3,015","2,670","2,627","2,648","2,703","2,773","2,929","3,066"
+Other Electronic and Precision Equipment Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"7,187","6,727","6,365","6,566","6,736","6,636","6,705","6,579","6,885"
+Other Electronic and Precision Equipment Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,187","6,727","6,365","6,566","6,736","6,636","6,705","6,579","6,885"
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"34,270","33,679","31,539","31,065","28,682","24,623","23,916","27,767","25,962"
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"34,270","33,679","31,539","31,065","28,682","24,623","23,916","27,767","25,962"
+Home and Garden Equipment and Appliance Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"2,808","2,780","2,623","2,452","2,180","2,273","2,384","2,560","2,595"
+Home and Garden Equipment and Appliance Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"2,808","2,780","2,623","2,452","2,180","2,273","2,384","2,560","2,595"
+Reupholstery and Furniture Repair ,Revenue ,All Establishments ,Employer Firms ,"1,173","1,085","1,053",976,935,923,955,"1,144","1,153"
+Reupholstery and Furniture Repair ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,173","1,085","1,053",976,935,923,955,"1,144","1,153"
+Footwear and Leather Goods Repair ,Revenue ,All Establishments ,Employer Firms ,230,217,211,197,179,171,172,176,173
+Footwear and Leather Goods Repair ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,230,217,211,197,179,171,172,176,173
+Other Personal and Household Goods Repair and Maintenance ,Revenue ,All Establishments ,Employer Firms ,"3,132","2,868","2,841","2,730","2,512","2,534","2,601","2,805","2,635"
+Other Personal and Household Goods Repair and Maintenance ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,132","2,868","2,841","2,730","2,512","2,534","2,601","2,805","2,635"
+Personal and Laundry Services ,Revenue ,All Establishments ,Employer Firms ,"101,406","96,608","91,165","87,030","83,691","80,990","80,194","82,833","82,105"
+Personal and Laundry Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"101,406","96,608","91,165","87,030","83,691","80,990","80,194","82,833","82,105"
+Barber Shops ,Revenue ,All Establishments ,Employer Firms ,748,692,590,536,510,508,521,549,568
+Barber Shops ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,748,692,590,536,510,508,521,549,568
+Beauty Salons,Revenue ,All Establishments ,Employer Firms ,"21,348","20,866","19,947","19,259","18,790","19,334","18,799","19,174","19,010"
+Beauty Salons,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"21,348","20,866","19,947","19,259","18,790","19,334","18,799","19,174","19,010"
+Nail Salons ,Revenue ,All Establishments ,Employer Firms ,"4,415","3,834","3,393","2,989","2,399","1,969","1,725","1,593","1,325"
+Nail Salons ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,415","3,834","3,393","2,989","2,399","1,969","1,725","1,593","1,325"
+Diet and Weight Reducing Centers ,Revenue ,All Establishments ,Employer Firms ,"1,456","1,569","1,710","1,919","1,758","1,566","1,781","1,904","1,838"
+Diet and Weight Reducing Centers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,456","1,569","1,710","1,919","1,758","1,566","1,781","1,904","1,838"
+Other Personal Care Services ,Revenue ,All Establishments ,Employer Firms ,"6,661","6,033","5,441","4,829","4,240","3,880","3,789","3,940","3,563"
+Other Personal Care Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,661","6,033","5,441","4,829","4,240","3,880","3,789","3,940","3,563"
+Funeral Homes and Funeral Services ,Revenue ,All Establishments ,Employer Firms ,"14,476","13,733","13,542","13,004","12,829","12,512","12,146","12,337","11,943"
+Funeral Homes and Funeral Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"14,476","13,733","13,542","13,004","12,829","12,512","12,146","12,337","11,943"
+Cemeteries and Crematories ,Revenue ,All Establishments ,Employer Firms ,"3,782","3,646","3,425","3,297","3,183","3,054","3,056","3,128","3,350"
+Cemeteries and Crematories ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,782","3,646","3,425","3,297","3,183","3,054","3,056","3,128","3,350"
+Coin-Operated Laundries and Drycleaners ,Revenue ,All Establishments ,Employer Firms ,"4,021","4,003","3,844","3,549","3,481","3,483","3,258","3,319","3,354"
+Coin-Operated Laundries and Drycleaners ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,021","4,003","3,844","3,549","3,481","3,483","3,258","3,319","3,354"
+Drycleaning and Laundry Services (except Coin-Operated) ,Revenue ,All Establishments ,Employer Firms ,"7,908","7,956","7,708","7,583","7,644","7,370","7,549","7,860","8,086"
+Drycleaning and Laundry Services (except Coin-Operated) ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,908","7,956","7,708","7,583","7,644","7,370","7,549","7,860","8,086"
+Linen Supply ,Revenue ,All Establishments ,Employer Firms ,"6,075","5,610","5,259","5,139","4,777","4,648","4,580","4,701","4,660"
+Linen Supply ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,075","5,610","5,259","5,139","4,777","4,648","4,580","4,701","4,660"
+Industrial Launderers ,Revenue ,All Establishments ,Employer Firms ,"7,982","7,718","7,304","7,089","6,762","6,383","6,528","6,884","7,134"
+Industrial Launderers ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"7,982","7,718","7,304","7,089","6,762","6,383","6,528","6,884","7,134"
+Pet Care (except Veterinary) Services ,Revenue ,All Establishments ,Employer Firms ,"4,768","4,206","3,707","3,376","3,010","2,782","2,550","2,502","2,346"
+Pet Care (except Veterinary) Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"4,768","4,206","3,707","3,376","3,010","2,782","2,550","2,502","2,346"
+Photofinishing ,Revenue ,All Establishments ,Employer Firms ,"1,844","1,839","1,680","1,613","1,553","1,470","1,605","1,800","2,025"
+Photofinishing ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"1,844","1,839","1,680","1,613","1,553","1,470","1,605","1,800","2,025"
+Parking Lots and Garages ,Revenue ,All Establishments ,Employer Firms ,"9,033","8,315","7,741","7,471","7,650","7,459","7,702","7,992","8,276"
+Parking Lots and Garages ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"9,033","8,315","7,741","7,471","7,650","7,459","7,702","7,992","8,276"
+All Other Personal Services ,Revenue ,All Establishments ,Employer Firms ,"6,889","6,588","5,874","5,377","5,105","4,572","4,605","5,150","4,627"
+All Other Personal Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,"6,889","6,588","5,874","5,377","5,105","4,572","4,605","5,150","4,627"
+"Religious, Grantmaking, Civic, Professional, and Similar Organizations22 ",Revenue ,All Establishments ,Employer Firms ,"234,590","228,491","211,125","195,719","183,694","176,399","158,027","165,881","183,863"
+"Religious, Grantmaking, Civic, Professional, and Similar Organizations22 ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"234,590","228,491","211,125","195,719","183,694","176,399","158,027","165,881","183,863"
+Grantmaking and Giving Services ,Revenue ,All Establishments ,Employer Firms ,"117,547","114,180","102,359","90,708","82,717","77,680","63,475","72,364","92,362"
+Grantmaking and Giving Services ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"117,547","114,180","102,359","90,708","82,717","77,680","63,475","72,364","92,362"
+Social Advocacy Organizations ,Revenue ,All Establishments ,Employer Firms ,"28,693","28,253","25,470","24,551","24,168","22,864","21,098","20,676","19,060"
+Social Advocacy Organizations ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"28,693","28,253","25,470","24,551","24,168","22,864","21,098","20,676","19,060"
+Civic and Social Organizations ,Revenue ,All Establishments ,Employer Firms ,"17,864","17,143","16,759","16,054","15,448","15,476","15,040","15,311","15,444"
+Civic and Social Organizations ,Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"17,864","17,143","16,759","16,054","15,448","15,476","15,040","15,311","15,444"
+"Business, Professional, Labor, Political, and Similar Organizations23 ",Revenue ,All Establishments ,Employer Firms ,"70,486","68,915","66,537","64,406","61,361","60,379","58,414","57,530","56,997"
+"Business, Professional, Labor, Political, and Similar Organizations23 ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,"70,486","68,915","66,537","64,406","61,361","60,379","58,414","57,530","56,997"
