@@ -375,8 +375,8 @@ Advertising Material Distribution Services ,Revenue ,All Establishments ,Employe
 Advertising Material Distribution Services ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,3976,3475,3102,2703,3052,3616,3701,4685,4171
 Other Services Related to Advertising ,Revenue ,All Establishments ,Employer Firms ,13630,13369,12820,12656,12443,11964,11526,13019,13664
 Other Services Related to Advertising ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,13630,13369,12820,12656,12443,11964,11526,13019,13664
-All Other Advertising17 ,Revenue ,All Establishments ,Employer Firms ,17606,16844,15922,15359,15495,15580,15227,17704,17835
-All Other Advertising17 ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,17606,16844,15922,15359,15495,15580,15227,17704,17835
+All Other Advertising ,Revenue ,All Establishments ,Employer Firms ,17606,16844,15922,15359,15495,15580,15227,17704,17835
+All Other Advertising ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,17606,16844,15922,15359,15495,15580,15227,17704,17835
 Marketing Research and Public Opinion Polling ,Revenue ,All Establishments ,Employer Firms ,17769,17695,16450,16378,17107,16531,15366,16258,15493
 Marketing Research and Public Opinion Polling ,Revenue ,Establishments subject to federal income tax ,Employer Firms ,17769,17695,16450,16378,17107,16531,15366,16258,15493
 "Photography Studios, Portrait ",Revenue ,All Establishments ,Employer Firms ,4109,3952,3676,3682,3875,4180,4521,4922,5055
@@ -638,8 +638,8 @@ Other Spectator Sports ,Revenue ,Establishments subject to federal income tax ,E
 "Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,All Establishments ,Employer Firms ,24538,22020,19916,18474,16643,16312,16141,16270,16122
 "Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,Establishments exempt from federal income tax ,Employer Firms ,5316,5164,4756,4514,4090,4212,4161,4195,3909
 "Promoters of Performing Arts, Sports, and Similar Events ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,19222,16856,15160,13960,12553,12100,11980,12075,12213
-"Agents and Ma0gers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,All Establishments ,Employer Firms ,7322,6674,6208,5832,5690,5358,5282,5343,4919
-"Agents and Ma0gers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,7322,6674,6208,5832,5690,5358,5282,5343,4919
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,All Establishments ,Employer Firms ,7322,6674,6208,5832,5690,5358,5282,5343,4919
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,7322,6674,6208,5832,5690,5358,5282,5343,4919
 "Independent Artists, Writers, and Performers ",Revenue ,All Establishments ,Employer Firms ,17480,16193,15330,14960,13561,13240,12939,13082,12755
 "Independent Artists, Writers, and Performers ",Revenue ,Establishments subject to federal income tax ,Employer Firms ,17480,16193,15330,14960,13561,13240,12939,13082,12755
 "Museums, Historical Sites, and Similar Institutions ",Revenue ,All Establishments ,Employer Firms ,15168,15900,15080,13725,12279,14241,13278,13302,13286
