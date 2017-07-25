@@ -1,0 +1,916 @@
+,AGENCY-COMPANY,HEADQUARTERS,2015-REVENUE,% CHG,AGENCY-NAME,AGENCY-OWNER
+0,Epsilon [Alliance Data Systems Corp.],"Irving, Texas",1855045000,3.5,Epsilon ,Alliance Data Systems Corp.
+1,Accenture Interactive [Accenture],New York,1231596000,70.8,Accenture Interactive ,Accenture
+2,Deloitte Digital* [Deloitte],New York,865200000,,Deloitte Digital ,Deloitte
+3,IBM Interactive Experience* [IBM Corp.],"Armonk, N.Y.",796800000,,IBM Interactive Experience ,IBM Corp.
+4,Acxiom Corp.*,"Little Rock, Ark.",765299000,7.0,Acxiom Corp.,Independent
+5,Razorfish Global* [Publicis],New York,651665000,-1.3,Razorfish Global ,Publicis
+6,PwC Digital Services [PwC],New York,624000000,,PwC Digital Services ,PwC
+7,BBDO Worldwide* [Omnicom],New York,602798000,4.5,BBDO Worldwide ,Omnicom
+8,SapientNitro* [Publicis],Boston,585000000,1.3,SapientNitro ,Publicis
+9,McCann* [Interpublic],New York,561860000,15.9,McCann ,Interpublic
+10,Edelman [DJE Holdings],Chicago,523065000,8.5,Edelman ,DJE Holdings
+11,J. Walter Thompson Co.* [WPP],New York,504176000,5.9,J. Walter Thompson Co. ,WPP
+12,Leo Burnett Worldwide/Arc* [Publicis],Chicago,489369000,-1.0,Leo Burnett Worldwide/Arc ,Publicis
+13,Publicis Worldwide* [Publicis],Paris,487887000,7.5,Publicis Worldwide ,Publicis
+14,Advantage Marketing Partners [Advantage Solutions],"Irvine, Calif.",480668000,9.2,Advantage Marketing Partners ,Advantage Solutions
+15,Merkle,"Columbia, Md.",464500000,5.8,Merkle,Independent
+16,DigitasLBi* [Publicis],Boston,458754000,3.4,DigitasLBi ,Publicis
+17,Rapp* [Omnicom],New York,458040000,0.7,Rapp ,Omnicom
+18,Y&R* [WPP],New York,454575000,4.5,Y&R ,WPP
+19,Weber Shandwick* [Interpublic],New York,448691000,5.6,Weber Shandwick ,Interpublic
+20,Experian Marketing Services [Experian],New York,432000000,-0.2,Experian Marketing Services ,Experian
+21,Wunderman* [WPP],New York,415743000,4.5,Wunderman ,WPP
+22,Harte Hanks*,San Antonio,380940000,-14.3,Harte Hanks,Independent
+23,TBWA Worldwide* [Omnicom],New York,361661000,7.5,TBWA Worldwide ,Omnicom
+24,Havas Worldwide* [Havas],New York,358600000,4.6,Havas Worldwide ,Havas
+25,FleishmanHillard* [Omnicom],St. Louis,350458000,-0.6,FleishmanHillard ,Omnicom
+26,FCB* [Interpublic],New York,337838000,2.0,FCB ,Interpublic
+27,Grey* [WPP],New York,336209000,5.8,Grey ,WPP
+28,Mindshare Worldwide* [WPP],New York,331731000,14.5,Mindshare Worldwide ,WPP
+29,inVentiv Health* [inVentiv Group Holdings],New York,325844000,8.2,inVentiv Health ,inVentiv Group Holdings
+30,Mosaic [Acosta],"Irving, Texas",321717000,5.9,Mosaic ,Acosta
+31,DDB Worldwide* [Omnicom],New York,320200000,11.2,DDB Worldwide ,Omnicom
+32,OMD Worldwide* [Omnicom],New York,301500000,12.5,OMD Worldwide ,Omnicom
+33,Ketchum* [Omnicom],New York,300000000,10.8,Ketchum ,Omnicom
+34,OgilvyOne Worldwide* [WPP],New York,292500000,1.5,OgilvyOne Worldwide ,WPP
+35,Starcom USA* [Publicis],Chicago,289315000,0.9,Starcom USA ,Publicis
+36,R/GA* [Interpublic],New York,284137000,10.0,R/GA ,Interpublic
+37,Saatchi & Saatchi* [Publicis],New York,282000000,-2.1,Saatchi & Saatchi ,Publicis
+38,Mediavest USA* [Publicis],New York,272396000,0.8,Mediavest USA ,Publicis
+39,Ogilvy & Mather Advertising* [WPP],New York,269620000,-1.5,Ogilvy & Mather Advertising ,WPP
+40,Zenith* [Publicis],New York,266729000,12.9,Zenith ,Publicis
+41,Freeman,Dallas,260000000,5.7,Freeman,Independent
+42,MRM//McCann* [Interpublic],New York,244900000,6.0,MRM//McCann ,Interpublic
+43,FCB Health* [Interpublic],New York,244825000,17.3,FCB Health ,Interpublic
+44,Novus Media* [Omnicom],"Plymouth, Minn.",237459000,8.1,Novus Media ,Omnicom
+45,MEC* [WPP],London,234878000,9.4,MEC ,WPP
+46,Horizon Media*,New York,225000000,20.3,Horizon Media,Independent
+47,iCrossing* [Hearst Corp.],New York,224940000,20.0,iCrossing ,Hearst Corp.
+48,Wieden & Kennedy*,"Portland, Ore.",219000000,6.3,Wieden & Kennedy,Independent
+49,MarketStar* [Omnicom],"Ogden, Utah",217680000,0.7,MarketStar ,Omnicom
+50,Burson-Marsteller* [WPP],New York,217467000,3.6,Burson-Marsteller ,WPP
+51,MediaCom* [WPP],New York,211050000,20.5,MediaCom ,WPP
+52,Deutsch* [Interpublic],New York,208680000,11.0,Deutsch ,Interpublic
+53,McGarryBowen* [Dentsu],New York,196000000,-2.0,McGarryBowen ,Dentsu
+54,Havas Health* [Havas],New York,195500000,3.7,Havas Health ,Havas
+55,Catapult [Alliance Data Systems Corp.],"Westport, Conn.",195420000,14.1,Catapult ,Alliance Data Systems Corp.
+56,Marketing Arm* [Omnicom],Dallas,193000000,17.0,Marketing Arm ,Omnicom
+57,Richards Group,Dallas,190000000,2.2,Richards Group,Independent
+58,VML* [WPP],"Kansas City, Mo.",183000000,11.6,VML ,WPP
+59,Hill Holliday Group* [Interpublic],Boston,178630000,-6.2,Hill Holliday Group ,Interpublic
+60,Huge* [Interpublic],"Brooklyn, N.Y.",177300000,4.9,Huge ,Interpublic
+61,Geometry Global* [WPP],New York,174556000,-8.3,Geometry Global ,WPP
+62,MSL Group* [Publicis],Paris,172732000,5.0,MSL Group ,Publicis
+63,George P. Johnson [Project WorldWide],"Auburn Hills, Mich.",168779000,13.5,George P. Johnson ,Project WorldWide
+64,360i* [Dentsu],New York,168200000,17.5,360i ,Dentsu
+65,ICF Olson [ICF International],Minneapolis,165000000,,ICF Olson ,ICF International
+66,AKQA* [WPP],London,163000000,8.7,AKQA ,WPP
+67,Carat* [Dentsu],London,157088000,-3.0,Carat ,Dentsu
+68,Ogilvy CommonHealth Worldwide* [WPP],"Parsippany, N.J.",155144000,6.6,Ogilvy CommonHealth Worldwide ,WPP
+69,Interbrand* [Omnicom],New York,154200000,7.7,Interbrand ,Omnicom
+70,Match Marketing Group,"Mississauga, Ontario",153247000,13.3,Match Marketing Group,Independent
+71,Possible* [WPP],Seattle,153000000,10.0,Possible ,WPP
+72,MullenLowe* [Interpublic],Boston,152395000,9.0,MullenLowe ,Interpublic
+73,Integer Group* [Omnicom],"Lakewood, Colo.",149910000,-5.0,Integer Group ,Omnicom
+74,CP&B* [MDC Partners],"Boulder, Colo.",148407000,0.0,CP&B ,MDC Partners
+75,Maxus* [WPP],New York,147751000,40.0,Maxus ,WPP
+76,Havas Media Group* [Havas],"Puteaux, France",146991000,,Havas Media Group ,Havas
+77,Hill&Knowlton Strategies* [WPP],New York,143276000,3.5,Hill&Knowlton Strategies ,WPP
+78,GMR Marketing* [Omnicom],"New Berlin, Wis.",138713000,0.7,GMR Marketing ,Omnicom
+79,UM* [Interpublic],New York,134599000,6.3,UM ,Interpublic
+80,Zimmerman Advertising* [Omnicom],"Fort Lauderdale, Fla.",133876000,10.0,Zimmerman Advertising ,Omnicom
+81,Organic* [Omnicom],New York,131262000,3.0,Organic ,Omnicom
+82,Cramer-Krasselt,Chicago,131149000,-9.8,Cramer-Krasselt,Independent
+83,Momentum Worldwide* [Interpublic],New York,127536000,0.9,Momentum Worldwide ,Interpublic
+84,Martin Agency* [Interpublic],"Richmond, Va.",126008000,4.2,Martin Agency ,Interpublic
+85,Droga5,New York,126000000,61.5,Droga5,Independent
+86,72andSunny* [MDC Partners],"Playa Vista, Calif.",124432000,20.6,72andSunny ,MDC Partners
+87,Octagon* [Interpublic],"Norwalk, Conn.",124291000,0.3,Octagon ,Interpublic
+88,Ansira,St. Louis,124041000,7.9,Ansira,Independent
+89,Meredith Xcelerated Marketing [Meredith Corp.],"Des Moines, Iowa",124000000,-5.3,Meredith Xcelerated Marketing ,Meredith Corp.
+90,Proximity* [Omnicom],New York,123449000,3.0,Proximity ,Omnicom
+91,Golin* [Interpublic],Chicago,123401000,7.9,Golin ,Interpublic
+92,OMG Entertainment & Sports* [Omnicom],New York,123066000,25.0,OMG Entertainment & Sports ,Omnicom
+93,Trailer Park [Engine Group],Los Angeles,123000000,7.0,Trailer Park ,Engine Group
+94,Jack Morton Worldwide* [Interpublic],Boston,122180000,-3.3,Jack Morton Worldwide ,Interpublic
+95,Ogilvy Public Relations* [WPP],New York,121000000,4.9,Ogilvy Public Relations ,WPP
+96,Critical Mass* [Omnicom],"Calgary, Canada",121000000,17.5,Critical Mass ,Omnicom
+97,GHG/GreyHealth Group* [WPP],New York,120000000,10.0,GHG/GreyHealth Group ,WPP
+98,Gyro*,New York,117000000,2.6,Gyro,Independent
+99,KBS* [MDC Partners],New York,115154000,11.0,KBS ,MDC Partners
+100,Digitas Health LifeBrands* [Publicis],Philadelphia,115000000,0.0,Digitas Health LifeBrands ,Publicis
+101,RPA,"Santa Monica, Calif.",113000000,7.6,RPA,Independent
+102,CDM New York* [Omnicom],New York,112326000,10.0,CDM New York ,Omnicom
+103,Moxie* [Publicis],Atlanta,110247000,-8.9,Moxie ,Publicis
+104,Assembly* [MDC Partners],New York,110175000,12.0,Assembly ,MDC Partners
+105,Initiative* [Interpublic],New York,109721000,5.0,Initiative ,Interpublic
+106,Klick,Toronto,109152000,8.1,Klick,Independent
+107,McCann Health* [Interpublic],New York,108624000,14.1,McCann Health ,Interpublic
+108,TBWA/WorldHealth* [Omnicom],New York,108078000,-1.1,TBWA/WorldHealth ,Omnicom
+109,Isobar* [Dentsu],London,107010000,23.0,Isobar ,Dentsu
+110,Campbell Ewald* [Interpublic],Detroit,103767000,-8.5,Campbell Ewald ,Interpublic
+111,Sudler & Hennessey* [WPP],New York,103430000,6.6,Sudler & Hennessey ,WPP
+112,Arnold Worldwide* [Havas],Boston,102500000,7.9,Arnold Worldwide ,Havas
+113,Intouch Solutions,"Overland Park, Kan.",101765000,32.5,Intouch Solutions,Independent
+114,"Goodby, Silverstein & Partners* [Omnicom]",San Francisco,99607000,-8.3,"Goodby, Silverstein & Partners ",Omnicom
+115,Harrison & Star* [Omnicom],New York,96684000,8.5,Harrison & Star ,Omnicom
+116,Cohn & Wolfe* [WPP],New York,96423000,16.3,Cohn & Wolfe ,WPP
+117,TracyLocke* [Omnicom],Dallas,96252000,0.7,TracyLocke ,Omnicom
+118,Doner* [MDC Partners],"Southfield, Mich.",95475000,-8.6,Doner ,MDC Partners
+119,PHD* [Omnicom],New York,95340000,0.0,PHD ,Omnicom
+120,iProspect* [Dentsu],Boston,94726000,-2.0,iProspect ,Dentsu
+121,Derse*,Milwaukee,94478000,2.5,Derse,Independent
+122,Team One* [Publicis],Los Angeles,92466000,14.0,Team One ,Publicis
+123,Huntsworth Health* [Huntsworth],"Yardley, Pa.",92065000,24.1,Huntsworth Health ,Huntsworth
+124,TMP Worldwide Advertising & Communications,New York,91816000,6.1,TMP Worldwide Advertising & Communications,Independent
+125,Innocean Worldwide,"Huntington Beach, Calif.",91270000,4.6,Innocean Worldwide,Independent
+126,Group360 Worldwide*,St. Louis,90000000,12.5,Group360 Worldwide,Independent
+127,W2O Group,San Francisco,88468000,16.9,W2O Group,Independent
+128,Brunswick Group*,London,88250000,25.0,Brunswick Group,Independent
+129,EPAM Systems,"Newtown, Pa.",85754000,15.9,EPAM Systems,Independent
+130,Javelin Marketing Group* [Omnicom],"Irving, Texas",85450000,6.7,Javelin Marketing Group ,Omnicom
+131,Wasserman Media Group*,Los Angeles,85280000,19.6,Wasserman Media Group,Independent
+132,Targetbase* [Omnicom],"Irving, Texas",84117000,0.7,Targetbase ,Omnicom
+133,MRY* [Publicis],New York,84000000,-16.0,MRY ,Publicis
+134,GSD&M* [Omnicom],"Austin, Texas",83050000,-1.0,GSD&M ,Omnicom
+135,Spark* [Publicis],Chicago,82777000,17.6,Spark ,Publicis
+136,Global Experience Specialists* [Viad Corp.],Las Vegas,82520000,-0.5,Global Experience Specialists ,Viad Corp.
+137,Mirum* [WPP],New York,82251000,9.7,Mirum ,WPP
+138,Porter Novelli* [Omnicom],New York,81893000,-0.6,Porter Novelli ,Omnicom
+139,MKTG* [Dentsu],New York,81615000,10.0,MKTG ,Dentsu
+140,WE Communications,"Bellevue, Wash.",80044000,-8.6,WE Communications,Independent
+141,Landor* [WPP],San Francisco,80000000,3.7,Landor ,WPP
+142,Blast Radius* [WPP],"Vancouver, British Columbia",79943000,4.5,Blast Radius ,WPP
+143,Resolution Media* [Omnicom],Chicago,78412000,30.3,Resolution Media ,Omnicom
+144,22squared,Atlanta,76646000,2.0,22squared,Independent
+145,Periscope,Minneapolis,74380000,7.0,Periscope,Independent
+146,VSA Partners,Chicago,73769000,-7.6,VSA Partners,Independent
+147,Ivie & Associates,"Flower Mound, Texas",72809000,26.0,Ivie & Associates,Independent
+148,SourceLink,"Itasca, Ill.",72800000,9.0,SourceLink,Independent
+149,AbelsonTaylor,Chicago,72092000,13.2,AbelsonTaylor,Independent
+150,Merkley & Partners* [Omnicom],New York,71000000,6.2,Merkley & Partners ,Omnicom
+151,OMG Outdoor Media Group* [Omnicom],New York,70102000,8.1,OMG Outdoor Media Group ,Omnicom
+152,HelloWorld*,"Southfield, Mich.",70000000,0.0,HelloWorld,Independent
+153,Optimedia International U.S.* [Publicis],New York,69791000,12.8,Optimedia International U.S. ,Publicis
+154,FTI Consulting (Strategic Communications)*,New York,67828000,5.6,FTI Consulting (Strategic Communications),Independent
+155,SMG Performance Marketing* [Publicis],Chicago,67038000,11.8,SMG Performance Marketing ,Publicis
+156,Finn Partners,New York,66634000,5.5,Finn Partners,Independent
+157,Apco Worldwide,Washington,66152000,-4.2,Apco Worldwide,Independent
+158,DDB Health/DDB Remedy* [Omnicom],New York,66037000,8.5,DDB Health/DDB Remedy ,Omnicom
+159,Marketing Store,Chicago,65897000,14.6,Marketing Store,Independent
+160,Team* [MDC Partners],"Fort Lauderdale, Fla.",65000000,0.0,Team ,MDC Partners
+161,Tribal Worldwide* [Omnicom],New York,64900000,9.1,Tribal Worldwide ,Omnicom
+162,PMK-BNC* [Interpublic],"West Hollywood, Calif.",63503000,15.5,PMK-BNC ,Interpublic
+163,PureRed,"Stone Mountain, Ga.",63153000,15.9,PureRed,Independent
+164,Anomaly* [MDC Partners],New York,62343000,21.0,Anomaly ,MDC Partners
+165,Glover Park Group* [WPP],Washington,61934000,0.0,Glover Park Group ,WPP
+166,Saatchi & Saatchi Wellness* [Publicis],New York,61905000,19.0,Saatchi & Saatchi Wellness ,Publicis
+167,Moroch Partners,Dallas,61519000,11.6,Moroch Partners,Independent
+168,Neo@Ogilvy* [WPP],New York,61164000,19.4,Neo@Ogilvy ,WPP
+169,Acronym,New York,60850000,21.2,Acronym,Independent
+170,Siegel & Gale* [Omnicom],New York,59504000,19.0,Siegel & Gale ,Omnicom
+171,Performics* [Publicis],Chicago,58460000,20.0,Performics ,Publicis
+172,Code and Theory,New York,58000000,,Code and Theory,Independent
+173,Allen & Gerritsen,Boston,57436000,0.0,Allen & Gerritsen,Independent
+174,CDMiConnect* [Omnicom],New York,56591000,12.1,CDMiConnect ,Omnicom
+175,Rauxa,"Costa Mesa, Calif.",56460000,-5.3,Rauxa,Independent
+176,ICR,New York,56209000,10.8,ICR,Independent
+177,Havas PR* [Havas],New York,55800000,,Havas PR ,Havas
+178,Mars Agency,"Southfield, Mich.",55009000,1.4,Mars Agency,Independent
+179,Rockfish* [WPP],"Rogers, Ark.",55000000,41.0,Rockfish ,WPP
+180,Deep Focus [Engine Group],New York,54783000,19.2,Deep Focus ,Engine Group
+181,MWWPR*,New York,54000000,0.9,MWWPR,Independent
+182,Marketing Werks*,Chicago,53976000,-11.1,Marketing Werks,Independent
+183,Barkley,"Kansas City, Mo.",53790000,15.6,Barkley,Independent
+184,Fusion Marketing,St. Louis,53600000,7.2,Fusion Marketing,Independent
+185,TPN* [Omnicom],Dallas,53370000,7.8,TPN ,Omnicom
+186,Sard Verbinnen & Co.*,New York,51830000,8.9,Sard Verbinnen & Co.,Independent
+187,Healthcare Consultancy Group* [Omnicom],New York,51232000,5.7,Healthcare Consultancy Group ,Omnicom
+188,Essence* [WPP],London,50903000,32.2,Essence ,WPP
+189,Paradysz & PM Digital,New York,50202000,9.5,Paradysz & PM Digital,Independent
+190,Brierley & Partners*,"Plano, Texas",50000000,11.1,Brierley & Partners,Independent
+191,Publicis Life Brands Medicus* [Publicis],New York,50000000,0.0,Publicis Life Brands Medicus ,Publicis
+192,Impact XM,"Dayton, N.J.",49620000,6.9,Impact XM,Independent
+193,GMMB* [Omnicom],Washington,49500000,-10.0,GMMB ,Omnicom
+194,R&R Partners,Las Vegas,49040000,-0.3,R&R Partners,Independent
+195,Russ Reid Co.* [Omnicom],"Pasadena, Calif.",48784000,0.7,Russ Reid Co. ,Omnicom
+196,Ackerman McQueen,Oklahoma City,48074000,2.5,Ackerman McQueen,Independent
+197,Carmichael Lynch* [Interpublic],Minneapolis,47783000,8.5,Carmichael Lynch ,Interpublic
+198,DKC,New York,46950000,13.1,DKC,Independent
+199,Ruder Finn*,New York,46400000,0.1,Ruder Finn,Independent
+200,R2C Group,"Portland, Ore.",45800000,3.5,R2C Group,Independent
+201,M&C Saatchi,London,45333000,81.3,M&C Saatchi,Independent
+202,Publicis Health Media* [Publicis],Philadelphia,45000000,50.0,Publicis Health Media ,Publicis
+203,Kobie Marketing,"St. Petersburg, Fla.",45000000,77.6,Kobie Marketing,Independent
+204,Media Storm*,"Norwalk, Conn.",44506000,0.0,Media Storm,Independent
+205,U.S. International Media*,Los Angeles,44036000,0.9,U.S. International Media,Independent
+206,GlobalHue*,"Southfield, Mich.",43946000,-13.5,GlobalHue,Independent
+207,Sandbox Group,Chicago,43876000,18.7,Sandbox Group,Independent
+208,Allied Integrated Marketing*,"Cambridge, Mass.",43741000,7.9,Allied Integrated Marketing,Independent
+209,Magna Global* [Interpublic],New York,43734000,15.0,Magna Global ,Interpublic
+210,Vizeum* [Dentsu],New York,43312000,45.0,Vizeum ,Dentsu
+211,Pepperjam,"Wilkes-Barre, Pa.",42300000,,Pepperjam,Independent
+212,BVK,Milwaukee,42250000,10.0,BVK,Independent
+213,Ayzenberg Group,"Pasadena, Calif.",42050000,31.4,Ayzenberg Group,Independent
+214,The Bloc,New York,41726000,-8.1,The Bloc,Independent
+215,Didit,"Mineola, N.Y.",41478000,32.5,Didit,Independent
+216,Marc USA [Eastport Holdings],Pittsburgh,41207000,-5.1,Marc USA ,Eastport Holdings
+217,Allison & Partners* [MDC Partners],San Francisco,41000000,29.2,Allison & Partners ,MDC Partners
+218,Sparks*,Philadelphia,40872000,4.2,Sparks,Independent
+219,EG+ Worldwide* [Omnicom],"Long Beach, Calif.",40597000,0.7,EG+ Worldwide ,Omnicom
+220,Finsbury* [WPP],New York,40000000,0.8,Finsbury ,WPP
+221,CMI/Compas*,"King of Prussia, Pa.",39552000,32.3,CMI/Compas,Independent
+222,Greater Than One,New York,39200000,35.0,Greater Than One,Independent
+223,HackerAgency* [Interpublic],Seattle,38792000,4.2,HackerAgency ,Interpublic
+224,FutureBrand* [Interpublic],London,38534000,13.3,FutureBrand ,Interpublic
+225,Colle & McVoy* [MDC Partners],Minneapolis,38500000,1.3,Colle & McVoy ,MDC Partners
+226,Discovery USA* [Publicis],Chicago,38000000,0.0,Discovery USA ,Publicis
+227,Big Fuel Communications* [Publicis],New York,37553000,2.4,Big Fuel Communications ,Publicis
+228,David & Goliath,"El Segundo, Calif.",37400000,11.3,David & Goliath,Independent
+229,Bartle Bogle Hegarty* [Publicis],London,37246000,0.0,Bartle Bogle Hegarty ,Publicis
+230,Razorfish Health* [Publicis],New York,37000000,-7.5,Razorfish Health ,Publicis
+231,Mercury Media*,"Santa Monica, Calif.",36380000,0.0,Mercury Media,Independent
+232,McKinney [Cheil Worldwide],"Durham, N.C.",36200000,6.8,McKinney ,Cheil Worldwide
+233,CMD,"Portland, Ore.",36148000,10.6,CMD,Independent
+234,Venables Bell & Partners,San Francisco,36000000,-7.7,Venables Bell & Partners,Independent
+235,Eric Mower & Associates,"Syracuse, N.Y.",35791000,-1.3,Eric Mower & Associates,Independent
+236,PadillaCRT,Minneapolis,35670000,7.4,PadillaCRT,Independent
+237,Anderson Direct & Digital,"Poway, Calif.",35608000,4.7,Anderson Direct & Digital,Independent
+238,Marina Maher Communications* [Omnicom],New York,35512000,0.6,Marina Maher Communications ,Omnicom
+239,Cramer,"Norwood, Mass.",35500000,36.5,Cramer,Independent
+240,AgencyRx* [Omnicom],New York,35499000,-23.7,AgencyRx ,Omnicom
+241,Zeno Group [DJE Holdings],New York,35421000,25.2,Zeno Group ,DJE Holdings
+242,Knock,Minneapolis,35274000,13.3,Knock,Independent
+243,Doremus* [Omnicom],New York,35231000,3.4,Doremus ,Omnicom
+244,Saatchi & Saatchi X* [Publicis],"Springdale, Ark.",35022000,2.4,Saatchi & Saatchi X ,Publicis
+245,Swirl*,San Francisco,35000000,16.1,Swirl,Independent
+246,Mother New York [Mother Holdings],New York,35000000,6.1,Mother New York ,Mother Holdings
+247,Kinetic* [WPP],New York,34805000,2.5,Kinetic ,WPP
+248,MCD Partners [M&C Saatchi],New York,34750000,6.9,MCD Partners ,M&C Saatchi
+249,Bader Rutter & Associates,"Brookfield, Wis.",34668000,-3.2,Bader Rutter & Associates,Independent
+250,Concentric Health Experience* [MDC Partners],New York,34660000,43.1,Concentric Health Experience ,MDC Partners
+251,MMGY Global,"Kansas City, Mo.",34493000,6.2,MMGY Global,Independent
+252,Matomy* [Matomy Media Group],"Tel Aviv, Israel",34232000,3.5,Matomy ,Matomy Media Group
+253,Grizzard Communications Group* [Omnicom],Atlanta,33975000,0.0,Grizzard Communications Group ,Omnicom
+254,Bernstein-Rein Advertising,"Kansas City, Mo.",33867000,-9.7,Bernstein-Rein Advertising,Independent
+255,R2integrated,Baltimore,33654000,18.4,R2integrated,Independent
+256,Wire Stone,San Francisco,33500000,14.2,Wire Stone,Independent
+257,BFG Communications,"Bluffton, S.C.",33453000,-18.5,BFG Communications,Independent
+258,Lopez Negrete Communications,Houston,33438000,-21.0,Lopez Negrete Communications,Independent
+259,Brodeur Partners*,Boston,33354000,0.0,Brodeur Partners,Independent
+260,Translation*,New York,33169000,-8.7,Translation,Independent
+261,Giant Creative Strategy,San Francisco,33000000,-29.8,Giant Creative Strategy,Independent
+262,Laughlin Constable,Chicago,32900000,15.4,Laughlin Constable,Independent
+263,Conill* [Publicis],"El Segundo, Calif.",32853000,-4.8,Conill ,Publicis
+264,Fallon* [Publicis],Minneapolis,32852000,5.0,Fallon ,Publicis
+265,Lewis,San Francisco,32845000,17.7,Lewis,Independent
+266,Adcom Group,Cleveland,32811000,-7.1,Adcom Group,Independent
+267,180 Amsterdam/180LA* [Omnicom],Amsterdam,32724000,15.0,180 Amsterdam/180LA ,Omnicom
+268,Alma* [Omnicom],Miami,32677000,15.0,Alma ,Omnicom
+269,Tukaiz,"Franklin Park, Ill.",32563000,-24.0,Tukaiz,Independent
+270,CDM Princeton* [Omnicom],"Princeton, N.J.",31422000,0.0,CDM Princeton ,Omnicom
+271,Davis Elen Advertising,Los Angeles,31297000,3.2,Davis Elen Advertising,Independent
+272,Fahlgren Mortine,"Columbus, Ohio",31189000,5.1,Fahlgren Mortine,Independent
+273,CCG Marketing Solutions*,"West Caldwell, N.J.",31000000,0.0,CCG Marketing Solutions,Independent
+274,Healthwork* [Omnicom],New York,31000000,,Healthwork ,Omnicom
+275,Orion Holdings* [Interpublic],New York,30392000,2.0,Orion Holdings ,Interpublic
+276,Pop* [Advance Publications],Seattle,30364000,-8.5,Pop ,Advance Publications
+277,Bravo Group* [WPP],Miami,30270000,-5.4,Bravo Group ,WPP
+278,Grayling* [Huntsworth],London,30251000,-19.8,Grayling ,Huntsworth
+279,T3,"Austin, Texas",30204000,-0.6,T3,Independent
+280,Mekanism,San Francisco,30193000,20.0,Mekanism,Independent
+281,LatinWorks* [Omnicom],"Austin, Texas",30119000,-16.4,LatinWorks ,Omnicom
+282,WongDoody,Seattle,30000000,0.0,WongDoody,Independent
+283,Heartbeat Ideas* [Publicis],New York,30000000,50.0,Heartbeat Ideas ,Publicis
+284,ID Media* [Interpublic],New York,29960000,7.0,ID Media ,Interpublic
+285,Blue State Digital* [WPP],New York,29856000,6.6,Blue State Digital ,WPP
+286,Fitch* [WPP],London,29599000,6.6,Fitch ,WPP
+287,Firstborn* [Dentsu],New York,29535000,1.0,Firstborn ,Dentsu
+288,Eleven,San Francisco,29305000,-3.9,Eleven,Independent
+289,Women's Marketing,"Westport, Conn.",29000000,,Women's Marketing,Independent
+290,Pereira & O'Dell,San Francisco,29000000,20.8,Pereira & O'Dell,Independent
+291,Elite SEM*,New York,28500000,39.7,Elite SEM,Independent
+292,A.B. Data,Milwaukee,28462000,5.0,A.B. Data,Independent
+293,RevHealth,"Morristown, N.J.",28000000,21.7,RevHealth,Independent
+294,Jellyfish,Baltimore,28000000,150.0,Jellyfish,Independent
+295,Martin Williams* [Omnicom],Minneapolis,27604000,3.0,Martin Williams ,Omnicom
+296,"Butler, Shine, Stern & Partners","Sausalito, Calif.",27573000,-2.3,"Butler, Shine, Stern & Partners",Independent
+297,Text 100 [Next Fifteen Communications Group],New York,27511000,10.7,Text 100 ,Next Fifteen Communications Group
+298,Coyne Public Relations,"Parsippany, N.J.",27000000,17.3,Coyne Public Relations,Independent
+299,BrunnerWorks,Pittsburgh,27000000,-7.2,BrunnerWorks,Independent
+300,Access Emanate Communications* [Omnicom],San Francisco,26976000,1.8,Access Emanate Communications ,Omnicom
+301,Adelphi Group* [Omnicom],New York,26930000,8.5,Adelphi Group ,Omnicom
+302,Jackson Marketing Group*,"Greenville, S.C.",26600000,-2.4,Jackson Marketing Group,Independent
+303,OutCast Agency [Next Fifteen Communications Group],San Francisco,26000000,4.0,OutCast Agency ,Next Fifteen Communications Group
+304,Carrot Creative*,"Brooklyn, N.Y.",26000000,60.8,Carrot Creative,Independent
+305,M Booth [Next Fifteen Communications Group],New York,25546000,35.5,M Booth ,Next Fifteen Communications Group
+306,Red Interactive Agency*,"Santa Monica, Calif.",25531000,17.4,Red Interactive Agency,Independent
+307,Dieste* [Omnicom],Dallas,25500000,20.0,Dieste ,Omnicom
+308,Cadient*,"Malvern, Pa.",25500000,0.0,Cadient,Independent
+309,Revolution,Chicago,25350000,12.0,Revolution,Independent
+310,Switch*,St. Louis,25251000,-10.6,Switch,Independent
+311,Empower MediaMarketing,Cincinnati,25000000,0.0,Empower MediaMarketing,Independent
+312,Biolumina* [Omnicom],New York,25000000,0.0,Biolumina ,Omnicom
+313,Grupo Gallegos,"Huntington Beach, Calif.",25000000,-3.8,Grupo Gallegos,Independent
+314,Vitro* [MDC Partners],San Diego,24900000,3.3,Vitro ,MDC Partners
+315,Regan Communications Group*,Boston,24547000,-3.6,Regan Communications Group,Independent
+316,Guild,"Brooklyn, N.Y.",24500000,8.9,Guild,Independent
+317,Alcone Marketing* [Omnicom],"Irvine, Calif.",24257000,-4.1,Alcone Marketing ,Omnicom
+318,MicroMass Communications,"Cary, N.C.",24200000,4.3,MicroMass Communications,Independent
+319,DiD,"Ambler, Pa.",24000000,50.0,DiD,Independent
+320,Tapestry* [Publicis],Chicago,23838000,-5.7,Tapestry ,Publicis
+321,Dailey* [Interpublic],"West Hollywood, Calif.",23633000,-8.8,Dailey ,Interpublic
+322,Closerlook*,Chicago,23600000,10.3,Closerlook,Independent
+323,Kern* [Omnicom],"Woodland Hills, Calif.",23488000,5.0,Kern ,Omnicom
+324,The Search Agency*,Los Angeles,23288000,8.0,The Search Agency,Independent
+325,John McNeil Studio,"Berkeley, Calif.",23249000,5.4,John McNeil Studio,Independent
+326,Walton Isaacson,"Culver City, Calif.",23218000,10.4,Walton Isaacson,Independent
+327,Racepoint Global,Boston,23120000,12.5,Racepoint Global,Independent
+328,Argonaut [Project WorldWide],San Francisco,23000000,109.1,Argonaut ,Project WorldWide
+329,Fuseideas,"Winchester, Mass.",23000000,2.7,Fuseideas,Independent
+330,Inter/Media Advertising*,"Woodland Hills, Calif.",22900000,3.2,Inter/Media Advertising,Independent
+331,Connelly Partners,Boston,22841000,6.0,Connelly Partners,Independent
+332,Barbarian Group [Cheil Worldwide],New York,22821000,4.8,Barbarian Group ,Cheil Worldwide
+333,EVB*,"Oakland, Calif.",22545000,0.0,EVB,Independent
+334,Space150,Minneapolis,22378000,46.5,Space150,Independent
+335,Taylor,New York,22348000,3.0,Taylor,Independent
+336,Entree Health New York* [Omnicom],New York,22217000,2.0,Entree Health New York ,Omnicom
+337,Avrett Free Ginsberg* [Interpublic],New York,22199000,0.0,Avrett Free Ginsberg ,Interpublic
+338,Upshot,Chicago,22000000,-7.2,Upshot,Independent
+339,Work & Co.,"Brooklyn, N.Y.",22000000,73.2,Work & Co.,Independent
+340,LMO Advertising,"Arlington, Va.",21973000,48.5,LMO Advertising,Independent
+341,Laird & Partners* [MDC Partners],New York,21927000,0.0,Laird & Partners ,MDC Partners
+342,Gravity Media,New York,21909000,-1.6,Gravity Media,Independent
+343,Stamats,"Cedar Rapids, Iowa",21895000,3.6,Stamats,Independent
+344,Archer Malmo,"Memphis, Tenn.",21800000,-5.6,Archer Malmo,Independent
+345,Scoppechio*,"Louisville, Ky.",21792000,0.3,Scoppechio,Independent
+346,MV42* [Publicis],New York,21659000,-3.5,MV42 ,Publicis
+347,Legacy Marketing,Chicago,21657000,-0.4,Legacy Marketing,Independent
+348,Casanova Pendrill* [Interpublic],"Costa Mesa, Calif.",21500000,22.9,Casanova Pendrill ,Interpublic
+349,5W Public Relations,New York,21467000,13.2,5W Public Relations,Independent
+350,MMB*,Boston,21441000,-10.0,MMB,Independent
+351,Fingerpaint,"Saratoga Springs, N.Y.",21268000,4.5,Fingerpaint,Independent
+352,Tierney* [Interpublic],Philadelphia,21100000,8.5,Tierney ,Interpublic
+353,Sigma Group*,"Upper Saddle River, N.J.",21000000,0.0,Sigma Group,Independent
+354,Slingshot Companies*,Dallas,21000000,,Slingshot Companies,Independent
+355,GlynnDevins Advertising & Marketing,"Overland Park, Kan.",20996000,6.7,GlynnDevins Advertising & Marketing,Independent
+356,Mastermind Involvement Marketing,Atlanta,20750000,6.4,Mastermind Involvement Marketing,Independent
+357,Schafer Condon Carter,Chicago,20721000,4.8,Schafer Condon Carter,Independent
+358,Sterling-Rice Group,"Boulder, Colo.",20700000,17.6,Sterling-Rice Group,Independent
+359,Hunter Public Relations* [MDC Partners],New York,20675000,2.1,Hunter Public Relations ,MDC Partners
+360,Shift Communications,"Newton, Mass.",20433000,10.8,Shift Communications,Independent
+361,Via Agency,"Portland, Maine",20400000,-14.5,Via Agency,Independent
+362,Roberts & Langer DDB* [Omnicom],New York,20213000,-3.1,Roberts & Langer DDB ,Omnicom
+363,Mono* [MDC Partners],Minneapolis,20077000,52.9,Mono ,MDC Partners
+364,Big Spaceship,"Brooklyn, N.Y.",20000000,33.3,Big Spaceship,Independent
+365,Source* [MDC Partners],"Norwalk, Conn.",20000000,-20.0,Source ,MDC Partners
+366,Flashpoint Medica* [Omnicom],New York,19989000,0.0,Flashpoint Medica ,Omnicom
+367,Fitzgerald & Co.* [Interpublic],Atlanta,19942000,23.5,Fitzgerald & Co. ,Interpublic
+368,Cone Communications* [Omnicom],Boston,19694000,-0.6,Cone Communications ,Omnicom
+369,Tombras Group,"Knoxville, Tenn.",19600000,24.8,Tombras Group,Independent
+370,Rise Interactive,Chicago,19323000,38.7,Rise Interactive,Independent
+371,Frank Agency,"Overland Park, Kan.",19300000,4.1,Frank Agency,Independent
+372,Osborn Barr,St. Louis,19239000,-13.5,Osborn Barr,Independent
+373,Agency 720* [Omnicom],Detroit,19228000,4.0,Agency 720 ,Omnicom
+374,Wpromote,"El Segundo, Calif.",19226000,10.6,Wpromote,Independent
+375,Underground Elephant*,San Diego,19200000,19.5,Underground Elephant,Independent
+376,Adams & Knight,"Avon, Conn.",19193000,-3.0,Adams & Knight,Independent
+377,Zubi Advertising Services,"Coral Gables, Fla.",19000000,0.5,Zubi Advertising Services,Independent
+378,Fathom,"Valley View, Ohio",19000000,2.4,Fathom,Independent
+379,Peppercomm,New York,18790000,10.8,Peppercomm,Independent
+380,Roundhouse*,"Portland, Ore.",18700000,38.5,Roundhouse,Independent
+381,Duncan/Channon,San Francisco,18500000,12.8,Duncan/Channon,Independent
+382,LiveArea,Seattle,18473000,18.5,LiveArea,Independent
+383,McGarrah Jessee,"Austin, Texas",18472000,0.4,McGarrah Jessee,Independent
+384,Burrell Communications Group* [Publicis],Chicago,18427000,1.4,Burrell Communications Group ,Publicis
+385,Crossmedia*,New York,18315000,17.9,Crossmedia,Independent
+386,Rodgers Townsend* [Omnicom],St. Louis,18000000,0.0,Rodgers Townsend ,Omnicom
+387,HL Group* [MDC Partners],New York,17668000,-2.5,HL Group ,MDC Partners
+388,Direct Partners* [Omnicom],"Playa Vista, Calif.",17597000,0.7,Direct Partners ,Omnicom
+389,Elias/Savion Advertising,Pittsburgh,17593000,12.0,Elias/Savion Advertising,Independent
+390,Natrel*,"Parsippany, N.J.",17439000,23.3,Natrel,Independent
+391,SparkPR*,San Francisco,17425000,0.0,SparkPR,Independent
+392,LeadDog Marketing Group,New York,17396000,-11.3,LeadDog Marketing Group,Independent
+393,TM Advertising* [Interpublic],Dallas,17394000,0.0,TM Advertising ,Interpublic
+394,Serino/Coyne* [Omnicom],New York,17328000,-1.5,Serino/Coyne ,Omnicom
+395,Sullivan Higdon & Sink,"Wichita, Kan.",17253000,7.4,Sullivan Higdon & Sink,Independent
+396,Camelot Strategic Marketing & Media,Dallas,17205000,27.4,Camelot Strategic Marketing & Media,Independent
+397,Risdall Marketing Group*,"New Brighton, Minn.",17117000,-4.6,Risdall Marketing Group,Independent
+398,Cole & Weber* [WPP],Seattle,17100000,50.0,Cole & Weber ,WPP
+399,Omelet,"Culver City, Calif.",17000000,-38.4,Omelet,Independent
+400,Mitchell Communications Group* [Dentsu],"Fayetteville, Ark.",16955000,1.6,Mitchell Communications Group ,Dentsu
+401,Muhtayzik Hoffer,San Francisco,16838000,53.7,Muhtayzik Hoffer,Independent
+402,Sullivan,New York,16723000,2.6,Sullivan,Independent
+403,HY Connect,Chicago,16717000,31.4,HY Connect,Independent
+404,Gatesman & Dave,Pittsburgh,16643000,21.3,Gatesman & Dave,Independent
+405,Trisect,Chicago,16620000,-14.5,Trisect,Independent
+406,SBC Advertising [Eastport Holdings],"Columbus, Ohio",16578000,17.3,SBC Advertising ,Eastport Holdings
+407,Riester,Phoenix,16552000,-11.7,Riester,Independent
+408,Pitch [Project WorldWide],"Culver City, Calif.",16500000,1.9,Pitch ,Project WorldWide
+409,Iconmobile* [WPP],Berlin,16500000,20.4,Iconmobile ,WPP
+410,BKV,Atlanta,16500000,7.1,BKV,Independent
+411,PMG,"Fort Worth, Texas",16500000,73.0,PMG,Independent
+412,H&L Partners,San Francisco,16455000,-3.8,H&L Partners,Independent
+413,Genuine* [Interpublic],Boston,16343000,18.2,Genuine ,Interpublic
+414,Trozzolo Communications Group,"Kansas City, Mo.",16213000,3.2,Trozzolo Communications Group,Independent
+415,Y Media Labs* [MDC Partners],"Redwood City, Calif.",16200000,80.0,Y Media Labs ,MDC Partners
+416,Republica,Miami,16200000,11.7,Republica,Independent
+417,Sanders/Wingo,"El Paso, Texas",16180000,-5.0,Sanders/Wingo,Independent
+418,Palisades Media Group*,"Santa Monica, Calif.",16138000,12.7,Palisades Media Group,Independent
+419,Godfrey Q,San Francisco,16100000,-8.0,Godfrey Q,Independent
+420,Marcus Thomas,Cleveland,16083000,-22.8,Marcus Thomas,Independent
+421,Gelia,"Williamsville, N.Y.",16074000,15.9,Gelia,Independent
+422,The Community* [Publicis],Miami,16043000,21.8,The Community ,Publicis
+423,Converseon*,New York,16000000,10.3,Converseon,Independent
+424,Partners & Napier [Project WorldWide],"Rochester, N.Y.",16000000,0.0,Partners & Napier ,Project WorldWide
+425,Eveo*,San Francisco,16000000,0.0,Eveo,Independent
+426,TBC,Baltimore,15950000,3.6,TBC,Independent
+427,KHJ Brand Activation,Boston,15850000,3.9,KHJ Brand Activation,Independent
+428,Beeby Clark & Meyler,"Stamford, Conn.",15700000,12.1,Beeby Clark & Meyler,Independent
+429,GKV,Baltimore,15698000,-4.2,GKV,Independent
+430,Brand Union* [WPP],London,15658000,10.4,Brand Union ,WPP
+431,AdAsia Communications,"Englewood Cliffs, N.J.",15609000,-4.8,AdAsia Communications,Independent
+432,LaunchSquad,San Francisco,15580000,19.7,LaunchSquad,Independent
+433,Chandelier Creative*,New York,15577000,3.8,Chandelier Creative,Independent
+434,Imagination,Chicago,15356000,3.6,Imagination,Independent
+435,SSCG Media Group* [Omnicom],New York,15294000,10.0,SSCG Media Group ,Omnicom
+436,Sundog,"Fargo, N.D.",15237000,-5.6,Sundog,Independent
+437,Zambezi,"Venice, Calif.",15080000,-10.8,Zambezi,Independent
+438,Carol H. Williams Advertising,"Oakland, Calif.",15069000,9.6,Carol H. Williams Advertising,Independent
+439,Berlin Cameron* [WPP],New York,15000000,0.0,Berlin Cameron ,WPP
+440,Luckie & Co.*,"Birmingham, Ala.",15000000,0.0,Luckie & Co.,Independent
+441,Sequence*,San Francisco,14974000,17.2,Sequence,Independent
+442,Lapiz* [Publicis],Chicago,14971000,11.5,Lapiz ,Publicis
+443,Rasky Baerlein Strategic Communications,Boston,14854000,4.4,Rasky Baerlein Strategic Communications,Independent
+444,Butler/Till Media and Communications,"Rochester, N.Y.",14800000,34.5,Butler/Till Media and Communications,Independent
+445,Sawtooth,"Red Bank, N.J.",14750000,-2.0,Sawtooth,Independent
+446,Makovsky,New York,14650000,1.0,Makovsky,Independent
+447,IMRE,"Sparks, Md.",14560000,8.6,IMRE,Independent
+448,UniWorld Group* [WPP],"Brooklyn, N.Y.",14527000,-11.2,UniWorld Group ,WPP
+449,Mx Group,"Burr Ridge, Ill.",14516000,-5.0,Mx Group,Independent
+450,LaneTerralever,Phoenix,14500000,3.6,LaneTerralever,Independent
+451,Mortenson Safar Kim,Milwaukee,14432000,34.2,Mortenson Safar Kim,Independent
+452,Amusement Park*,"Santa Ana, Calif.",14430000,4.0,Amusement Park,Independent
+453,Traction,San Francisco,14300000,30.0,Traction,Independent
+454,Lippe Taylor*,New York,14288000,1.3,Lippe Taylor,Independent
+455,Intermark Group,"Birmingham, Ala.",14242000,1.1,Intermark Group,Independent
+456,Stream Companies,"Malvern, Pa.",14110000,20.2,Stream Companies,Independent
+457,Response Mine Interactive,Atlanta,14098000,25.1,Response Mine Interactive,Independent
+458,Cooney/Waters Unlimited [Creston],New York,14021000,-9.2,Cooney/Waters Unlimited ,Creston
+459,HCB Health*,"Austin, Texas",14000000,0.0,HCB Health,Independent
+460,Rain Agency,New York,14000000,9.4,Rain Agency,Independent
+461,Relevent* [MDC Partners],New York,14000000,0.0,Relevent ,MDC Partners
+462,Power Agency,"Louisville, Ky.",13947000,-5.4,Power Agency,Independent
+463,True North,New York,13935000,12.0,True North,Independent
+464,Woodruff Sweitzer,"Kansas City, Mo.",13900000,11.2,Woodruff Sweitzer,Independent
+465,Icuc Social* [Dentsu],"Winnipeg, Canada",13872000,2.0,Icuc Social ,Dentsu
+466,Rokkan* [Publicis],New York,13870000,2.4,Rokkan ,Publicis
+467,MullenLowe Profero* [Interpublic],New York,13857000,30.0,MullenLowe Profero ,Interpublic
+468,JPL,"Harrisburg, Pa.",13794000,-4.5,JPL,Independent
+469,Citizen Relations [BlueFocus Communication Group],Los Angeles,13749000,-15.9,Citizen Relations ,BlueFocus Communication Group
+470,Beauty at Gotham* [Interpublic],New York,13701000,-36.4,Beauty at Gotham ,Interpublic
+471,Phelps,"Playa Vista, Calif.",13639000,3.5,Phelps,Independent
+472,Lockard & Wechsler Direct,"Irvington, N.Y.",13610000,-2.9,Lockard & Wechsler Direct,Independent
+473,Oneupweb,"Traverse City, Mich.",13500000,12.5,Oneupweb,Independent
+474,David Stark Design & Production,"Brooklyn, N.Y.",13500000,31.1,David Stark Design & Production,Independent
+475,Callahan Creek,"Lawrence, Kan.",13483000,5.8,Callahan Creek,Independent
+476,Iris Worldwide [Cheil Worldwide],New York,13481000,-20.5,Iris Worldwide ,Cheil Worldwide
+477,Buntin Group,"Nashville, Tenn.",13460000,-4.9,Buntin Group,Independent
+478,Modco Group,New York,13340000,1.9,Modco Group,Independent
+479,Stern Advertising*,Cleveland,13330000,4.9,Stern Advertising,Independent
+480,St. John & Partners,"Jacksonville, Fla.",13302000,26.6,St. John & Partners,Independent
+481,Doe-Anderson,"Louisville, Ky.",13277000,17.6,Doe-Anderson,Independent
+482,Ologie,"Columbus, Ohio",13207000,8.4,Ologie,Independent
+483,Hanley Wood Marketing,Minneapolis,13181000,-0.5,Hanley Wood Marketing,Independent
+484,O'Keefe Reinhard & Paul,Chicago,13000000,209.5,O'Keefe Reinhard & Paul,Independent
+485,Definition 6*,Atlanta,13000000,0.0,Definition 6,Independent
+486,Liquid Agency,"San Jose, Calif.",12988000,-23.3,Liquid Agency,Independent
+487,Johannes Leonardo* [WPP],New York,12961000,20.9,Johannes Leonardo ,WPP
+488,Nelson Schmidt,Milwaukee,12954000,-0.1,Nelson Schmidt,Independent
+489,Bodden Partners,New York,12910000,-1.4,Bodden Partners,Independent
+490,Posterscope* [Dentsu],London,12800000,0.0,Posterscope ,Dentsu
+491,Boathouse Group,"Waltham, Mass.",12750000,1.2,Boathouse Group,Independent
+492,Company of Others,Houston,12700000,-4.5,Company of Others,Independent
+493,RF Binder Partners,New York,12700000,0.8,RF Binder Partners,Independent
+494,Proof Advertising,"Austin, Texas",12572000,11.6,Proof Advertising,Independent
+495,Broadstreet Productions,New York,12489000,7.8,Broadstreet Productions,Independent
+496,Wednesday* [Omnicom],London,12418000,50.2,Wednesday ,Omnicom
+497,Terri & Sandy,New York,12300000,66.2,Terri & Sandy,Independent
+498,Tenthwave Digital,New York,12269000,-8.4,Tenthwave Digital,Independent
+499,Marca Miami [Eastport Holdings],"Coconut Grove, Fla.",12221000,-0.3,Marca Miami ,Eastport Holdings
+500,Strategic America,"West Des Moines, Iowa",12217000,5.3,Strategic America,Independent
+501,FKQ Advertising & Marketing,"Clearwater, Fla.",12152000,14.4,FKQ Advertising & Marketing,Independent
+502,DMW Direct,"Chesterbrook, Pa.",12127000,-12.0,DMW Direct,Independent
+503,InVNT [Time Inc.],New York,12109000,12.0,InVNT ,Time Inc.
+504,Planit,Baltimore,12009000,34.3,Planit,Independent
+505,Clarity Coverdale Fury,Minneapolis,12000000,0.0,Clarity Coverdale Fury,Independent
+506,Yamamoto* [MDC Partners],Minneapolis,12000000,50.0,Yamamoto ,MDC Partners
+507,PJA Advertising & Marketing,"Cambridge, Mass.",12000000,-7.7,PJA Advertising & Marketing,Independent
+508,Sensis,Los Angeles,11936000,31.7,Sensis,Independent
+509,Cardenas Marketing Network,Chicago,11908000,,Cardenas Marketing Network,Independent
+510,Southwest Media Group* [Eastport Holdings],Dallas,11750000,13.0,Southwest Media Group ,Eastport Holdings
+511,IW Group* [Interpublic],"West Hollywood, Calif.",11639000,3.0,IW Group ,Interpublic
+512,Seiden Group,New York,11600000,22.8,Seiden Group,Independent
+513,Michael Walters Advertising*,Chicago,11571000,0.0,Michael Walters Advertising,Independent
+514,Hook Studio,"Ann Arbor, Mich.",11500000,0.0,Hook Studio,Independent
+515,De la Cruz Group,"Guaynabo, Puerto Rico",11436000,12.0,De la Cruz Group,Independent
+516,Hunt Adkins,Minneapolis,11310000,2.0,Hunt Adkins,Independent
+517,Fuse,St. Louis,11265000,2.3,Fuse,Independent
+518,Hanson*,"Maumee, Ohio",11250000,-5.9,Hanson,Independent
+519,Ab&c Creative Intelligence,"Wilmington, Del.",11240000,2.2,Ab&c Creative Intelligence,Independent
+520,Fetch* [Dentsu],London,11070000,21.4,Fetch ,Dentsu
+521,Anthology Marketing Group,Honolulu,11059000,-0.9,Anthology Marketing Group,Independent
+522,Hiebing,"Madison, Wis.",11019000,6.9,Hiebing,Independent
+523,Communica,"Toledo, Ohio",11000000,0.0,Communica,Independent
+524,Fly Communications,New York,11000000,4.8,Fly Communications,Independent
+525,Cibo Global,San Francisco,11000000,22.2,Cibo Global,Independent
+526,Triple Threat Communications,"Paramus, N.J.",11000000,4.8,Triple Threat Communications,Independent
+527,InterTrend Communications,"Long Beach, Calif.",11000000,6.8,InterTrend Communications,Independent
+528,Bohan Advertising,"Nashville, Tenn.",10967000,2.8,Bohan Advertising,Independent
+529,Godfrey,"Lancaster, Pa.",10925000,-0.3,Godfrey,Independent
+530,Hawthorne Direct,Los Angeles,10891000,29.1,Hawthorne Direct,Independent
+531,Push,Orlando,10800000,-9.0,Push,Independent
+532,Lewis Communications*,"Mobile, Ala.",10769000,2.6,Lewis Communications,Independent
+533,PM3,Atlanta,10682000,18.7,PM3,Independent
+534,Cardinal Path* [Dentsu],Chicago,10667000,44.6,Cardinal Path ,Dentsu
+535,Interlex Communications,San Antonio,10535000,112.6,Interlex Communications,Independent
+536,Camp & King,San Francisco,10500000,23.5,Camp & King,Independent
+537,Admerasia,New York,10500000,-4.5,Admerasia,Independent
+538,Current Marketing* [Interpublic],Chicago,10500000,1.9,Current Marketing ,Interpublic
+539,Kaplow Communications*,New York,10444000,-3.9,Kaplow Communications,Independent
+540,Hello Design* [MDC Partners],"Culver City, Calif.",10268000,21.4,Hello Design ,MDC Partners
+541,Team Epiphany,New York,10182000,42.1,Team Epiphany,Independent
+542,Somnio,"Austin, Texas",10114000,96.6,Somnio,Independent
+543,Crosby,"Annapolis, Md.",10055000,-3.7,Crosby,Independent
+544,Axis Agency* [Interpublic],"West Hollywood, Calif.",10039000,-0.4,Axis Agency ,Interpublic
+545,TDW & Co.,Seattle,10015000,31.8,TDW & Co.,Independent
+546,Luquire George Andrews,"Charlotte, N.C.",10006000,6.8,Luquire George Andrews,Independent
+547,Noble Communications,"Springfield, Mo.",10000000,-2.9,Noble Communications,Independent
+548,Magnetic Collaborative,New York,10000000,31.6,Magnetic Collaborative,Independent
+549,Kastner & Partners,Los Angeles,10000000,25.0,Kastner & Partners,Independent
+550,Siltanen & Partners,"El Segundo, Calif.",10000000,0.0,Siltanen & Partners,Independent
+551,BPN* [Interpublic],New York,9924000,6.2,BPN ,Interpublic
+552,Ymarketing,"Newport Beach, Calif.",9875000,24.5,Ymarketing,Independent
+553,Mindgruve*,San Diego,9754000,1.4,Mindgruve,Independent
+554,Chemistry,Pittsburgh,9640000,-1.6,Chemistry,Independent
+555,GreenRubino,Seattle,9610000,24.4,GreenRubino,Independent
+556,D Exposito & Partners,New York,9607000,1.6,D Exposito & Partners,Independent
+557,Sub Rosa*,New York,9572000,-17.4,Sub Rosa,Independent
+558,PriceWeber Marketing Communications,"Louisville, Ky.",9503000,20.4,PriceWeber Marketing Communications,Independent
+559,Pollinate,"Portland, Ore.",9500000,6.7,Pollinate,Independent
+560,Mythic*,"Charlotte, N.C.",9473000,3.3,Mythic,Independent
+561,Hart,"Maumee, Ohio",9374000,15.7,Hart,Independent
+562,Larry John Wright,"Mesa, Ariz.",9360000,67.1,Larry John Wright,Independent
+563,Zehnder Communications,New Orleans,9324000,-2.1,Zehnder Communications,Independent
+564,Peter A. Mayer Advertising,New Orleans,9292000,-56.5,Peter A. Mayer Advertising,Independent
+565,iStrategyLabs,Washington,9210000,39.0,iStrategyLabs,Independent
+566,Zocalo Group* [Omnicom],Chicago,9201000,0.0,Zocalo Group ,Omnicom
+567,Northlich*,Cincinnati,9200000,0.0,Northlich,Independent
+568,Muse,"Culver City, Calif.",9170000,17.6,Muse,Independent
+569,Martino Flynn,"Pittsford, N.Y.",9108000,9.7,Martino Flynn,Independent
+570,Dynamit,"Columbus, Ohio",9000000,55.2,Dynamit,Independent
+571,Noble People,New York,9000000,125.0,Noble People,Independent
+572,Triptent,New York,9000000,50.0,Triptent,Independent
+573,Brighton Agency,St. Louis,8979000,-23.3,Brighton Agency,Independent
+574,Revana Digital,"San Dimas, Calif.",8875000,-32.9,Revana Digital,Independent
+575,Badger & Winters,New York,8737000,-26.0,Badger & Winters,Independent
+576,Simple Truth,Chicago,8704000,-5.2,Simple Truth,Independent
+577,Strikeforce Communications,New York,8700000,4.8,Strikeforce Communications,Independent
+578,SMZ,"Troy, Mich.",8700000,-1.1,SMZ,Independent
+579,Acento Advertising,"Santa Monica, Calif.",8667000,0.2,Acento Advertising,Independent
+580,Bateman Group,San Francisco,8643000,28.9,Bateman Group,Independent
+581,Bayshore Solutions,"Tampa, Fla.",8638000,1.9,Bayshore Solutions,Independent
+582,Beyond Marketing Group,"Irvine, Calif.",8612000,0.0,Beyond Marketing Group,Independent
+583,Taxi* [WPP],Toronto,8579000,31.9,Taxi ,WPP
+584,PulseCX*,"Montgomeryville, Pa.",8571000,-4.8,PulseCX,Independent
+585,Moveo,Chicago,8567000,5.2,Moveo,Independent
+586,Daniel Brian Advertising,"Rochester, Mich.",8532000,27.3,Daniel Brian Advertising,Independent
+587,Digital Pulp,New York,8500000,2.4,Digital Pulp,Independent
+588,Catalyst,"Rochester, N.Y.",8500000,0.0,Catalyst,Independent
+589,Arke Systems,Atlanta,8470000,4.7,Arke Systems,Independent
+590,DWA,San Francisco,8462000,64.1,DWA,Independent
+591,Kovel/Fuller*,"Culver City, Calif.",8391000,-1.3,Kovel/Fuller,Independent
+592,Stein IAS,New York,8316000,17.1,Stein IAS,Independent
+593,Springbox,"Austin, Texas",8312000,44.3,Springbox,Independent
+594,People Ideas & Culture,New York,8300000,188.8,People Ideas & Culture,Independent
+595,AHA,"Vancouver, Wash.",8300000,2.5,AHA,Independent
+596,Source Communications*,"Hackensack, N.J.",8262000,0.0,Source Communications,Independent
+597,Aaaza,Los Angeles,8250000,25.0,Aaaza,Independent
+598,Syzygy* [WPP],"Bad Homburg, Germany",8240000,114.4,Syzygy ,WPP
+599,Nemo Design*,"Portland, Ore.",8200000,32.3,Nemo Design,Independent
+600,Media Horizons,"Norwalk, Conn.",8074000,8.4,Media Horizons,Independent
+601,Vladimir Jones,"Colorado Springs, Colo.",8029000,-8.6,Vladimir Jones,Independent
+602,Launchpad Advertising,New York,8000000,0.0,Launchpad Advertising,Independent
+603,Karsh Hagan,Denver,7978000,4.2,Karsh Hagan,Independent
+604,Marden-Kane Digital Promotions,"Woodbury, N.Y.",7975000,-3.0,Marden-Kane Digital Promotions,Independent
+605,Roberts Communications,"Rochester, N.Y.",7946000,10.5,Roberts Communications,Independent
+606,Next Marketing,"Norcross, Ga.",7937000,-10.0,Next Marketing,Independent
+607,Rx Mosaic Health* [Omnicom],New York,7920000,8.5,Rx Mosaic Health ,Omnicom
+608,Kwittken* [MDC Partners],New York,7900000,14.5,Kwittken ,MDC Partners
+609,LevLane*,Philadelphia,7800000,14.4,LevLane,Independent
+610,Madwell,"Brooklyn, N.Y.",7753000,68.8,Madwell,Independent
+611,Preston Kelly,Minneapolis,7750000,3.3,Preston Kelly,Independent
+612,Curiosity,Cincinnati,7740000,29.9,Curiosity,Independent
+613,Charleston/Orwig,"Hartland, Wis.",7711000,-10.4,Charleston/Orwig,Independent
+614,Slack & Co.*,Chicago,7700000,0.6,Slack & Co.,Independent
+615,TaCito Direct,Dallas,7697000,-10.4,TaCito Direct,Independent
+616,Babcock Jenkins,"Portland, Ore.",7600000,-33.3,Babcock Jenkins,Independent
+617,Nail Communications,"Providence, R.I.",7564000,22.0,Nail Communications,Independent
+618,New Honor Society* [Interpublic],St. Louis,7534000,5.0,New Honor Society ,Interpublic
+619,Downtown Partners* [Omnicom],Chicago,7500000,-10.0,Downtown Partners ,Omnicom
+620,Bozell*,Omaha,7500000,0.0,Bozell,Independent
+621,Gregory FCA,"Ardmore, Pa.",7500000,10.3,Gregory FCA,Independent
+622,EGC Group,"Melville, N.Y.",7500000,0.0,EGC Group,Independent
+623,Questus,San Francisco,7500000,-28.6,Questus,Independent
+624,One North Interactive*,Chicago,7491000,11.6,One North Interactive,Independent
+625,Threespot,Washington,7471000,2.1,Threespot,Independent
+626,BusinessOnline,San Diego,7464000,2.4,BusinessOnline,Independent
+627,Baker Street Advertising*,San Francisco,7413000,4.0,Baker Street Advertising,Independent
+628,Mirrorball,New York,7400000,15.6,Mirrorball,Independent
+629,Pavone Marketing Group,"Harrisburg, Pa.",7307000,5.9,Pavone Marketing Group,Independent
+630,Rabinovici & Associates,"Hallandale Beach, Fla.",7297000,23.7,Rabinovici & Associates,Independent
+631,Bandy Carroll Hellige,"Louisville, Ky.",7295000,12.2,Bandy Carroll Hellige,Independent
+632,Farm,"Depew, N.Y.",7290000,13.9,Farm,Independent
+633,Chempetitive Group,Chicago,7251000,34.2,Chempetitive Group,Independent
+634,Adrenaline,Atlanta,7244000,11.4,Adrenaline,Independent
+635,Cactus,Denver,7216000,8.9,Cactus,Independent
+636,Airfoil Group*,"Royal Oak, Mich.",7200000,0.4,Airfoil Group,Independent
+637,Stone Ward,"Little Rock, Ark.",7122000,0.0,Stone Ward,Independent
+638,DNA Seattle,Seattle,7060000,1.4,DNA Seattle,Independent
+639,Struck,Salt Lake City,7057000,-4.5,Struck,Independent
+640,Brooklyn Brothers* [Interpublic],New York,7000000,-1.4,Brooklyn Brothers ,Interpublic
+641,Solve,Minneapolis,7000000,29.6,Solve,Independent
+642,Orci,"Santa Monica, Calif.",7000000,16.7,Orci,Independent
+643,Walker Sands,Chicago,6917000,51.8,Walker Sands,Independent
+644,Lloyd & Co.*,New York,6900000,-8.0,Lloyd & Co.,Independent
+645,Borshoff,Indianapolis,6871000,-13.7,Borshoff,Independent
+646,Wing* [WPP],New York,6849000,-18.2,Wing ,WPP
+647,Safari Sundays*,New York,6796000,22.5,Safari Sundays,Independent
+648,Lopito Ileana & Howie,"Guaynabo, Puerto Rico",6791000,5.5,Lopito Ileana & Howie,Independent
+649,Advantage International* [Interpublic],"Norwalk, Conn.",6735000,4.6,Advantage International ,Interpublic
+650,Kelliher Samets Volk,"Burlington, Vt.",6700000,12.6,Kelliher Samets Volk,Independent
+651,Mortar*,San Francisco,6686000,0.0,Mortar,Independent
+652,CDM Los Angeles* [Omnicom],Los Angeles,6685000,-18.6,CDM Los Angeles ,Omnicom
+653,Barker Advertising and Interactive,New York,6644000,10.2,Barker Advertising and Interactive,Independent
+654,Three Deep,"St. Paul, Minn.",6644000,2.5,Three Deep,Independent
+655,Ansible* [Interpublic],New York,6628000,12.0,Ansible ,Interpublic
+656,Media Logic,"Albany, N.Y.",6620000,6.1,Media Logic,Independent
+657,MBLM Advertising*,New York,6593000,-7.1,MBLM Advertising,Independent
+658,White64,"Tysons, Va.",6575000,6.0,White64,Independent
+659,PanCom International*,Los Angeles,6560000,9.5,PanCom International,Independent
+660,Dodge Communications,"Alpharetta, Ga.",6555000,8.1,Dodge Communications,Independent
+661,Apollo Interactive,"El Segundo, Calif.",6500000,-3.7,Apollo Interactive,Independent
+662,The Variable,"Winston-Salem, N.C.",6436000,98.1,The Variable,Independent
+663,MediaMorphosis,"Long Island City, N.Y.",6383000,-4.2,MediaMorphosis,Independent
+664,Red Square Agency,"Mobile, Ala.",6375000,2.2,Red Square Agency,Independent
+665,Dae Advertising,San Francisco,6360000,24.2,Dae Advertising,Independent
+666,Battery,"Hollywood, Calif.",6300000,425.0,Battery,Independent
+667,M/C/C,Dallas,6202000,1.7,M/C/C,Independent
+668,StudioNorth,"North Chicago, Ill.",6100000,10.9,StudioNorth,Independent
+669,Liquid Interactive,"Allentown, Pa.",6014000,21.2,Liquid Interactive,Independent
+670,Copacino & Fujikado,Seattle,6000000,5.7,Copacino & Fujikado,Independent
+671,Sprocket Media,"Pasadena, Calif.",6000000,-50.0,Sprocket Media,Independent
+672,Standard Time,Los Angeles,6000000,100.0,Standard Time,Independent
+673,Modern Climate,Minneapolis,6000000,-37.3,Modern Climate,Independent
+674,Luxe Collective Group,New York,6000000,20.0,Luxe Collective Group,Independent
+675,Cashman & Katz Integrated Communications,"Glastonbury, Conn.",5985000,2.0,Cashman & Katz Integrated Communications,Independent
+676,Shine United,"Madison, Wis.",5950000,4.4,Shine United,Independent
+677,Full Contact,Boston,5800000,16.0,Full Contact,Independent
+678,TDA Boulder,"Boulder, Colo.",5780000,18.4,TDA Boulder,Independent
+679,Chernoff Newman,"Columbia, S.C.",5757000,-1.1,Chernoff Newman,Independent
+680,Communications Strategy Group*,Denver,5757000,8.5,Communications Strategy Group,Independent
+681,Sockeye,"Portland, Ore.",5750000,5.6,Sockeye,Independent
+682,Mintz & Hoke,"Avon, Conn.",5735000,-6.5,Mintz & Hoke,Independent
+683,Public Communications,Chicago,5724000,-5.0,Public Communications,Independent
+684,Portent*,Seattle,5700000,0.0,Portent,Independent
+685,Imaginuity Interactive,Dallas,5700000,6.5,Imaginuity Interactive,Independent
+686,Spawn Ideas,"Anchorage, Alaska",5696000,-2.6,Spawn Ideas,Independent
+687,GRP Media,Chicago,5650000,7.6,GRP Media,Independent
+688,Centigrade,"Birmingham, Mich.",5650000,-34.3,Centigrade,Independent
+689,LRXD,Denver,5617000,26.2,LRXD,Independent
+690,Footsteps* [Omnicom],New York,5583000,-14.3,Footsteps ,Omnicom
+691,CooperKatz & Co.,New York,5581000,16.5,CooperKatz & Co.,Independent
+692,Renavatio Healthcare Communications,"Newtown, Pa.",5580000,-4.6,Renavatio Healthcare Communications,Independent
+693,L3 Advertising,New York,5500000,37.5,L3 Advertising,Independent
+694,Alinean*,"Winter Park, Fla.",5500000,-8.3,Alinean,Independent
+695,NFusion,"Austin, Texas",5465000,-25.0,NFusion,Independent
+696,Wexley School for Girls,Seattle,5429000,10.2,Wexley School for Girls,Independent
+697,Ink,"Irvine, Calif.",5333000,7.6,Ink,Independent
+698,BeCore,Los Angeles,5326000,36.6,BeCore,Independent
+699,Stephan & Brady,"Madison, Wis.",5309000,0.9,Stephan & Brady,Independent
+700,Extractable,San Francisco,5300000,29.4,Extractable,Independent
+701,2e Creative,St. Louis,5294000,50.0,2e Creative,Independent
+702,Entree Health Princeton* [Omnicom],"Princeton, N.J.",5244000,20.0,Entree Health Princeton ,Omnicom
+703,O2 Ideas,"Birmingham, Ala.",5225000,-59.5,O2 Ideas,Independent
+704,Mediasmith*,San Francisco,5215000,13.3,Mediasmith,Independent
+705,San Jose Group,Chicago,5201000,-8.6,San Jose Group,Independent
+706,Milici Valenti Ng Pack,Honolulu,5182000,-28.8,Milici Valenti Ng Pack,Independent
+707,ES Advertising,Los Angeles,5174000,-25.0,ES Advertising,Independent
+708,Allscope Direct,New York,5173000,48.1,Allscope Direct,Independent
+709,Firehouse,Dallas,5140000,9.6,Firehouse,Independent
+710,Love Communications*,Salt Lake City,5131000,-1.1,Love Communications,Independent
+711,Cheil Worldwide,New York,5086000,-11.9,Cheil Worldwide,Independent
+712,Two by Four,Chicago,5041000,-1.5,Two by Four,Independent
+713,We Are Social* [BlueFocus Communication Group],London,5011000,5.3,We Are Social ,BlueFocus Communication Group
+714,Brokaw,Cleveland,5008000,-12.0,Brokaw,Independent
+715,Bruce Clay,"Simi Valley, Calif.",5004000,-8.0,Bruce Clay,Independent
+716,Fame,Minneapolis,5000000,-9.1,Fame,Independent
+717,Latin3,"Hollywood, Fla.",5000000,0.0,Latin3,Independent
+718,Aventria Health Group*,"Doylestown, Pa.",5000000,,Aventria Health Group,Independent
+719,Maier Advertising,"Farmington, Conn.",5000000,0.0,Maier Advertising,Independent
+720,Quiet Light Communications*,"Rockford, Ill.",5000000,0.0,Quiet Light Communications,Independent
+721,Nomadic Agency,"Scottsdale, Ariz.",5000000,19.0,Nomadic Agency,Independent
+722,Magnani Continuum Marketing,Chicago,4950000,5.3,Magnani Continuum Marketing,Independent
+723,Small Army,Boston,4915000,14.3,Small Army,Independent
+724,CBD Marketing,Chicago,4900000,16.7,CBD Marketing,Independent
+725,OBI Creative,Omaha,4860000,-17.0,OBI Creative,Independent
+726,GdB (Gabriel deGrood Bendt),Minneapolis,4800000,20.0,GdB (Gabriel deGrood Bendt),Independent
+727,Richards/Carlberg,Houston,4800000,14.0,Richards/Carlberg,Independent
+728,AgencyQ,Washington,4785000,8.9,AgencyQ,Independent
+729,Linhart Public Relations,Denver,4725000,-1.9,Linhart Public Relations,Independent
+730,LatinMedios.com,"Aventura, Fla.",4664000,52.0,LatinMedios.com,Independent
+731,Baldwin&,"Raleigh, N.C.",4600000,2.2,Baldwin&,Independent
+732,RP3 Agency,"Bethesda, Md.",4600000,-14.8,RP3 Agency,Independent
+733,Hanapin Marketing,"Bloomington, Ind.",4599000,8.7,Hanapin Marketing,Independent
+734,RockOrange,Miami,4594000,3.7,RockOrange,Independent
+735,Pinta,"Miami Beach, Fla.",4550000,40.0,Pinta,Independent
+736,Oden,"Memphis, Tenn.",4514000,-7.2,Oden,Independent
+737,Bensimon Byrne,Toronto,4508000,47.3,Bensimon Byrne,Independent
+738,Fixation Marketing*,"Bethesda, Md.",4500000,20.0,Fixation Marketing,Independent
+739,L.C. Williams & Associates*,Chicago,4500000,-4.6,L.C. Williams & Associates,Independent
+740,Turkel Brands,Miami,4500000,-23.7,Turkel Brands,Independent
+741,Sandstorm Design,Chicago,4450000,4.7,Sandstorm Design,Independent
+742,BFO,Chicago,4448000,5.9,BFO,Independent
+743,Masterminds,Philadelphia,4418000,-14.1,Masterminds,Independent
+744,Moses,Phoenix,4375000,28.7,Moses,Independent
+745,SMM Advertising,"Smithtown, N.Y.",4358000,-3.0,SMM Advertising,Independent
+746,New & Improved Media*,"El Segundo, Calif.",4329000,14.7,New & Improved Media,Independent
+747,Catalyst Inc.,"Providence, R.I.",4310000,-13.2,Catalyst Inc.,Independent
+748,Mason*,"Bethany, Conn.",4222000,5.6,Mason,Independent
+749,Relevant24* [Publicis],Boston,4202000,2.4,Relevant24 ,Publicis
+750,Ergo Interactive,New York,4200000,40.0,Ergo Interactive,Independent
+751,BarrettSF,San Francisco,4200000,16.7,BarrettSF,Independent
+752,Symmetri Marketing Group,Chicago,4200000,10.1,Symmetri Marketing Group,Independent
+753,90octane,Denver,4186000,0.6,90octane,Independent
+754,ADK America [Asatsu-DK],New York,4172000,22.4,ADK America ,Asatsu-DK
+755,Trepoint,New York,4153000,-6.2,Trepoint,Independent
+756,Schermer,Minneapolis,4130000,-7.8,Schermer,Independent
+757,Go Local Interactive,"Overland Park, Kan.",4122000,30.6,Go Local Interactive,Independent
+758,Catalyst Marketing Co.,"Fresno, Calif.",4102000,5.9,Catalyst Marketing Co.,Independent
+759,AlPunto Advertising,"Tustin, Calif.",4100000,0.0,AlPunto Advertising,Independent
+760,Grok,New York,4100000,28.1,Grok,Independent
+761,Della Femina Advertising,New York,4100000,20.6,Della Femina Advertising,Independent
+762,"Tom, Dick & Harry Creative Co.",Chicago,4100000,2.2,"Tom, Dick & Harry Creative Co.",Independent
+763,Hirons & Co.,Indianapolis,4100000,-6.0,Hirons & Co.,Independent
+764,Escape Pod,Chicago,4100000,7.9,Escape Pod,Independent
+765,Joule* [WPP],London,4079000,4.0,Joule ,WPP
+766,Krause Advertising*,Dallas,4070000,2.8,Krause Advertising,Independent
+767,Mint Advertising,"Clinton, N.J.",4059000,0.0,Mint Advertising,Independent
+768,Weintraub Advertising,St. Louis,4000000,0.0,Weintraub Advertising,Independent
+769,GarrandPartners,"Portland, Maine",4000000,-5.1,GarrandPartners,Independent
+770,Spike DDB* [Omnicom],"Brooklyn, N.Y.",4000000,0.0,Spike DDB ,Omnicom
+771,Hoffman Agency,"San Jose, Calif.",4000000,-1.1,Hoffman Agency,Independent
+772,Gold N Fish Marketing Group,"Armonk, N.Y.",3960000,6.1,Gold N Fish Marketing Group,Independent
+773,JeffreyGroup,"Miami Beach, Fla.",3952000,25.6,JeffreyGroup,Independent
+774,DDW,San Francisco,3900000,50.0,DDW,Independent
+775,Civilian* [MDC Partners],Chicago,3896000,6.0,Civilian ,MDC Partners
+776,Trigger,Los Angeles,3800000,-15.6,Trigger,Independent
+777,Backe Digital Brand Marketing,"Radnor, Pa.",3766000,2.8,Backe Digital Brand Marketing,Independent
+778,Henson Consulting,Chicago,3709000,35.4,Henson Consulting,Independent
+779,Distillery Project,Chicago,3675000,13.4,Distillery Project,Independent
+780,Miller Brooks,"Zionsville, Ind.",3632000,-9.1,Miller Brooks,Independent
+781,Ready Set Rocket,New York,3618000,-9.8,Ready Set Rocket,Independent
+782,BrandingBusiness,"Irvine, Calif.",3606000,-3.3,BrandingBusiness,Independent
+783,EventNext,"Lake Orion, Mich.",3600000,33.3,EventNext,Independent
+784,Unique Influence* [MDC Partners],"Austin, Texas",3600000,50.0,Unique Influence ,MDC Partners
+785,Crossbow Group,"Westport, Conn.",3575000,4.4,Crossbow Group,Independent
+786,R/P Marketing Public Relations,"Holland, Ohio",3564000,-1.2,R/P Marketing Public Relations,Independent
+787,HMH,"Portland, Ore.",3508000,-19.2,HMH,Independent
+788,JumboShrimp,San Francisco,3500000,0.0,JumboShrimp,Independent
+789,Goldin Solutions*,New York,3500000,16.7,Goldin Solutions,Independent
+790,KZSW Advertising,"Setauket, N.Y.",3500000,6.1,KZSW Advertising,Independent
+791,Jones Advertising,Seattle,3500000,25.0,Jones Advertising,Independent
+792,Meers Advertising,"Kansas City, Mo.",3495000,18.6,Meers Advertising,Independent
+793,Tiziani Whitmyre,"Sharon, Mass.",3486000,1.8,Tiziani Whitmyre,Independent
+794,Coates Kokes,"Portland, Ore.",3475000,33.0,Coates Kokes,Independent
+795,Plan C Agency*,Los Angeles,3445000,0.0,Plan C Agency,Independent
+796,Richter7*,Salt Lake City,3429000,-14.3,Richter7,Independent
+797,Red House,"Alpharetta, Ga.",3400000,6.3,Red House,Independent
+798,Innis Maggiore Group,"Canton, Ohio",3398000,-12.4,Innis Maggiore Group,Independent
+799,Littlefield,"Tulsa, Okla.",3395000,-12.6,Littlefield,Independent
+800,Cerrell Associates,Los Angeles,3354000,19.2,Cerrell Associates,Independent
+801,BoomAgers*,New York,3330000,0.0,BoomAgers,Independent
+802,AdFarm,"Kansas City, Mo.",3315000,1.9,AdFarm,Independent
+803,Fraser Communications*,Los Angeles,3300000,-10.8,Fraser Communications,Independent
+804,Manifold,San Francisco,3300000,32.0,Manifold,Independent
+805,Walz Tetrick Advertising*,"Mission, Kan.",3280000,0.0,Walz Tetrick Advertising,Independent
+806,Hispanic Group,Miami,3242000,-1.3,Hispanic Group,Independent
+807,Matlock Advertising & Public Relations,Atlanta,3234000,9.0,Matlock Advertising & Public Relations,Independent
+808,BlackWing Creative,Seattle,3200000,-22.5,BlackWing Creative,Independent
+809,Grenadier*,"Boulder, Colo.",3200000,39.1,Grenadier,Independent
+810,M45 Marketing Services*,"Freeport, Ill.",3172000,2.1,M45 Marketing Services,Independent
+811,MDB Communications,Washington,3164000,-1.0,MDB Communications,Independent
+812,ER Marketing*,"Kansas City, Mo.",3100000,6.3,ER Marketing,Independent
+813,White Rhino Productions,"Lexington, Mass.",3050000,14.9,White Rhino Productions,Independent
+814,Grady Britton,"Portland, Ore.",3032000,17.8,Grady Britton,Independent
+815,Celtic Chicago,"Niles, Ill.",3002000,35.5,Celtic Chicago,Independent
+816,AY Digital,New York,3000000,-42.3,AY Digital,Independent
+817,Again Interactive,"Morristown, N.J.",2983000,-5.6,Again Interactive,Independent
+818,Davis Harrison Dion,Chicago,2976000,5.6,Davis Harrison Dion,Independent
+819,Sudden Impact Marketing,"Westerville, Ohio",2954000,-24.7,Sudden Impact Marketing,Independent
+820,Nemer Fieger*,Minneapolis,2934000,0.0,Nemer Fieger,Independent
+821,Trumpet,New Orleans,2855000,2.2,Trumpet,Independent
+822,Launch Agency,"Carrollton, Texas",2850000,9.6,Launch Agency,Independent
+823,Remerinc,Seattle,2833000,0.0,Remerinc,Independent
+824,Elemento L2,Chicago,2800000,-20.0,Elemento L2,Independent
+825,Science Project*,New York,2763000,25.0,Science Project,Independent
+826,Axial*,"Boulder, Colo.",2717000,11.3,Axial,Independent
+827,Glass Agency,"Sacramento, Calif.",2700000,3.8,Glass Agency,Independent
+828,Renegade,New York,2700000,3.8,Renegade,Independent
+829,Right Place Media,"Lexington, Ky.",2657000,28.3,Right Place Media,Independent
+830,Ventura Associates International,New York,2614000,3.7,Ventura Associates International,Independent
+831,Bigbuzz Marketing Group,New York,2609000,14.7,Bigbuzz Marketing Group,Independent
+832,Pepper Group,"Palatine, Ill.",2600000,4.0,Pepper Group,Independent
+833,Reality Rx Communication,"Somerset, N.J.",2600000,-7.1,Reality Rx Communication,Independent
+834,McKee Wallwork & Co.,"Albuquerque, N.M.",2598000,-7.3,McKee Wallwork & Co.,Independent
+835,Draft Agency,"Knoxville, Tenn.",2576000,64.4,Draft Agency,Independent
+836,Abbi Agency,"Reno, Nev.",2510000,38.9,Abbi Agency,Independent
+837,SMG (Shopper Marketing Group),"Porter Ranch, Calif.",2500000,25.0,SMG (Shopper Marketing Group),Independent
+838,COG1,San Francisco,2500000,66.7,COG1,Independent
+839,Reflex Group,New York,2500000,25.0,Reflex Group,Independent
+840,SullivanPerkins,Dallas,2500000,0.0,SullivanPerkins,Independent
+841,FRWD,Minneapolis,2500000,-28.6,FRWD,Independent
+842,TriComB2B,"Dayton, Ohio",2488000,-19.3,TriComB2B,Independent
+843,URI Global,"Torrance, Calif.",2473000,17.1,URI Global,Independent
+844,Princeton Partners,"Princeton, N.J.",2460000,0.4,Princeton Partners,Independent
+845,JMPR Public Relations,"Woodland Hills, Calif.",2451000,-3.5,JMPR Public Relations,Independent
+846,Walrus,New York,2400000,14.3,Walrus,Independent
+847,Hydrogen Advertising,Seattle,2379000,-20.7,Hydrogen Advertising,Independent
+848,Ohlmann Group,"Dayton, Ohio",2350000,20.4,Ohlmann Group,Independent
+849,Benedict Advertising & Marketing,"Daytona Beach, Fla.",2337000,17.3,Benedict Advertising & Marketing,Independent
+850,Borenstein Group,"Fairfax, Va.",2300000,9.5,Borenstein Group,Independent
+851,DGS Marketing Engineers,"Fishers, Ind.",2258000,-4.2,DGS Marketing Engineers,Independent
+852,Tag Strategies*,Philadelphia,2246000,0.0,Tag Strategies,Independent
+853,Object DC*,"Vienna, Va.",2239000,6.7,Object DC,Independent
+854,Morrow Media*,"Forest Hills, N.Y.",2220000,0.0,Morrow Media,Independent
+855,Cossette [BlueFocus Communication Group],"Quebec City, Quebec",2210000,72.1,Cossette ,BlueFocus Communication Group
+856,David James Group,"Oakbrook Terrace, Ill.",2200000,1.8,David James Group,Independent
+857,Inner Circle Labs*,San Francisco,2192000,9.3,Inner Circle Labs,Independent
+858,Truth & Advertising,"Santa Ana, Calif.",2192000,-4.0,Truth & Advertising,Independent
+859,Modern Marketing Partners,"Naperville, Ill.",2123000,3.8,Modern Marketing Partners,Independent
+860,TMI,New York,2022000,104.2,TMI,Independent
+861,Goda Advertising,"Inverness, Ill.",2000000,-33.3,Goda Advertising,Independent
+862,Young Co.,"Laguna Beach, Calif.",1939000,22.6,Young Co.,Independent
+863,Response Capture,"Portland, Ore.",1900000,35.7,Response Capture,Independent
+864,Tipton & Maglione,"Great Neck, N.Y.",1877000,3.9,Tipton & Maglione,Independent
+865,Greatest Common Factory*,"Austin, Texas",1825000,0.0,Greatest Common Factory,Independent
+866,Division of Labor,"Sausalito, Calif.",1750000,26.1,Division of Labor,Independent
+867,Holtzman Communications,New York,1750000,16.7,Holtzman Communications,Independent
+868,FortyTwoEightyNine,"Rockford, Ill.",1750000,-7.9,FortyTwoEightyNine,Independent
+869,Foster Marketing,"Lafayette, La.",1719000,-19.8,Foster Marketing,Independent
+870,Diaz & Cooper,"Coral Gables, Fla.",1700000,70.0,Diaz & Cooper,Independent
+871,Sacunas,"Harrisburg, Pa.",1683000,25.4,Sacunas,Independent
+872,Heinzeroth Marketing Group,"Rockford, Ill.",1675000,18.8,Heinzeroth Marketing Group,Independent
+873,FitzMartin,"Homewood, Ala.",1641000,-19.2,FitzMartin,Independent
+874,Oink Ink,Philadelphia,1600000,23.1,Oink Ink,Independent
+875,LP&M Advertising,"Syracuse, N.Y.",1573000,2.5,LP&M Advertising,Independent
+876,Vizion Interactive,"Irving, Texas",1549000,7.7,Vizion Interactive,Independent
+877,Boomm Marketing & Communications,"La Grange, Ill.",1530000,17.7,Boomm Marketing & Communications,Independent
+878,Pilgrim,Denver,1503000,-17.5,Pilgrim,Independent
+879,Forever Beta,"Brooklyn, N.Y.",1500000,200.0,Forever Beta,Independent
+880,Jess3,"Sterling, Va.",1500000,-28.6,Jess3,Independent
+881,Antarctic,New York,1500000,25.0,Antarctic,Independent
+882,John Doe,New York,1475000,48.0,John Doe,Independent
+883,Construction Marketing Advisors,"Naperville, Ill.",1469000,6.9,Construction Marketing Advisors,Independent
+884,Simon Group,"Sellersville, Pa.",1466000,-8.6,Simon Group,Independent
+885,TotalCom,"Tuscaloosa, Ala.",1452000,-4.8,TotalCom,Independent
+886,Villing & Co.*,"South Bend, Ind.",1436000,0.0,Villing & Co.,Independent
+887,Red7e,"Louisville, Ky.",1333000,-0.5,Red7e,Independent
+888,Beyond Total Branding,Miami,1260000,0.0,Beyond Total Branding,Independent
+889,MLT Creative,"Clarkston, Ga.",1250000,-16.7,MLT Creative,Independent
+890,ENA Marketing Communications,"Shrewsbury, N.J.",1200000,-33.3,ENA Marketing Communications,Independent
+891,Fancy Rhino,"Chattanooga, Tenn.",1170000,-15.4,Fancy Rhino,Independent
+892,Winsper,Boston,1100000,-63.3,Winsper,Independent
+893,J-U Carter*,"San Clemente, Calif.",1100000,0.0,J-U Carter,Independent
+894,Sonnhalter,Cleveland,1088000,3.6,Sonnhalter,Independent
+895,Freebairn & Co.,Atlanta,1050000,-19.2,Freebairn & Co.,Independent
+896,Huntsinger & Jeffer,"Richmond, Va.",1049000,-17.7,Huntsinger & Jeffer,Independent
+897,White Good,"Lancaster, Pa.",1027000,-6.7,White Good,Independent
+898,Catalyst Marketing Communications,"Stamford, Conn.",1006000,-3.1,Catalyst Marketing Communications,Independent
+899,Tzeffrey & Tzanetos,"San Anselmo, Calif.",1000000,0.0,Tzeffrey & Tzanetos,Independent
+900,BSY Associates,"Holmdel, N.J.",1000000,0.0,BSY Associates,Independent
+901,Hakuhodo* [Hakuhodo DY Holdings],Tokyo,1000000,,Hakuhodo ,Hakuhodo DY Holdings
+902,Glyphix,"West Hills, Calif.",1000000,11.1,Glyphix,Independent
+903,Munn Rabot,New York,964000,-11.9,Munn Rabot,Independent
+904,Mandala,"Bend, Ore.",908000,-4.4,Mandala,Independent
+905,Fusion B2B,"Aurora, Ill.",865000,-17.1,Fusion B2B,Independent
+906,Media Pros of WNY*,"Orchard Park, N.Y.",853000,0.0,Media Pros of WNY,Independent
+907,Mighty Fudge Studios,"Boulder, Colo.",761000,30.1,Mighty Fudge Studios,Independent
+908,Oster & Associates,San Diego,585000,-3.9,Oster & Associates,Independent
+909,TSA Communications,"Warsaw, Ind.",510000,2.2,TSA Communications,Independent
+910,LP&G,"Tucson, Ariz.",495000,-2.3,LP&G,Independent
+911,GoDiversity,New York,450000,80.0,GoDiversity,Independent
+912,Hudson Media Services,"West Orange, N.J.",375000,5.6,Hudson Media Services,Independent
+913,Graphicmachine,"Kansas City, Mo.",333000,7.6,Graphicmachine,Independent
+914,Griff/SMC Medical Marketing Communications,"Boulder, Colo.",104000,38.8,Griff/SMC Medical Marketing Communications,Independent
