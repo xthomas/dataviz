@@ -1,0 +1,5 @@
+# Ignore the private key (public Git Hub)
+client_secret.json
+
+# Ignore Ipython Checkpoints
+.ipynb_*
